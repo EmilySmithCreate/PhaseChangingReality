@@ -88,9 +88,9 @@ particles near a GeV after the burp; about 5.4 stores per baryon for Planck's 5.
 **The gravity counter, answered 6 November, night:** it is the work of the drift, accrued as the like-handed
 pieces approach and locked at the join as the store's mass; the flat price per join is the stand-in until the
 drift is built. **The crossing term:** published forms exist (the reading note of 6 November; Kaluza-Klein's mass
-term first); it will be written as a choice in the brief, defaults ours, for you to accept. One sign is yours in
-the drift brief: whether the bond's energy rises with separation ('t Hooft's form, the pull) or as the halves
-approach (stored repulsion, locked by the loop closing); both can hold for one store.
+term first); it will be written as a choice in the brief, defaults ours, for you to accept. The sign is settled (6 November, night): gravity's pull is negative and, on the sheet, logarithmic; the
+like-twist repulsion stored is positive and is the store's extra mass, locked by the loop closing; 't Hooft's
+linear form is withdrawn from the drift.
 
 **Unblocks.** T106's registration; the store's mass in MeV; the drift build's energy bookkeeping.
 

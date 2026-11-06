@@ -1796,3 +1796,16 @@ she borrowed from 't Hooft but from gravity itself on the sheet, so the linear f
 rule. Proposed for the drift brief, hers to accept: the pull is gravity's (negative, logarithmic on the sheet), the
 push the like-twist repulsion near contact (positive), the store locked on the repulsive side by the loop closing,
 its extra mass the repulsion stored.
+
+## 6 November 2026, night: the sign accepted; which owed items the two slabs and the taper are (hers, verbatim, chat)
+
+"Gravity's account ends up negative, the store's ends up positive, and the books balance through the infalling
+energy -> thanks for explaining, makes sense.
+
+ the two slabs against one doughnut; the taper. what numbers are these in the owed doc?"
+
+Ours, the same night. Her "makes sense" is read as acceptance of the force form proposed in the drift brief (the
+pull gravity's, negative and logarithmic on the sheet; the push the like-twist repulsion; the store locked by the
+loop closing; 't Hooft's linear form withdrawn from the drift): choices 1 and 3 of the drift brief are set. Both
+questions she asks about are item 1 of `docs/OWED.md`, the first because step 1's wording and the twins' home wait
+on it.
