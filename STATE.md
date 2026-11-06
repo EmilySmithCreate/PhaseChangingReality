@@ -43,14 +43,19 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
 1. **The two points left open inside steps 1, 2, 3 and 8** (the rewording itself she confirmed on 6 Nov, night):
    the two slabs of opposite hand against one doughnut (the two halves of the doughnut is our reading), and the
    taper of 5 November.
-2. **Her words for T108** (her size ratio against length; the toy reads 0.021 to 0.009 at 32 to 128) and **T109**
-   (the outside foot's growth against the inside's, replacing T107's criterion that scaled with the band).
+2. **Her words for T108** (her size ratio against length; the toy reads 0.021 to 0.009 at 32 to 128; a number or
+   a range for the held-out 256) and **T109** (the outside foot's gain from 200 to 500 sweeps after the escape
+   against the inside's, above one half at every length, or her own form). These two run on today's code and need
+   nothing else.
 3. **The twist energies: the last choices.** Choice 3 decided 6 Nov (a store is one loop over two diagonals, n = 2,
    L = 2√2; exact: under the rod form the store is exactly two dark particles and all its extra is the bond).
    Sigma decided 6 Nov, night: a store weighs about a proton (the proton's 5,508 diagonals' worth of bond), so
    sigma is about 332 MeV per link, exact arithmetic from the count unit and the proton's mass; the proton is the
-   calibration, not a prediction. Still owed: the term for the crossing from three dimensions to two; whether the
-   gravity counter becomes the store's mass now; then her T106 prediction. Build owed on our side: the store keeps
+   calibration, not a prediction. The gravity counter answered 6 Nov, night: it is the work of the drift, accrued during the approach and
+   locked at the join as the store's mass (the flat price per join is the stand-in until the drift is built). The
+   crossing term has published forms (the reading note of 6 Nov: Kaluza-Klein's mass term first); to be written
+   as a choice in the brief, ours, hers to accept. Her T106 prediction is owed only once the two-number build
+   exists. Build owed on our side: the store keeps
    both diagonals in the moves (held rises by two per join).
 4. **Option B for the clock, or none**: a point's tick tied to its link lengths would put the time half in by hand.
 5. ~~The "face gluon"~~ Decided 6 Nov, night: twist is its own number again (reversing 4 Nov), so opposite halves

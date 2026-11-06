@@ -33,6 +33,8 @@ coil) and 6 November, late night (the shapes); `sandbox/drawings/2026-11-06_rod_
 
 ## 2. Your words for T108 (the size of the surplus against length) and T109 (growth, not size)
 
+*These two are the only runs that wait on you alone: they use today's code and start the moment your words are in.*
+
 **The question.** T107 is read. Two tests follow from it and each needs your prediction in your words before it
 runs. T108: does your ratio (red − blue)/(red + blue + all stored energy) fall with the daughter's length, and
 toward what? T109: does the outside foot grow more than the inside foot between 200 and 500 sweeps after the
@@ -83,8 +85,12 @@ different flat baselines (two squares per link against four).
 diagonals that is about 332 MeV per link. The proton is the calibration; the predictions are downstream (dark
 particles near a GeV after the burp; about 5.4 stores per baryon for Planck's 5.36 by mass).
 
-**Still open:** the form of the crossing term from three dimensions to two; whether the gravity counter becomes
-the store's mass now or after the drift.
+**The gravity counter, answered 6 November, night:** it is the work of the drift, accrued as the like-handed
+pieces approach and locked at the join as the store's mass; the flat price per join is the stand-in until the
+drift is built. **The crossing term:** published forms exist (the reading note of 6 November; Kaluza-Klein's mass
+term first); it will be written as a choice in the brief, defaults ours, for you to accept. One sign is yours in
+the drift brief: whether the bond's energy rises with separation ('t Hooft's form, the pull) or as the halves
+approach (stored repulsion, locked by the loop closing); both can hold for one store.
 
 **Unblocks.** T106's registration; the store's mass in MeV; the drift build's energy bookkeeping.
 

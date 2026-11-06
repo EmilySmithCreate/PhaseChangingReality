@@ -1682,3 +1682,55 @@ diagonals: a store holds the proton's worth of bond, so sigma is about 332 MeV p
 count unit and the proton's mass; the brief has the numbers). The proton is the calibration, so a store's mass is
 not a prediction; downstream, dark particles near a GeV after the burp and about 5.4 stores per baryon for Planck's
 5.36 by mass are targets. The brief's sigma choice is closed.
+
+## 6 November 2026, night: what is needed to kick off the next run; the crossing term; the gravity counter as the drift's work (hers, verbatim, chat)
+
+"for the things needed to kick off the next test or run, what do you eed from me? T106 complete and ready?
+
+ the crossing term from three dimensions to two - is there any available physics math research that explores this?
+
+whether the gravity counter becomes the store's mass now or after the drift -> i am not sure what this means
+exactly, but the gravity counter is going as the antimatter particles move toward eachother and center in 2d and
+stops when movement stops and twist curl klein bottle is set and bond is as tight as it can get ie 1 loop. probably
+the twists compact on each loop and a flatter, twistier part of the loop forms on the outside, closer to
+antiparticles then the flat parts of the loops touch and then colapse into one loop holding a full twist and the
+bond energy it took to get the 2 right handed one sided half loops so close together."
+
+Ours, the same night (rule 21).
+
+**What is needed from her to kick off a run.** T108 and T109 run on today's code (T107's runner) and need only her
+words: for T108 her number, or a range, for her ratio at the held-out length 256 (the fitting lengths 32 to 128
+read 0.021 to 0.0088); for T109 her prediction that the outside foot's gain from 200 to 500 sweeps after the
+escape exceeds the inside's in more than half of replicas at every length, or her own form. **T106 is not built:**
+the opened tube six around has no constructor in this repository (its end states are in the archive's results),
+and her two decisions of tonight (twist its own number again; a store over two diagonals) change the moves it
+would run, so T106 waits on the two-number build, which waits on the design brief (ours, first in the next list);
+her prediction for it is owed then, not now. The drift waits on the four-link lengths (ours). Nothing needs the
+crossing term to run; it is for the map to MeV.
+
+**The crossing term: found in published mathematics** (`docs/reading/notes/2026-11-06_crossing_three_to_two_dimensions.md`,
+general knowledge, to verify at the source within the week). Nearest: Kaluza-Klein reduction, the standard
+mathematics of a curled direction, in which motion round the curled direction appears in the lower dimension as a
+mass term set by the circle's size; also 't Hooft's dimensional reduction and the area law (a volume's count on its
+surface), the spectral dimension running to two at small scales (Ambjorn, Jurkiewicz and Loll; Carlip's review),
+and the Casimir energy of a curled direction. The toy's own exact version: the flat baselines differ (two squares
+per link on the sheet, four in the cube). The form to borrow is Kaluza-Klein's: the crossing term is a mass. To be
+written as a choice in the twist-energies brief, defaults ours, hers to accept.
+
+**The gravity counter: answered.** Her words say the counter runs during the approach, as the like-handed pieces
+move toward each other and the centre in two dimensions, and stops when movement stops and the two halves have
+collapsed into one loop holding a full twist; the energy it then holds is "the bond energy it took to get the two
+right-handed one-sided half loops so close together". So the counter is the work of the drift, accrued during the
+approach and locked at the join as the store's mass: *after the drift*, in the question's words, and in the present
+build (no drift yet) the flat price per join is a stand-in for that work. Her mechanism of the approach (the twists
+compacting on each loop, a flatter and twistier part forming on the outside nearer the other particle, the flat
+parts touching, the collapse into one loop) goes to the drift brief as her words on choices 2 and 3.
+
+**One sign to settle, theory's structure, hers.** 't Hooft's form, adopted this evening, has the bond's energy
+*rising with separation*: the halves are lowest in energy together and cost more to pull apart, which is what
+keeps them from coming free. Her words tonight have the energy *rising as they come together*: work done against
+the repulsion of like hands, stored, then locked by the loop closing (the compressed-spring, isomer shape; the
+DNA note's K_0 repulsion). Both can be true of one store, a stored repulsion inside a closed loop that cannot open,
+but they are two forms: the first sets the pull during the drift, the second sets what the store holds. The
+proton calibrates the total either way (sigma is the total over the store's length); the form matters for the
+drift's forces and is a choice in the drift brief.
