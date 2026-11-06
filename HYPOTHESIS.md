@@ -33,9 +33,11 @@ the same handedness, wound into a closed two-dimensional sheet of squares. A clo
 links at every point is a torus, never a sphere (exact), so the slab is a doughnut. Through the doughnut's hole
 runs the rod, three-dimensional, where dark matter still moves, spiralling in from all sides as one continuous
 line, the two hands turning opposite ways. In the doughnut twist and curl are set and only dark matter and
-gravity move; matter and photons cannot get through it. *Open, hers:* whether the two slabs of opposite hand of
-the earlier wording are the two halves of this one doughnut; and whether the taper seen in her drawing of
-5 November stands.
+gravity move; matter and photons cannot get through it. The whirlpool region outside the doughnut tapers: its stacked rings get smaller
+toward the doughnut and the tapering finishes there, the funnel feeding the doughnut at its tip (decided
+6 November, night; the doughnut itself has no taper). *Open, hers:* whether the two slabs of opposite hand of
+the earlier wording are the two halves of this one doughnut, split by the plane through its middle (our
+reading); and whether there is one funnel or two, one per hand from opposite poles.
 
 The rod is not a thing at the centre of the slab; it is the hole's axis. The centre of the black hole is the set
 of Klein stores sitting together on the doughnut's inner rim, where the spiralling dark matter can no longer move,

@@ -22,9 +22,12 @@ The toy's tube is that doughnut unrolled; it has no taper and no hands in its wi
 curl state on the squares, so "two halves, one hand each" is a rule for where the state's sign starts, not a
 change to the wiring.
 
-**Options.** (a) The two halves of one doughnut, one hand each (our reading; it keeps the twins). (b) Two separate
-doughnuts of opposite hand, side by side. (c) One doughnut with both hands mixed, the twins sorted some other way.
-Taper: (i) withdrawn; (ii) the doughnut is the coil seen end-on; (iii) the doughnut is thicker at one side.
+**Options.** (a) The two halves of one doughnut, one hand each, split by the flat plane through its middle (our
+reading; it keeps the twins and gives the rod its two poles; panel 5 of the drawing). (b) Two separate doughnuts
+of opposite hand, side by side. (c) One doughnut with both hands mixed, the twins sorted some other way.
+**The taper, decided 6 November, night:** it belongs to the whirlpool region outside the doughnut, the stacked
+rings narrowing toward the doughnut and the tapering finishing there. Still open: one funnel, as her sentence
+reads, or two, one per hand from opposite poles, meeting at the doughnut.
 
 **Unblocks.** The wording of step 1; where the second foot's twin sits in T108 and T109; the drift's geometry.
 

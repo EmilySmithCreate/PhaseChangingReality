@@ -1820,3 +1820,14 @@ are then her two poles of 5 November, each hand's whirlpool spiralling in from i
 counterclockwise from the other); the two curled slabs of the earlier step 1 are the two halves; the twins one
 from each. The other cut, a plane containing the rod (two C-halves), gives no poles on the rod and fits her words
 less well. Drawn as panel 5 of `sandbox/drawings/2026-11-06_rod_arrangements.html`. Ours, inferred; hers to accept.
+
+## 6 November 2026, night: the taper (hers, verbatim, chat)
+
+"stacked rings getting smaller toward one end and taper toward the dougnnut and finish tapering at the doughnut"
+
+Ours, the same night. Decided by her: the taper stands and belongs to the whirlpool region outside the doughnut,
+not to the doughnut: the stacked rings (her whiteboard coil of 5 November, the tp-roll cone) narrow toward the
+doughnut and the tapering finishes at it, the funnel feeding the doughnut at its tip. Consistent with the exact
+fact that the doughnut has no taper. Open, asked: one funnel from one end, as her sentence reads, or two, one per
+hand from opposite poles, meeting at the doughnut as at an hourglass's waist, as the mirror-plane reading would
+give. HYPOTHESIS step 1's open marker on the taper is replaced by this.
