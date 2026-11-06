@@ -1809,3 +1809,14 @@ pull gravity's, negative and logarithmic on the sheet; the push the like-twist r
 loop closing; 't Hooft's linear form withdrawn from the drift): choices 1 and 3 of the drift brief are set. Both
 questions she asks about are item 1 of `docs/OWED.md`, the first because step 1's wording and the twins' home wait
 on it.
+
+## 6 November 2026, night: "explain splitting on the mirror plane?" (hers, verbatim, chat)
+
+Ours, the same night (rule 21). The plane is the flat one at the doughnut's half height, at right angles to the
+rod, cutting it at its midpoint into a top ring and a bottom ring. A mirror on that plane turns the top half into
+the bottom half (a doughnut is symmetric top to bottom) and a right-handed twist into a left-handed one, so with
+one hand per half the doughnut is its own mirror image with the hands swapped: neutral overall. The rod's two ends
+are then her two poles of 5 November, each hand's whirlpool spiralling in from its own side (clockwise from one,
+counterclockwise from the other); the two curled slabs of the earlier step 1 are the two halves; the twins one
+from each. The other cut, a plane containing the rod (two C-halves), gives no poles on the rod and fits her words
+less well. Drawn as panel 5 of `sandbox/drawings/2026-11-06_rod_arrangements.html`. Ours, inferred; hers to accept.
