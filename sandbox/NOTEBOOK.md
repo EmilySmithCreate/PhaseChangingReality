@@ -1831,3 +1831,20 @@ doughnut and the tapering finishes at it, the funnel feeding the doughnut at its
 fact that the doughnut has no taper. Open, asked: one funnel from one end, as her sentence reads, or two, one per
 hand from opposite poles, meeting at the doughnut as at an hourglass's waist, as the mirror-plane reading would
 give. HYPOTHESIS step 1's open marker on the taper is replaced by this.
+
+## 6 November 2026, night: the two halves accepted as the working form, with her rows (hers, verbatim, chat)
+
+"it seems reasonable but I am imagining dark matter coming in from the top and bottom boles comes in both
+handednesses. more on one side of the equator but not all one handed on top and other handed on bottom. I was
+thinking the types would sortof arrange in rows. that said, this pictre is much more simple so if it is feasible
+we shoud use it"
+
+Ours, the same night. Decided by her, with her nuance kept: dark matter comes in from both poles (two funnels),
+both hands at each; the top half of the doughnut holds a majority of one hand and the bottom half of the other,
+not purity, the hands arranged in rows; the two curled slabs of the earlier step 1 are these two halves; the twins
+one from each. Ours: under her own rule that like twists repel wherever there is movement, alternation in rows is
+the natural outcome and a pure split would be surprising; the majority per half comes only from the bias of which
+hand spirals in from which pole. Feasible in the toy: the tube's four points round are the doughnut's four sides
+(top, outer, bottom, inner), so the pole bias is a placing rule by row, of the kind the kind rule already is
+(T107); a test of the majority per half and the alternation along rows can be registered once the drift exists,
+her prediction first. HYPOTHESIS step 1's open markers are closed; OWED item 1 is decided.

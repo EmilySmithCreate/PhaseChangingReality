@@ -35,9 +35,11 @@ runs the rod, three-dimensional, where dark matter still moves, spiralling in fr
 line, the two hands turning opposite ways. In the doughnut twist and curl are set and only dark matter and
 gravity move; matter and photons cannot get through it. The whirlpool region outside the doughnut tapers: its stacked rings get smaller
 toward the doughnut and the tapering finishes there, the funnel feeding the doughnut at its tip (decided
-6 November, night; the doughnut itself has no taper). *Open, hers:* whether the two slabs of opposite hand of
-the earlier wording are the two halves of this one doughnut, split by the plane through its middle (our
-reading); and whether there is one funnel or two, one per hand from opposite poles.
+6 November, night; the doughnut itself has no taper). Dark matter comes in from both poles, two funnels, both
+hands at each; the top half of the doughnut holds a majority of one hand and the bottom half of the other, not
+purity, the hands arranged in rows; the two curled slabs of the earlier wording are these two halves, and the
+twin daughters come one from each (decided 6 November, night; the simple form adopted as feasible, her rows kept
+as what the toy is expected to show inside it).
 
 The rod is not a thing at the centre of the slab; it is the hole's axis. The centre of the black hole is the set
 of Klein stores sitting together on the doughnut's inner rim, where the spiralling dark matter can no longer move,

@@ -5,7 +5,15 @@ options with our plainest default, what an answer unblocks, and where the full r
 the most. The list is kept in step with `STATE.md` ("Owed by the owner"); when an item is decided it moves to
 `HYPOTHESIS.md` and leaves this page. Everything marked *ours* is a stand-in or a reading, never her claim.
 
-## 1. Two slabs of opposite hand, or one doughnut? And does the taper stand?
+## 1. Decided 6 November, night: the two halves of one doughnut, a majority of one hand each in rows; the taper is the funnels'
+
+Two funnels, one at each pole, both hands in each; the top half of the doughnut mostly one hand, the bottom half
+mostly the other, arranged in rows, not pure; the two slabs are these halves and the twins come one from each.
+The stacked rings taper toward the doughnut and finish there. Nothing is owed by you here now; a test of the
+majority per half and the alternation in rows is ours to register once the drift exists, with your prediction
+first. The question as it was asked is kept below.
+
+### The question as it was asked
 
 **The question.** Step 1 of the claim once said X is "a rod between two curled slabs, one curled right-handed and
 one left-handed". On 6 November you decided the slab is a doughnut of squares with the rod through its hole. Are

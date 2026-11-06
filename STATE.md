@@ -40,10 +40,9 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
 
 ## Owed by the owner, in the order they unblock work
 
-1. **The two points left open inside steps 1, 2, 3 and 8** (the rewording itself she confirmed on 6 Nov, night):
-   the two slabs of opposite hand against one doughnut (the two halves of the doughnut, split by the plane
-   through its middle, is our reading; drawn), and, the taper now decided as the whirlpool's shape ending at the
-   doughnut, whether there is one funnel or two.
+1. ~~The two points left open inside step 1~~ Decided 6 Nov, night: the two slabs are the top and bottom halves of
+   the one doughnut, each a majority of one hand in rows, fed by two funnels that taper to the doughnut; the twins
+   one from each. A test of the majority per half and the rows waits on the drift, her prediction first.
 2. **Her words for T108** (her size ratio against length; the toy reads 0.021 to 0.009 at 32 to 128; a number or
    a range for the held-out 256) and **T109** (the outside foot's gain from 200 to 500 sweeps after the escape
    against the inside's, above one half at every length, or her own form). These two run on today's code and need
