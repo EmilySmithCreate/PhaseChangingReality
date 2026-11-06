@@ -1682,3 +1682,67 @@ diagonals: a store holds the proton's worth of bond, so sigma is about 332 MeV p
 count unit and the proton's mass; the brief has the numbers). The proton is the calibration, so a store's mass is
 not a prediction; downstream, dark particles near a GeV after the burp and about 5.4 stores per baryon for Planck's
 5.36 by mass are targets. The brief's sigma choice is closed.
+
+## 6 November 2026: the burp as a startup from zero; X as a driven crystal; the inner horizon as its pump (Ashley, verbatim, chat with Claude)
+
+"When someone starts a piece of software or a digital device, or perhaps the first spark of electricity through a
+power line, or the first time power is run to a light bulb. Anytime these first happen, where there is nothing
+before and then something that generates either energy or heat, what does that look like? What is that process?
+Does it have any sort of organized beginning?"
+
+"Why would the beginning of the universe be any different than the beginning of the computer starting or the
+electrical device beginning or the bulb or the wire? Why does it have to be more complicated or different? Why
+can't it be the same?"
+
+"let's strip that away. And look at its basic principles, which is when something begins from nothing, there is a
+general organized state that it goes through."
+
+"if we know how some magical devices begin from nothing, I think extrapolating that out is the most rational
+answer. Creating something completely different doesn't seem to make much sense."
+
+"it is a little bit like a crystal vibrating until it pops"
+
+"Can the crystal be X? Almost like that second event horizon inside a black hole creates the crystal, which is X."
+
+Ours, the same day. Every startup from zero she named goes through the same organized sequence (general
+knowledge, to verify): stored potential, a threshold, a short violent burst (a cold bulb draws about ten times its
+running current for a moment, the "inrush"), a locking-in where one small irregularity is amplified out of noise,
+and then a steady state. A computer's quartz crystal starts from nothing but electrical noise; its circuit
+amplifies the part matching the crystal's own frequency until it locks into a clean rhythm, and then the processor
+runs its first instruction from one fixed address (the bootstrap). Her proposal is that the burp is one more
+startup of this kind, and that this lens asks how the loop works mechanically (trigger, energy source, reset)
+rather than why it evolves.
+
+The picture that follows from it: X behaves like a computer's quartz crystal at power-on. Noise inside it is
+amplified by a steady push until it reaches a breaking point, and that is the burp; it rings down and resets.
+The push comes from the inner horizon that spinning and charged black holes have, where infalling energy piles up
+and grows ("mass inflation", Poisson and Israel 1990; general knowledge, to verify). That pump does not need dark
+energy, which in step 6 is the energy of empty space and not a drive.
+
+What checks out: stored energy, a threshold and a sudden total release are the burp as already measured (T6 to
+T13). What does not, as written: step 1 and the plain-English page say nothing moves inside X, while a crystal
+hums. This is a real fork, and the choice is hers. Not a withdrawn idea, as far as we read: T15 rung 0b (a closed
+loop as a resonator *inside the sheet*) dissolved, and that is a caution, not the same claim.
+
+The difference that can be tested is the timing of burps. A still X that waits with no memory (T7, T58, T59)
+gives random gaps between burps. A driven crystal gives a rhythm. Prediction written before the first look:
+crystal, spread of the gaps (CV) well under 1; memoryless, near 1.
+
+Three sandbox looks on a spring stand-in, not on the toy (`crystal_vs_popcorn_large.py`, `ramp_popcorn.py`;
+200 seeds x 100 burps each):
+
+| Version | CV of gaps |
+| --- | --- |
+| Still X, memoryless (as the toy now) | 0.98 |
+| Crystal, steady push | 0.03 |
+| Crystal, 5x the noise | 0.09 |
+| Crystal, push wandering (black hole eats unevenly) | 0.23 |
+| Crystal, push rising at the inner horizon | 0.02 |
+| Still X, no crystal, push rising the longer it waits | 0.40 to 0.64 |
+
+The last row matters: a rising push alone makes the gaps somewhat regular, so "some rhythm" does not by itself
+mean a crystal. Only a strong rhythm (CV under about 0.25 here) separated the crystal from a still X with a rising
+push. A look can kill but not crown.
+
+Questions for Emily: does X hum, or is it still until it gives way? If it hums, what inside it keeps time? Is the
+inner horizon the place in her picture where the stores fill?
