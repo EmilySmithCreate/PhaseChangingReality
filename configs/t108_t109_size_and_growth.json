@@ -1,0 +1,16 @@
+{
+  "name": "t108_t109_size_and_growth",
+  "_purpose": "T108 and T109 (PREREGISTRATION.md, registered 6 November 2026, night, before this ran; her predictions marked inferred until she confirms them on 9 November): the size of the surplus against length (T108) and the outside foot's growth against the inside's (T109), on the loose-band tube of T107 at the fitting lengths 32, 48, 64 and 128 with fresh seeds. The held-out length 256 runs from configs/t108_t109_size_and_growth_heldout.json only after the numbers for it are written from these four (rule 14). Same runner as T107.",
+  "lengths": [32, 48, 64, 128],
+  "replicas": 20,
+  "k": 4,
+  "lambda": 1.25,
+  "g": 1.5,
+  "block": 10,
+  "min_size": 8,
+  "max_sweeps": 20000,
+  "after": [0, 50, 200, 500],
+  "barrier": 12,
+  "max_pair_sweeps": 10000,
+  "seed": 20261109
+}

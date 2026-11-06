@@ -220,3 +220,38 @@ sign set by the first pair across the boundary, at every length; the outside foo
 within the remnant. What it does not show: that the outside foot is *larger* than the inside at any fixed time (it
 is not, once the remnant is big), the size of the surplus (one in fifty to one in a hundred here, falling with
 length, against her one in a billion), or anything about the sky.
+
+## T108 and T109. The size of the surplus against length, and growth rather than size (registered 6 November 2026, night, before the run; her predictions *inferred*, hers to confirm on 9 November)
+
+**Why two tests from one run.** T107's reading (6 November): her kind rule sets the sign of the surplus at every
+length, and "the outside foot larger than the inside at a fixed time" failed at the held-out length because that
+criterion scales with the band. Rule 11: previous claim (larger at a fixed time) → failed because the inside foot's
+size is set by the band, which grows with L, while the outside foot grows per sweep → replacement (growth, T109) →
+this test. And her formula for the surplus, (red − blue)/(red + blue + all stored energy), about one in a billion,
+is testable in the toy only as a trend with length (T108). One run serves both: T107's runner and cell, fresh seeds,
+lengths **32, 48, 64, 128**, twenty replicas each, **256 held out** (`configs/t108_t109_size_and_growth.json`,
+`_heldout.json`; `scripts/run_t107_boundary_feet.py`; the reader `scripts/analyse_t108_t109.py`). The band, the
+escape, the feet and the kind rule exactly as in T107. She asked on 6 November, night, that the work go on
+overnight and the words wait for Monday, so the predictions below are ours, inferred from her positions and marked
+so; she confirms, corrects or replaces them on 9 November, and a changed word is scored as changed only if it is
+written before the held-out run is read.
+
+**T108, the size.** Read: per length, the median of |net twist outside| over (curl left on squares + held in
+stores), her ratio, under her kind rule among replicas with a straddling pair. **Her prediction (inferred):** the
+ratio falls with length; the form of her 5 November answer, the boundary row's share (T97's 1/R), gives ratio = a / L.
+Scored on the fitting lengths as **FALLS** (every length's median below the one before) / **NOT MONOTONE**; the
+fit a / L on the four fitting lengths with its exponent reported; the **held-out 256**, written here from the four
+before it runs: the median within a factor of 1.5 of a / 256, and the exponent's sign. Ours, said so it can fail:
+from T107's 0.021, 0.013, 0.010, 0.0088 the fall is slower than 1/L between 64 and 128 (exponent about −0.5 there),
+so the fit may read an exponent between −1 and −0.5 and the held-out point may sit above a / 256; her one in a
+billion is a limit, not a number this test reaches.
+
+**T109, growth.** Read: per length, the share of replicas in which the outside foot's gain from 200 to 500 sweeps
+after the escape exceeds the inside foot's gain. **Her prediction (inferred from "the outside foot grows and the
+inside foot stops"):** above one half at every length: **HOLDS** / **FAILS**; the **held-out 256** number written
+from the four fitting lengths before it runs (the mean of the four, plus or minus 0.15). Ours: from T107's read
+values 0.80, 0.90, 0.85, 0.70 the share at 256 is near 0.65 and may fall below the range if the outside foot's
+growth slows with length as it did between 64 and 128 (median gain +8 then +3).
+
+**The held-out numbers** (to be written from the fitting lengths before 256 runs; nothing above changes after
+this line).

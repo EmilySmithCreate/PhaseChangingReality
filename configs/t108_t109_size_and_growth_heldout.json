@@ -1,0 +1,16 @@
+{
+  "name": "t108_t109_size_and_growth_heldout",
+  "_purpose": "T108 and T109's held-out length (PREREGISTRATION.md, rule 14): L = 256, run only after the numbers for it have been written into the registration from the fitting lengths 32 to 128 (configs/t108_t109_size_and_growth.json). Same cell, same k, fresh seed.",
+  "lengths": [256],
+  "replicas": 20,
+  "k": 4,
+  "lambda": 1.25,
+  "g": 1.5,
+  "block": 10,
+  "min_size": 8,
+  "max_sweeps": 20000,
+  "after": [0, 50, 200, 500],
+  "barrier": 12,
+  "max_pair_sweeps": 10000,
+  "seed": 20261110
+}
