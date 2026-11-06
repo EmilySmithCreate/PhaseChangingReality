@@ -44,7 +44,11 @@ coil) and 6 November, late night (the shapes); `sandbox/drawings/2026-11-06_rod_
 
 ## 2. Your words for T108 (the size of the surplus against length) and T109 (growth, not size)
 
-*These two are the only runs that wait on you alone: they use today's code and start the moment your words are in.*
+*Overnight 6 to 7 November both ran on predictions marked inferred (the rules allow it) so that nothing waited.
+T108: the ratio falls as about 1/L and the held-out size claim held; confirm or reword the prediction. T109: it
+failed at 128 and at the held-out 256, since the inside foot grows inside the wide band; your words for the
+replacement are what is owed now (our candidate: the inside foot stays within the band, and the outside foot's
+gain is positive at a time that scales with the length).*
 
 **The question.** T107 is read. Two tests follow from it and each needs your prediction in your words before it
 runs. T108: does your ratio (red − blue)/(red + blue + all stored energy) fall with the daughter's length, and

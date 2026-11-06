@@ -269,4 +269,21 @@ band (T107); the replacement criterion, if T109 fails held out as expected, is h
 candidate: the outside foot's gain is positive in more than half of replicas at every length, and the inside foot
 stays within the band). Rule 11's form will be written in the reading.
 
-**Reading** (to be written when 256 is read; nothing above changes after this line).
+**Reading** (6 November 2026, night; `results/t108_t109_size_and_growth_heldout_*.csv`, twenty replicas at 256,
+every one escaped, the books balanced). **T108: FALLS, and the held-out size claim held.** The ratio's median at 256
+is **0.0053**, inside the 0.0026 to 0.0058 written before the run; with the fitting lengths, 0.0260, 0.0228, 0.0132,
+0.0100, 0.0053 at 32, 48, 64, 128, 256, every step down; the fit over all five is about 1.0 / L with a log-log
+slope near −0.8. So her ratio falls with length, by a form close to the boundary row's 1/R of her 5 November answer,
+and extrapolated it reaches one in a billion only at a length of about 10⁹ links, the figure she wrote on
+5 November (about 2 × 10⁹ across the inner shell's radius). What this shows: the size of the surplus in the toy is set
+by the length, as the boundary row's share; what it does not show: that the real number is 10⁹, or anything about
+the sky. **T109: FAILS**, at 128 among the fitting lengths and at the held-out 256 (0.15 against 0.55 to 0.85),
+as the registration said before the run. Rule 11: the claim "the outside foot gains more than the inside foot
+between 200 and 500 sweeps" → failed because at large lengths the inside foot grows inside the wide loose band
+(its gain positive in every replica at 256, median +8) while the outside foot's growth within 500 sweeps is small
+(median 0, positive in 0.45 of replicas) → replacement, hers to word on 9 November; our candidate, read here and
+not scored: the inside foot stays within the band at every length (true in every replica at 256, as in T107), and
+the outside foot's gain is positive at a time that scales with the length rather than at a fixed 500 sweeps → new
+test on her words. Read, not scored: her kind rule held again, the outside foot's sign matching the outward kind in
+16 of 16 replicas with a nonzero twist at 256 (54 of 57 in T107, 41 of 44 at this run's fitting lengths), so the
+sign result of T107 now stands at every length from 32 to 256 on two independent runs.

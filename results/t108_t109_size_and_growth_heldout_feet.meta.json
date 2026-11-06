@@ -1,0 +1,38 @@
+{
+  "config": {
+    "name": "t108_t109_size_and_growth_heldout",
+    "_purpose": "T108 and T109's held-out length (PREREGISTRATION.md, rule 14): L = 256, run only after the numbers for it have been written into the registration from the fitting lengths 32 to 128 (configs/t108_t109_size_and_growth.json). Same cell, same k, fresh seed.",
+    "lengths": [
+      256
+    ],
+    "replicas": 20,
+    "k": 4,
+    "lambda": 1.25,
+    "g": 1.5,
+    "block": 10,
+    "min_size": 8,
+    "max_sweeps": 20000,
+    "after": [
+      0,
+      50,
+      200,
+      500
+    ],
+    "barrier": 12,
+    "max_pair_sweeps": 10000,
+    "seed": 20261110
+  },
+  "config_path": "configs/t108_t109_size_and_growth_heldout.json",
+  "graphity_version": "0.1.0",
+  "numpy": "2.0.0",
+  "python": "3.12.10",
+  "git_commit": "0431588791fc1ca370ef5f513d9e330240391bd3",
+  "git_dirty": true,
+  "git_untracked_count": 4,
+  "git_untracked": [
+    "results/t108_t109_size_and_growth_heldout.log",
+    "sandbox/regge_four_link_stiffness.py",
+    "src/graphity/tubes.py",
+    "tests/test_tubes.py"
+  ]
+}

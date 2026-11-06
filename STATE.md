@@ -22,10 +22,21 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 | **14. Observers inside the loop** | "When we are" depends on who is counted; the observation window is the load-bearing term; not scored on our age. | none |
 | **15. Connecting to observations** | Five target sheets owed (dark matter as relics; black holes from dark matter; the birth and its gravitational waves; dark energy over time; matter over antimatter); a sixth written 5 Nov (a preferred direction in the expansion, target 14, with its prior-work note), then three more at her word the same day (the horizon's state count, one bit per 4 ln 2 Planck areas, target 15; the sense of rotation from the spin, target 16; a vortex line, target 17; all general knowledge, to verify); nothing measured. | 7, 12 |
 
+## Overnight 6 to 7 November, on her "make progress overnight and we leave this for Monday"
+
+- **T108 and T109** registered with her predictions marked *inferred*, run at 32 to 128 and at the held-out 256, read:
+  T108 FALLS as about 1/L and the size claim held (0.0053 at 256 inside the written range); T109 FAILS at 128 and
+  256, the inside foot growing inside the wide band; the kind rule's sign held again at every length. Hers on
+  Monday: confirm or reword T108's prediction; word T109's replacement (our candidate in the reading).
+- **The four-link form of the lengths**: exact at L = 8 and the held-out 10, K = 4(4I − A) per family on the sheet;
+  built into `graphity.lengths` with tests. The drift build can now put gravity on the sheet.
+- **The opened tube six around** is in the working copy (`graphity.tubes.twisted_tube`, O116's end state, with
+  tests); T106's question ran as a look (LOG): stores per pair about one in five on the tube as on the torus.
+- **The two-number state** built and tested earlier the same night; its gluon count is a reading, not a test.
+
 ## Running, and to read first
 
-- Nothing running; nothing unread. T101 Amendment 1 was read on 6 November and recorded in the archive
-  (PREREGISTRATION T101 Amendment 1, O186) and in RESULTS here.
+- Nothing running; nothing unread.
 
 ## Decided this week (4 to 6 November), now in HYPOTHESIS steps 1, 2, 3 and 8
 
@@ -43,10 +54,10 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
 1. ~~The two points left open inside step 1~~ Decided 6 Nov, night: the two slabs are the top and bottom halves of
    the one doughnut, each a majority of one hand in rows, fed by two funnels that taper to the doughnut; the twins
    one from each. A test of the majority per half and the rows waits on the drift, her prediction first.
-2. **Her words for T108** (her size ratio against length; the toy reads 0.021 to 0.009 at 32 to 128; a number or
-   a range for the held-out 256) and **T109** (the outside foot's gain from 200 to 500 sweeps after the escape
-   against the inside's, above one half at every length, or her own form). These two run on today's code and need
-   nothing else.
+2. **T108 and T109 ran overnight on inferred predictions** (above). Owed: her confirmation or rewording of
+   T108's prediction (FALLS as a/L, which held), and her words for T109's replacement, since "the inside foot
+   stops" holds only while the band is narrow (our candidate: the inside foot stays within the band, and the
+   outside foot's gain is positive at a time that scales with the length).
 3. **The twist energies: the last choices.** Choice 3 decided 6 Nov (a store is one loop over two diagonals, n = 2,
    L = 2√2; exact: under the rod form the store is exactly two dark particles and all its extra is the bond).
    Sigma decided 6 Nov, night: a store weighs about a proton (the proton's 5,508 diagonals' worth of bond), so
@@ -73,11 +84,10 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
 
 ## Next, each pre-registered before it runs
 
-1. ~~The design brief for twist as its own number~~ Written and built 6 Nov, night (`docs/design/twist_second_number_2026-11-06.md`;
-   `PairMoves(twist_rule="second_number")`, tests; T105's rows reproduce bit for bit under the default). Owed
-   on our side: a constructor for the opened tube six around (T106's wiring). Her answer the same night: no gluons in the slab (exact: no room, no cancellation there), so the
-   gluon count on a sheet is a reading, not a test; owed on our side, a re-twisting move (two gluons plus trapped
-   light into a dark pair) for the three-dimensional build; then T106 with her prediction. Then the four-link form of the lengths (exact derivation, ours), so that gravity acts on the sheet; then the drift
+1. ~~The design brief for twist as its own number; the opened tube's constructor; the four-link lengths~~ All done
+   6 Nov, night (above). Owed on our side: the re-twisting move (two gluons plus trapped light into a dark pair) for the
+   three-dimensional build; T106 with her prediction. Next: the drift build on the sheet with gravity's pull from the
+   four-link lengths (negative, logarithmic) and the like-twist repulsion, the store locked by the loop closing; then the drift
    build (`docs/design/drift_2026-11-05.md`) with its stopping rule, and a look at whether stores line up into a
    doughnut under gravity's squeeze.
 2. T108 and T109 on her words (above).

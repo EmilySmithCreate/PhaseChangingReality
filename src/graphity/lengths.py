@@ -29,13 +29,30 @@ torus (ties to the lowest axis), and it is placed at the lower point along that 
 
 Detailed balance: the proposal is cqg_d's symmetric switch; Metropolis on the total energy, which is a function of the
 wiring alone (the lengths are its minimiser), so the chain samples exp(-(H_toy + E_relax)/g).
+
+THE FOUR-LINK FORM (6 November 2026, night; her decision of the same night that gravity acts in two and three
+dimensions, cube edges being square edges). The same arithmetic on the square lattice (sandbox/regge_four_link_stiffness.py,
+L = 8 and the held-out 10, exact to the printed digit): one link lengthened by delta changes the published curvature's
+energy by 8 delta^2 / (1 + delta); each of its four parallel neighbours (one along, one across, each way) gives a mixed
+term of -4 delta^2 / (1 + delta); a perpendicular neighbour gives zero; uniform scaling gives zero. So on a sheet
+
+    K = 4 (4 I - A) on each of the two axis families,  FLAT_SQUARES = 2,
+
+4 times the square-lattice Laplacian, gapless, uniform scaling its zero mode: the six-link form with 2D in place of 6.
+The functions below take `dims` of length 2 or 3 and use 2 * len(dims) where 6 stood. The relaxed chain stays six-link
+(cqg_d's proposal); on a sheet use the fields, the relaxation and the energies with cqg's own chain.
 """
 import numpy as np
 
 from graphity.cqg_d import _new_edge_ok, _switch, has_edge, hamiltonian, squares_on_edge
 
-FLAT_SQUARES = 4           # squares on an axis link of the flat six-link torus (2D - 2 at D = 3)
-STIFFNESS = 4.0            # K = STIFFNESS * (6 I - A) per family
+FLAT_SQUARES = 4           # squares on an axis link of the flat six-link torus (2D - 2 at D = 3); 2 on the sheet
+STIFFNESS = 4.0            # K = STIFFNESS * (2D I - A) per family: (6 I - A) with six links, (4 I - A) with four
+
+
+def flat_squares(dims):
+    """Squares on an axis link of the flat lattice: 2D - 2, that is 4 with six links and 2 with four."""
+    return 2 * len(dims) - 2
 
 
 def curl_fields(adj, dims):
@@ -44,12 +61,13 @@ def curl_fields(adj, dims):
     dims = tuple(int(x) for x in dims)
     n = adj.shape[0]
     coords = np.array(np.unravel_index(np.arange(n), dims)).T
-    f = np.zeros((3,) + dims)
+    f = np.zeros((len(dims),) + dims)
+    flat = flat_squares(dims)
     for u in range(n):
         for v in adj[u]:
             if v < u:
                 continue
-            c = abs(squares_on_edge(adj, u, v) - FLAT_SQUARES)
+            c = abs(squares_on_edge(adj, u, v) - flat)
             if c == 0:
                 continue
             d = (coords[v] - coords[u] + np.array(dims) // 2) % dims - np.array(dims) // 2
@@ -68,8 +86,9 @@ def stiffness_eigenvalues(dims):
 
 
 def apply_stiffness(field):
-    """K f for one family: 24 f minus 4 times the sum over the six neighbouring link positions."""
-    out = 6 * field.copy()
+    """K f for one family: 4 * 2D f minus 4 times the sum over the 2D neighbouring link positions (24 f and six
+    neighbours with six links; 16 f and four neighbours on the sheet)."""
+    out = 2 * field.ndim * field.copy()
     for axis in range(field.ndim):
         out -= np.roll(field, 1, axis) + np.roll(field, -1, axis)
     return STIFFNESS * out

@@ -1848,3 +1848,15 @@ hand spirals in from which pole. Feasible in the toy: the tube's four points rou
 (top, outer, bottom, inner), so the pole bias is a placing rule by row, of the kind the kind rule already is
 (T107); a test of the majority per half and the alternation along rows can be registered once the drift exists,
 her prediction first. HYPOTHESIS step 1's open markers are closed; OWED item 1 is decided.
+
+## 6 to 7 November 2026, overnight: "can you make progress overnight and we leave this for monday?" (hers, verbatim, chat)
+
+Ours. Done without her: T108 and T109 registered with inferred predictions, run at 32 to 128 and at 256 held out,
+read (PREREGISTRATION; RESULTS): the surplus's size falls as about 1/L, the size claim held, and it reaches a
+billionth only near 10⁹ links, her 5 November figure; growth failed because the inside foot grows inside a wide
+band, so "the inside foot stops" is true only while the band is narrow; the kind rule's sign held at every length on
+a second independent run. The four-link form of the lengths derived exactly at two sizes, written before computing
+and held to the digit, built into `graphity.lengths` with tests. The opened tube six around built from O116's
+constructor with tests, and T106's question run as a look (one in five stores per pair, as on the torus). The
+two-number state built earlier the same night. Owed from her on Monday: T108's prediction confirmed or reworded;
+T109's replacement in her words; her T106 prediction. Everything is in STATE's overnight section.
