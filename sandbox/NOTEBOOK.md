@@ -1760,3 +1760,21 @@ shared with Ashley carry tonight's decisions in one paragraph each, both copies.
 (the archive, `docs/papers/carroll_reader/paper_plain_language.tex`): a dated section added to chapter 8, "Since
 3 November: the state now exists, and the next run is clear", and the date line updated; no LaTeX compiler is on
 this laptop, so the PDF is not rebuilt and the .tex is the edition to read until it is.
+
+## 6 November 2026, night: no gluons in the slab; can gluons become dark matter? (hers, verbatim, chat)
+
+"hmm, I wasnt thinking there would be gluons in the 2d space torus, my idea is that only dark matter particles being
+one sided can go in. can gluons be transformed into dark matter? can they interact with photons or dark photons to
+become dark matter one sided mobious strips?"
+
+Ours, the same night (rule 21). Exact under the moves: a gluon is made only by a cancellation, a cancellation needs
+room, and by her rule of 5 November the slab has no cancellation (photons need cubes), so the slab holds no gluons,
+only halves and stores; T105's packed sheet is a stand-in with room. The prediction asked for in OWED item 9 was
+the wrong one and is withdrawn. A lone gluon cannot become dark matter (her rules conserve net twist, built in
+graphity.twist); two gluons plus the light their twists left as can, the cancellation run backwards, which her step
+3 ("light with nowhere to go is pressed back into matter") and her whirlpool rule of 5 November (every kind of
+energy becomes dark matter and gravity) already say: gluons falling in are re-twisted by trapped light into dark
+pairs, one of each hand. No dark photon needed. Published shape: two photons make a pair (Breit and Wheeler 1934;
+seen 2021); the neutral pion to two photons and back; never one particle alone. General knowledge, to verify. For
+the build: nothing on the sheet; one move owed to the three-dimensional build with the drift, the re-twisting of
+two gluons by light that cannot leave.

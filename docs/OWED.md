@@ -170,16 +170,15 @@ go.
 
 **Record.** `HYPOTHESIS.md` Part 2, "The pair tie" (flagged there); `WITHDRAWN.md` section 2.
 
-## 9. Your prediction for the dark gluons (new, 6 November, night)
+## 9. The dark gluons: withdrawn as a question for you (6 November, night)
 
-**The question.** The two-number state is built. Before its first registered run: at the freeze on a packed sheet,
-how many dark gluons against stores, as the curling knob rises, and at the held-out size? Your words.
+You said no gluons belong in the slab, and the rules as built agree: a gluon is made only by a cancellation, a
+cancellation needs room, and your slab has none (5 November), so the slab holds only halves and stores. The gluon
+count on a packed sheet is a reading, not a test. One move is owed on our side for the region outside the slab:
+two gluons re-twisted by light that cannot leave into a dark pair, one of each hand (the cancellation run
+backwards; your step 3 and your whirlpool rule), part of the three-dimensional build with the drift.
 
-**What the toy says.** Nothing registered yet. Under the build's defaults every cancellation leaves two gluons, one
-of each kind, so gluons are twice the cancellations; the counts under the new rule are a new object, not a rerun
-of T105 (a gluon square cannot host a new pair, where an emptied square could).
-
-**Record.** `docs/design/twist_second_number_2026-11-06.md`, choice 7.
+**Record.** The notebook, 6 November, night; `docs/design/twist_second_number_2026-11-06.md`.
 
 ## 10. Older and still open
 

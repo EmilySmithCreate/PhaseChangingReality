@@ -75,8 +75,9 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
 
 1. ~~The design brief for twist as its own number~~ Written and built 6 Nov, night (`docs/design/twist_second_number_2026-11-06.md`;
    `PairMoves(twist_rule="second_number")`, tests; T105's rows reproduce bit for bit under the default). Owed
-   on our side: a constructor for the opened tube six around (T106's wiring). Owed by her: her prediction for
-   the gluons against stores at the freeze (the brief, choice 7), then T106. Then the four-link form of the lengths (exact derivation, ours), so that gravity acts on the sheet; then the drift
+   on our side: a constructor for the opened tube six around (T106's wiring). Her answer the same night: no gluons in the slab (exact: no room, no cancellation there), so the
+   gluon count on a sheet is a reading, not a test; owed on our side, a re-twisting move (two gluons plus trapped
+   light into a dark pair) for the three-dimensional build; then T106 with her prediction. Then the four-link form of the lengths (exact derivation, ours), so that gravity acts on the sheet; then the drift
    build (`docs/design/drift_2026-11-05.md`) with its stopping rule, and a look at whether stores line up into a
    doughnut under gravity's squeeze.
 2. T108 and T109 on her words (above).
