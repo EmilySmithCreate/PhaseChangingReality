@@ -253,5 +253,20 @@ from the four fitting lengths before it runs (the mean of the four, plus or minu
 values 0.80, 0.90, 0.85, 0.70 the share at 256 is near 0.65 and may fall below the range if the outside foot's
 growth slows with length as it did between 64 and 128 (median gain +8 then +3).
 
-**The held-out numbers** (to be written from the fitting lengths before 256 runs; nothing above changes after
-this line).
+**The held-out numbers, written 6 November 2026, night, from the four fitting lengths, before 256 ran**
+(`results/t108_t109_size_and_growth_*.csv`, read by `scripts/analyse_t108_t109.py`; 80 replicas, every one escaped,
+the books balanced in every cell). Fitting lengths: T108's ratio median 0.0260, 0.0228, 0.0132, 0.0100 at 32, 48,
+64, 128, falling at every step (**FALLS** on the fitting lengths); the fit a / L gives a = 0.997 with a log-log slope
+of −0.73 (1/L would be −1.00). T109's share 0.85, 0.70, 0.85, **0.40**: **FAILS on the fitting lengths**, at 128,
+where the inside foot's median gain from 200 to 500 sweeps was +5 against the outside's +3; the inside foot does
+not stop once the band is wide (15 columns, 60 points at 128), it grows inside the loose band. So for **L = 256**,
+by the procedures above: T108, the median within a factor of 1.5 of 0.997 / 256 = 0.0039, that is **0.0026 to
+0.0058**, and the fitted exponent negative; T109, the mean of the four, **0.70 (0.55 to 0.85)**, which the trend
+(0.40 at 128) says it will miss. *Ours, said before 256 runs:* the inside foot's growth at large lengths means
+her sentence "the inside foot stops" holds only while the band is narrow; what is true at every length so far is
+that the outside foot grows (median gain positive at every length) and that the inside foot stays within the
+band (T107); the replacement criterion, if T109 fails held out as expected, is hers to word on 9 November (our
+candidate: the outside foot's gain is positive in more than half of replicas at every length, and the inside foot
+stays within the band). Rule 11's form will be written in the reading.
+
+**Reading** (to be written when 256 is read; nothing above changes after this line).
