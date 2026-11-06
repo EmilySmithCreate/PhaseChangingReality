@@ -30,8 +30,10 @@ That is the toy's own version of the question; it says nothing about which publi
    Hawking 1975). The count of what a volume holds is a term on its surface. Her inner shell as two-dimensional,
    and her target 15 (one bit per 4 ln 2 Planck areas, `docs/design/reality_targets.md`), are this.
 3. **Spontaneous dimensional reduction at short distance** (Ambjorn, Jurkiewicz and Loll 2005, the spectral
-   dimension of causal dynamical triangulations running from 4 to 2; Carlip's review, "Dimension and dimensional
-   reduction in quantum gravity", Class. Quantum Grav. 34, 193001, 2017): in several approaches to quantum
+   dimension of causal dynamical triangulations running from 4 to 2; Carlip's reviews: "Dimension and dimensional
+   reduction in quantum gravity", arXiv:1705.05417 (2017), and the one checked at source tonight, *Universe* 5(3),
+   83 (2019), arXiv:1904.04379, doi:10.3390/universe5030083; the "Class. Quantum Grav. 34, 193001" citation written
+   from memory earlier tonight was not confirmed and is withdrawn): in several approaches to quantum
    gravity the effective dimension of spacetime falls to two at the smallest scales. The published model's own
    author takes the fundamental degrees of freedom to be two-dimensional (his advice on paper 1), which is this
    family. For her: the two-dimensional phase as the small-scale truth and three dimensions as what emerges.

@@ -78,6 +78,9 @@ class CurlState:
     def __post_init__(self):
         self.sq = squares(self.adj, self.part)
         self.c = np.zeros(len(self.sq))
+        # twist as its own number (her reversal of 6 November 2026): halves, +1/2 with curl, -1/2 with anti-curl,
+        # 0 on a dark gluon (curl with no twist). Unused, and left at zero, under the one-number rule of 4 November.
+        self.t = np.zeros(len(self.sq))
 
     def set_pair(self, i, j, size):
         """A pair made together: curl +size on square i (black diagonal) and anti-curl -size on square j (white)."""

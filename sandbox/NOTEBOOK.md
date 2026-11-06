@@ -1734,3 +1734,29 @@ DNA note's K_0 repulsion). Both can be true of one store, a stored repulsion ins
 but they are two forms: the first sets the pull during the drift, the second sets what the store holds. The
 proton calibrates the total either way (sigma is the total over the store's length); the form matters for the
 drift's forces and is a choice in the drift brief.
+
+## 6 November 2026, night: "proceed" on the brief, the build and the reading; the shared documents and paper 19 (hers, verbatim, chat)
+
+"So the order is: the design brief for the two-number state, the build with its tests, proceed.
+
+All general knowledge, to verify within the week. The form to borrow is the first: the crossing term is a mass, and
+it will be written as a choice in the brief for you to accept. -> proceed with reading.
+
+can you move forward then we come back to T108 and T109?"
+
+and, mid-way: "make any updates needed to the docs we shared w ashley. update the carroll version of paper 1 for my
+own reading and understanging."
+
+Ours, the same night. Done: the design brief `docs/design/twist_second_number_2026-11-06.md` (seven choices,
+defaults ours); the build, `PairMoves(twist_rule="second_number", twist_share=0.5)`: a second number t per square,
+pairs made with +1/2 and -1/2, cancellations sending the twist's share to light and leaving gluons, stores over two
+squares holding both curls, the books exact, gluons counted; the old rule the default and untouched (T105's rows
+reproduce bit for bit, 12 of 12 checked; the regression suites pass). One correction to the brief's choice 3 made
+before the build: the second-number counts are a new object, not a rerun of T105, because a gluon square cannot
+host a new pair. The reading: 't Hooft 1993 (gr-qc/9310026) and the Kaluza-Klein tower with Appelquist and Chodos
+1983 confirmed at source in outline; Carlip's review confirmed as Universe 5(3) 83 (2019) and arXiv:1705.05417
+(2017), the "Class. Quantum Grav. 34, 193001" citation from memory withdrawn; the note says so. The two documents
+shared with Ashley carry tonight's decisions in one paragraph each, both copies. Paper 19's plain-language edition
+(the archive, `docs/papers/carroll_reader/paper_plain_language.tex`): a dated section added to chapter 8, "Since
+3 November: the state now exists, and the next run is clear", and the date line updated; no LaTeX compiler is on
+this laptop, so the PDF is not rebuilt and the .tex is the edition to read until it is.

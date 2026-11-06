@@ -33,8 +33,18 @@ coin, so that twins of opposite sign appear across replicas); every pair made af
 farther from the centre (a tie keeps the coin). kind_rule="coin" is T103 to T105's rule, kept so that they reproduce.
 Stand-in (ours): the straddling test and the farther-square placing; her words name neither a coin nor a tie.
 
+HER REVERSAL OF 6 NOVEMBER, NIGHT (twist_rule="second_number"; docs/design/twist_second_number_2026-11-06.md): twist is its
+own number again. Each square carries c (curl) and t (twist in halves). A pair is made as before, +1 curl with +1/2 twist and
+-1 with -1/2. Where there is room the two TWISTS cancel into light and the curls stay behind as dark gluons (|c| = 1, t = 0,
+the neutral pion's shape); a gluon does not move, join or cancel again, and counts as room for its neighbours (choice 3).
+A store is one loop over two diagonals (her choice 3 of the twist-energies brief): the join marks both squares and keeps
+both curls, so a store holds two units. The light a cancellation releases is the twist's share s of each unit
+(twist_share, default 1/2, a stand-in until the twist-energies reader gives it); the rest stays on the gluons.
+twist_rule="one_number" is the rule of 4 November, kept so that T103 to T107 reproduce bit for bit; it never touches t.
+
 EXACT: ledger + light + (curl held on squares) + (held in stores) = the release, to the last digit, after every move,
-under both forms (under "gravity" the store holds only its partner's curl) and both clocks.
+under both forms (under "gravity" the store holds only its partner's curl in the one-number rule, both curls in the
+second-number rule), both clocks and both twist rules; on the sheet net twist is zero by the one-to-one rule.
 """
 from dataclasses import dataclass, field
 
@@ -74,6 +84,8 @@ class PairMoves:
     kind_rule: str = "coin"
     dist: np.ndarray = None
     edge: float = None
+    twist_rule: str = "one_number"
+    twist_share: float = 0.5
     links: list = field(init=False)
     nb: list = field(init=False)
     store: np.ndarray = field(init=False)
@@ -93,6 +105,11 @@ class PairMoves:
             raise ValueError(self.kind_rule)
         if self.kind_rule == "boundary" and (self.dist is None or self.edge is None):
             raise ValueError("the boundary rule needs dist and edge")
+        if self.twist_rule not in ("one_number", "second_number"):
+            raise ValueError(self.twist_rule)
+        if not 0.0 <= self.twist_share <= 1.0:
+            raise ValueError("the twist's share of a unit is in [0, 1]")
+        self.second = self.twist_rule == "second_number"
         self.outward_kind = 0
         self.light = 0.0
         self.held = 0.0
@@ -102,28 +119,50 @@ class PairMoves:
 
     # readers (exact)
     def room(self, i):
+        """An empty square beside i; under the second-number rule a dark gluon counts as room too (choice 3)."""
         c = self.state.c
+        if self.second:
+            t, s = self.state.t, self.store
+            return any(c[j] == 0.0 or (t[j] == 0.0 and s[j] == 0) for j in self.nb[i])
         return any(c[j] == 0.0 for j in self.nb[i])
 
     def energy_on_squares(self):
-        return float(np.abs(self.state.c).sum() * self.unit)
+        """The curl held on squares that are not in a store: one unit per free half, 1 - s per gluon (second rule)."""
+        c = self.state.c
+        if self.second:
+            t, s = self.state.t, self.store
+            free = s == 0
+            halves = np.abs(c[free & (t != 0.0)]).sum()
+            gluons = np.abs(c[free & (t == 0.0)]).sum() * (1.0 - self.twist_share)
+            return float((halves + gluons) * self.unit)
+        return float(np.abs(c).sum() * self.unit)
 
     def books(self):
         """ledger + light + curl on squares + held in stores; equals the release when the books balance."""
         return self.ledger + self.light + self.energy_on_squares() + self.held
 
     def census(self):
-        c, s = self.state.c, self.store
+        c, s, t = self.state.c, self.store, self.state.t
         free = s == 0
-        plus, minus = int(np.sum(s > 0)), int(np.sum(s < 0))
+        if self.second:
+            plus, minus = int(np.sum(s > 0)) // 2, int(np.sum(s < 0)) // 2
+            frozen = int(np.sum((c != 0) & free & (t != 0)))
+            gl_plus, gl_minus = int(np.sum((c > 0) & free & (t == 0))), int(np.sum((c < 0) & free & (t == 0)))
+            net_curl, net_twist = float(c.sum()), float(t.sum())
+        else:
+            plus, minus = int(np.sum(s > 0)), int(np.sum(s < 0))
+            frozen = int(np.sum((c != 0) & free))
+            gl_plus = gl_minus = 0
+            net_curl = float(c[free].sum() + 2.0 * s.sum())
+            net_twist = float(0.5 * np.sign(c[free]).sum() + s.sum())
         return dict(sweeps=self.sweeps, pairs_made=self.pairs_made, photons=self.photons, light=self.light,
                     ledger_left=self.ledger, stores_made=self.stores_made, stores_plus=plus, stores_minus=minus,
-                    stores=plus + minus, frozen_curls=int(np.sum((c != 0) & free)),
-                    net_curl=float(c[free].sum() + 2.0 * s.sum()),
-                    net_twist=float(0.5 * np.sign(c[free]).sum() + s.sum()),
+                    stores=plus + minus, frozen_curls=frozen, net_curl=net_curl, net_twist=net_twist,
                     stored_on_squares=self.energy_on_squares(), held_in_stores=self.held, gravity=self.gravity,
                     store_cluster=self.largest_store_cluster(), books=self.books(), release=self.release,
-                    outward_kind=self.outward_kind)
+                    outward_kind=self.outward_kind, gluons_plus=gl_plus, gluons_minus=gl_minus,
+                    store_squares=int(np.sum(s != 0)), twist_rule=self.twist_rule,
+                    twist_share=self.twist_share if self.second else 1.0)
 
     def largest_store_cluster(self):
         """The largest connected set of store squares (connected through shared links). A look for her question of
@@ -154,6 +193,8 @@ class PairMoves:
             if c[i] == 0.0 and c[j] == 0.0:
                 i, j = self._place(i, j)
                 c[i], c[j] = 1.0, -1.0
+                if self.second:
+                    self.state.t[i], self.state.t[j] = 0.5, -0.5
                 self.ledger -= 2.0 * self.unit
                 made += 1
         self.pairs_made += made
@@ -174,12 +215,10 @@ class PairMoves:
         c, s, done = self.state.c, self.store, 0
         for k in self.rng.permutation(len(self.links)):
             i, j = self.links[k]
-            if s[i] or s[j] or c[i] == 0.0 or c[i] != -c[j]:
+            if not self._can_cancel(i, j):
                 continue
             if self.room(i) or self.room(j):
-                c[i] = c[j] = 0.0
-                self.light += 2.0 * self.unit
-                self.photons += 2
+                self._cancel_one(i, j)
                 done += 1
         return done
 
@@ -191,32 +230,57 @@ class PairMoves:
             if from_ledger and self.ledger < price:
                 break
             i, j = self.links[k]
-            if s[i] or s[j] or c[i] == 0.0 or c[i] != c[j]:
+            if not self._can_join(i, j):
                 continue
             if self.room(i) or self.room(j):
                 continue
-            s[i] = int(np.sign(c[i]))
-            c[j] = 0.0
-            if from_ledger:
-                self.ledger -= price
-                self.held += self.unit + price
-            else:
-                self.gravity += price
-                self.held += self.unit
+            self._join_one(i, j, price, from_ledger)
             self.stores_made += 1
             done += 1
         return done
 
+    def _cancel_one(self, i, j):
+        """A +1 and a -1 sharing a link, with room: under the one-number rule both squares empty and two units leave as
+        light; under the second-number rule the two twists leave as light (2 s units) and the curls stay as gluons."""
+        c = self.state.c
+        if self.second:
+            self.state.t[i] = self.state.t[j] = 0.0
+            self.light += 2.0 * self.twist_share * self.unit
+        else:
+            c[i] = c[j] = 0.0
+            self.light += 2.0 * self.unit
+        self.photons += 2
+
+    def _can_cancel(self, i, j):
+        c, s, t = self.state.c, self.store, self.state.t
+        if s[i] or s[j] or c[i] == 0.0 or c[i] != -c[j]:
+            return False
+        return (not self.second) or (t[i] != 0.0 and t[j] != 0.0)
+
+    def _can_join(self, i, j):
+        c, s, t = self.state.c, self.store, self.state.t
+        if s[i] or s[j] or c[i] == 0.0 or c[i] != c[j]:
+            return False
+        return (not self.second) or (t[i] != 0.0 and t[j] != 0.0)
+
     def _join_one(self, i, j, price, from_ledger):
+        """Two same-sign halves without room join into a Klein store: one flagged square with its partner emptied
+        (one-number rule) or both squares flagged with both curls kept, the store one loop over two diagonals
+        (second-number rule, her choice of 6 November)."""
         c, s = self.state.c, self.store
         s[i] = int(np.sign(c[i]))
-        c[j] = 0.0
+        if self.second:
+            s[j] = s[i]
+            units = 2.0 * self.unit
+        else:
+            c[j] = 0.0
+            units = self.unit
         if from_ledger:
             self.ledger -= price
-            self.held += self.unit + price
+            self.held += units + price
         else:
             self.gravity += price
-            self.held += self.unit
+            self.held += units
 
     def resolve_at_once(self):
         """Her clock: room judged once on the made state; cancellations first, then joins; each square used once."""
@@ -226,19 +290,17 @@ class PairMoves:
         for i, j in self.links:
             if s[i] or s[j] or c[i] == 0.0:
                 continue
-            if c[i] == -c[j] and (room[i] or room[j]):
+            if self._can_cancel(i, j) and (room[i] or room[j]):
                 cancels.append((i, j))
-            elif c[i] == c[j] and not room[i] and not room[j]:
+            elif self._can_join(i, j) and not room[i] and not room[j]:
                 joins.append((i, j))
         used, done = set(), 0
         for k in self.rng.permutation(len(cancels)):
             i, j = cancels[k]
             if i in used or j in used:
                 continue
-            c[i] = c[j] = 0.0
+            self._cancel_one(i, j)
             used.update((i, j))
-            self.light += 2.0 * self.unit
-            self.photons += 2
             done += 1
         price = self.barrier + self.lam_cost
         from_ledger = self.price_from == "ledger"

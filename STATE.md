@@ -59,8 +59,9 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
    both diagonals in the moves (held rises by two per join).
 4. **Option B for the clock, or none**: a point's tick tied to its link lengths would put the time half in by hand.
 5. ~~The "face gluon"~~ Decided 6 Nov, night: twist is its own number again (reversing 4 Nov), so opposite halves
-   cancel into light and leave the curl as a dark gluon, the shape of the neutral pion. Owed on our side: the design
-   brief for the two-number state (`docs/design/twist_second_number_2026-11-06.md`), then the build with tests.
+   cancel into light and leave the curl as a dark gluon, the shape of the neutral pion. Built 6 Nov, night, under its
+   design brief (`docs/design/twist_second_number_2026-11-06.md`): `twist_rule="second_number"` in the pair moves,
+   gluons counted, the store two squares, the books exact; the old rule the default and untouched.
 6. **Which carries the dark matter at birth**, the seam's rings or the later knots.
 7. **Paper 19's number**, and whether the 3 November wording (the projection, the three layers, the computer)
    stands in the claim.
@@ -72,8 +73,10 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
 
 ## Next, each pre-registered before it runs
 
-1. The design brief for twist as its own number on the squares (her reversal of 6 Nov), with the dark gluon and
-   the two-diagonal store, before any build. Then the four-link form of the lengths (exact derivation, ours), so that gravity acts on the sheet; then the drift
+1. ~~The design brief for twist as its own number~~ Written and built 6 Nov, night (`docs/design/twist_second_number_2026-11-06.md`;
+   `PairMoves(twist_rule="second_number")`, tests; T105's rows reproduce bit for bit under the default). Owed
+   on our side: a constructor for the opened tube six around (T106's wiring). Owed by her: her prediction for
+   the gluons against stores at the freeze (the brief, choice 7), then T106. Then the four-link form of the lengths (exact derivation, ours), so that gravity acts on the sheet; then the drift
    build (`docs/design/drift_2026-11-05.md`) with its stopping rule, and a look at whether stores line up into a
    doughnut under gravity's squeeze.
 2. T108 and T109 on her words (above).

@@ -77,6 +77,16 @@ each with the cheapest exact look that was run on the toy:
 | Her prediction for the size: about one in a billion of the daughter's squares (6 Nov) | Not yet testable in full; the toy can test the trend with size, held-out size written before the run |
 | The collar: dark matter pressed on the torus round the rod binds into Klein stores heavier than their parts, paid by gravity; the bond's form borrowed from 't Hooft's two-dimensional model of 1974 (6 Nov) | T105's stores sit as singles and short chains, no ring; a ring needs a store-to-store join that is not built |
 
+Later on 6 November she made four more decisions, each recorded in `HYPOTHESIS.md` with its date: twist is its
+own number on a square again (reversing 4 November), so two opposite half twists can cancel into light and leave
+their curl behind as a dark gluon; a Klein store is one loop over two diagonals and weighs about a proton, which
+calibrates the bond's constant against the proton rather than predicting it; the gravity counter is the work of
+the drift, locked at the join as the store's mass; and the crossing from three dimensions to two has published
+mathematics (Kaluza-Klein's mass term first) to be written as a choice. The two-number state is built and tested
+under a design brief (`docs/design/twist_second_number_2026-11-06.md`), with the old rule kept as the default so
+that every registered result reproduces. The toy's own clock was also read at λ = 1 (T101 Amendment 1): it runs
+faster near a knot there too, so the setting was not the cause and the time half of gravity still has no carrier.
+
 The nearest published models, named as targets and not as confirmations: the Hawking pair at a horizon; the
 CPT-symmetric universe of Boyle, Finn and Turok (2018), where the two sides of a boundary are mirror images and
 the pair together carries nothing; and Poplawski's torsion baryogenesis inside a black-hole bounce (2011). A

@@ -170,7 +170,18 @@ go.
 
 **Record.** `HYPOTHESIS.md` Part 2, "The pair tie" (flagged there); `WITHDRAWN.md` section 2.
 
-## 9. Older and still open
+## 9. Your prediction for the dark gluons (new, 6 November, night)
+
+**The question.** The two-number state is built. Before its first registered run: at the freeze on a packed sheet,
+how many dark gluons against stores, as the curling knob rises, and at the held-out size? Your words.
+
+**What the toy says.** Nothing registered yet. Under the build's defaults every cancellation leaves two gluons, one
+of each kind, so gluons are twice the cancellations; the counts under the new rule are a new object, not a rerun
+of T105 (a gluon square cannot host a new pair, where an emptied square could).
+
+**Record.** `docs/design/twist_second_number_2026-11-06.md`, choice 7.
+
+## 10. Older and still open
 
 Each has its line in `STATE.md` and its history in the archive's `VISION.md`:
 

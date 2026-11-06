@@ -27,7 +27,10 @@ A sheet with no edges that is made of little squares has a shape it must take: a
 ordinary geometry, not a guess: a closed surface built only of squares, four at every corner, is always a doughnut,
 never a ball.) So X is a doughnut of wound-up dark matter. Through its hole runs the rod, where dark matter is still
 spiralling in from outside. Where the spirals reach the doughnut's inner rim they can go no further and lock in
-place. Those locked pieces are called Klein stores, and they hold energy the way a wound spring does.
+place. Those locked pieces are called Klein stores, and they hold energy the way a wound spring does. Each store is
+two pieces of dark matter bound into one loop, and Emily's working number is that the bond holds about a proton's
+worth of energy, thousands of times the mass of the two pieces themselves; that number is a calibration against
+the proton, not a prediction.
 
 Nothing moves inside the doughnut: no light, no ordinary matter, no time in the usual sense. Only dark matter and
 gravity act there. That stillness is why it can store so much.
@@ -60,7 +63,9 @@ standing with a foot on each side of a line. The foot inside the patch stops; th
 wound-up part and becomes the daughter universe.
 
 Matter and antimatter are, in her picture, the two handednesses of twist, left and right. Her rule is that the
-first pair made across the edge decides which hand goes outward, and every pair after follows it. So the daughter
+first pair made across the edge decides which hand goes outward, and every pair after follows it. When a left and
+a right half meet and cancel, what leaves as light is their twist; the curl they sat on stays behind as a neutral
+dark object with no twist, which she calls a dark gluon, the shape of the neutral pion in ordinary physics. So the daughter
 is born carrying one hand, and the patch that stays behind carries the other. Over the whole black hole the books
 balance; inside any one daughter they do not, and that is the surplus we are made of. The published idea nearest to
 this is the CPT-symmetric universe of Boyle, Finn and Turok (2018), where our universe and an anti-universe sit on
