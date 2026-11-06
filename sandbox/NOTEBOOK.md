@@ -1778,3 +1778,21 @@ pairs, one of each hand. No dark photon needed. Published shape: two photons mak
 seen 2021); the neutral pion to two photons and back; never one particle alone. General knowledge, to verify. For
 the build: nothing on the sheet; one move owed to the three-dimensional build with the drift, the re-twisting of
 two gluons by light that cannot leave.
+
+## 6 November 2026, night: the sign of the bond (hers, verbatim, chat)
+
+"would the sign be very negative because it comes from gravity which would be 0 only with particles infinitely ar
+from eachother, so it should be the biggest negitive ever measured"
+
+Ours, the same night (rule 21; published facts general knowledge, to verify). Checks out: gravity's potential is
+negative, zero at infinite separation; the most negative binding per mass measured is gravitational (a neutron
+star's about a tenth to a quarter of its rest mass; a black hole's formally all). Does not: a negative bond makes
+the bound thing lighter than its parts (the mass defect; the deuteron; a neutron star), measurement, and her store
+weighs a proton, so its extra mass is positive. Reconciled in her own words of the night before: gravity pays, it
+does not hold; the infalling energy is spent pushing like-handed twists together against their repulsion; the
+repulsion stored is positive and is the store's extra mass, locked by the loop closing. Published fact that helps:
+in two dimensions gravity's potential is logarithmic, rising without limit with separation, the confining shape
+she borrowed from 't Hooft but from gravity itself on the sheet, so the linear form can be set aside as a separate
+rule. Proposed for the drift brief, hers to accept: the pull is gravity's (negative, logarithmic on the sheet), the
+push the like-twist repulsion near contact (positive), the store locked on the repulsive side by the loop closing,
+its extra mass the repulsion stored.
