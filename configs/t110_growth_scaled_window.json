@@ -1,0 +1,17 @@
+{
+  "name": "t110_growth_scaled_window",
+  "_purpose": "T110, T109's replacement on her words of 7 November 2026 (PREREGISTRATION.md): the outside foot's gain is positive over a window that scales with the length. T107's cell and runner, fresh seed; the recorded times after the escape are the T109 times scaled by L / 32 and rounded to the block, so the window is 200 to 500 sweeps at 32 and 800 to 2000 at 128. Fitting lengths 32 to 128; 256 held out in the _heldout config, run only after its number is written.",
+  "lengths": [32, 48, 64, 128],
+  "replicas": 20,
+  "k": 4,
+  "lambda": 1.25,
+  "g": 1.5,
+  "block": 10,
+  "min_size": 8,
+  "max_sweeps": 40000,
+  "after": [0, 50, 200, 500],
+  "after_scale_length": 32,
+  "barrier": 12,
+  "max_pair_sweeps": 10000,
+  "seed": 20261111
+}

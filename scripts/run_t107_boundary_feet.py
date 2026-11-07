@@ -44,9 +44,20 @@ def square_distances(state, L, centre):
     return d
 
 
+def scaled_after(cfg, L):
+    """The recorded times after the escape. With `after_scale_length` in the config (T110, 7 November 2026) each time
+    is multiplied by L over that length and rounded to the block, so the window scales with the length; without it the
+    times are as written (T107 to T109)."""
+    block = cfg["block"]
+    if "after_scale_length" not in cfg:
+        return list(cfg["after"])
+    factor = L / cfg["after_scale_length"]
+    return sorted({int(round(a * factor / block)) * block for a in cfg["after"]})
+
+
 def one(L, rep, cfg, feet_out, kind_out):
     k, lam, g, block = cfg["k"], cfg["lambda"], cfg["g"], cfg["block"]
-    after, min_size, max_sweeps = cfg["after"], cfg["min_size"], cfg["max_sweeps"]
+    after, min_size, max_sweeps = scaled_after(cfg, L), cfg["min_size"], cfg["max_sweeps"]
     ss = np.random.SeedSequence([cfg["seed"], L, k, rep])
     adj, part, in_band, made = loose_band_tube(L, k, np.random.default_rng(ss))
     chain_seed = int(ss.generate_state(1)[0])

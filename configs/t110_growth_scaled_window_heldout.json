@@ -1,0 +1,17 @@
+{
+  "name": "t110_growth_scaled_window_heldout",
+  "_purpose": "T110's held-out length (PREREGISTRATION.md, rule 14): L = 256, window 1600 to 4000 sweeps after the escape, run only after the number for it has been written into the registration from the fitting lengths 32 to 128 (configs/t110_growth_scaled_window.json). Same cell, same k, fresh seed.",
+  "lengths": [256],
+  "replicas": 20,
+  "k": 4,
+  "lambda": 1.25,
+  "g": 1.5,
+  "block": 10,
+  "min_size": 8,
+  "max_sweeps": 40000,
+  "after": [0, 50, 200, 500],
+  "after_scale_length": 32,
+  "barrier": 12,
+  "max_pair_sweeps": 10000,
+  "seed": 20261112
+}

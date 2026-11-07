@@ -293,5 +293,38 @@ sign result of T107 now stands at every length from 32 to 256 on two independent
 towards 1/2". Against the runs: T108's fall is slower than 1/L on the fitting lengths (slope −0.73) and about 1/L to
 the held-out 256, and the rules make 1/L (the net is one unit, fixed at the straddle; the stored energy grows with
 the area), so "faster" is not what the toy does; T109's share crosses one half and falls to 0.15 at 256, so the
-floor is zero, not one half, at a fixed clock time. The inferred predictions above are the ones scored. Her
-confirmation or rewording for the record is owed (OWED item 2).
+floor is zero, not one half, at a fixed clock time. The inferred predictions above are the ones scored.
+**Her confirmation, 7 November 2026, after seeing this** (the notebook, verbatim: "Confirm a for t108 and t109's
+replacement"): T108's prediction is (a), the ratio falls as one over the length, which is the inferred prediction
+that was scored and held; T109's replacement is the candidate above, registered as T110.
+
+## T110. Growth at a time that scales with the length (T109's replacement; registered 7 November 2026, before the run; her words)
+
+**Rule 11.** Previous claim (T109): the outside foot gains more than the inside foot between 200 and 500 sweeps
+after the escape, at every length → failed because at large lengths the inside foot grows inside the wide loose
+band while the outside foot's growth within a fixed 500 sweeps is small → replacement, confirmed by her on
+7 November 2026 ("Confirm a for t108 and t109's replacement"): the inside foot stays within the band, and the
+outside foot's gain is positive at a time that scales with the length → this test.
+
+**What is exact and not scored.** "The inside foot stays within the band" is exact by the toy's definition of the
+feet (the inside foot is the new sheet inside the band's columns, the outside foot the new sheet outside them), so
+it cannot fail and is not a criterion; what is read beside the result, not scored, is the inside foot's size against
+the band's at the window's end, and its gain over the window.
+
+**The run.** T107's runner and cell (`scripts/run_t107_boundary_feet.py`, k = 4, λ = 1.25, g = 1.5, blocks of 10,
+escape at 8 new points), fresh seeds, lengths **32, 48, 64, 128**, twenty replicas each, **256 held out**
+(`configs/t110_growth_scaled_window.json`, `_heldout.json`; the reader `scripts/analyse_t110.py`). The recorded
+times after the escape are T109's (0, 50, 200, 500 sweeps) multiplied by L / 32 and rounded to the block, so the
+window is 200 to 500 sweeps at 32, 300 to 750 at 48, 400 to 1000 at 64, 800 to 2000 at 128 and 1600 to 4000 at 256.
+The scaling by L is the plainest form of "a time that scales with the length" (ours; the outside foot grows along
+the tube, whose length is L).
+
+**Her prediction (her words of 7 November, the candidate she confirmed):** the outside foot's gain over the window is
+positive in more than half of the replicas at every length: **HOLDS** / **FAILS** on the fitting lengths; the
+**held-out 256** number written from the four fitting lengths before it runs (the mean of the four shares, plus or
+minus 0.15), scored there alone (rule 14). Ours, said so it can fail: at the fixed window T109 read the share 0.85,
+0.70, 0.85, 0.40, 0.15 and the outside foot's median gain fell with length (+41, +8, +18, +3, 0); if the outside
+foot's growth is set by the sweep count and not by the length, scaling the window will not rescue it and the share
+will fall again at 128 or 256.
+
+**The held-out number** (to be written when the fitting lengths are read; nothing above changes after this line).

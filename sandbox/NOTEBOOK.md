@@ -1916,3 +1916,13 @@ costs nothing in this record and is the point of registering before running; wha
 after the result and presented as before it, which the dates prevent. Her habit of guessing toward what helps the
 toy is itself recorded here as what it is: the direction her intuition pulls, which is information for the reader,
 and the arithmetic is the check (rule 23: only a measurement may stop an idea).
+
+## 7 November 2026: "Confirm a for t108 and t109's replacement. Do you want it built, and in what form. Option a as written." (hers, verbatim, chat; OWED items 2 and 4 closed)
+
+Ours, the same day. T108: her prediction is (a), the ratio falls as one over the length; it held at the held-out
+256, and the registration now carries her confirmation with the date. T109's replacement: she confirms our
+candidate, so it is registered as T110 in the rule 11 form (the outside foot's gain is positive over a window that
+scales with the length; the inside foot's staying within the band is exact by the toy's definition of the feet and
+is read, not scored). Option B: form (a) as written, a point's tick rate the inverse of the mean length of its
+links, which is what was built; nothing changes in the code. Owed from her now: only her prediction for the shape of
+the clock's slowing with distance (OWED item 4) and T106's prediction.

@@ -29,7 +29,9 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
   order. Not put in: the mean clock is exactly one (her scale rule); the slowing's shape with distance is the
   stiffness's Green's function. A look: slow by 0.15 one step from a knot on the sheet, 0.04 at the knot in the cube,
   halving per step. Owed from her: her prediction for that shape before it is registered.
-- **Her words for T108 and T109** came after the runs and are recorded as such, not scored (PREREGISTRATION).
+- **Her words for T108 and T109** came after the runs and are recorded as such, not scored; then, after seeing
+  the check, she confirmed T108 as (a) and T109's replacement, registered as **T110** (growth over a window that
+  scales with the length; fitting lengths running, 256 held out). Option B confirmed in form (a) as built.
 
 ## Overnight 6 to 7 November, on her "make progress overnight and we leave this for Monday"
 
@@ -45,7 +47,8 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 
 ## Running, and to read first
 
-- Nothing running; nothing unread.
+- **T110** running at the fitting lengths 32 to 128 (`configs/t110_growth_scaled_window.json`); 256 held out,
+  to run once its number is written. Read with `scripts/analyse_t110.py` by the registered words.
 
 ## Decided this week (4 to 6 November), now in HYPOTHESIS steps 1, 2, 3 and 8
 
@@ -63,12 +66,8 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
 1. ~~The two points left open inside step 1~~ Decided 6 Nov, night: the two slabs are the top and bottom halves of
    the one doughnut, each a majority of one hand in rows, fed by two funnels that taper to the doughnut; the twins
    one from each. A test of the majority per half and the rows waits on the drift, her prediction first.
-2. **T108 and T109 ran overnight on inferred predictions** (above). Owed: her confirmation or rewording of
-   T108's prediction (FALLS as a/L, which held), and her words for T109's replacement, since "the inside foot
-   stops" holds only while the band is narrow (our candidate: the inside foot stays within the band, and the
-   outside foot's gain is positive at a time that scales with the length). Her words of 7 Nov ("falls faster";
-   "above one half, moving towards 1/2") are in the registration as worded after the run and not scored; her
-   confirmation or rewording is still owed.
+2. ~~T108 and T109's words~~ Closed 7 Nov: T108 confirmed as (a), which held; T109's replacement registered as
+   T110 on her confirmed form and running (the outside foot's gain positive over a window scaled by L / 32).
 3. **The twist energies: the last choices.** Choice 3 decided 6 Nov (a store is one loop over two diagonals, n = 2,
    L = 2√2; exact: under the rod form the store is exactly two dark particles and all its extra is the bond).
    Sigma decided 6 Nov, night: a store weighs about a proton (the proton's 5,508 diagonals' worth of bond), so
@@ -79,7 +78,7 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
    as a choice in the brief, ours, hers to accept. Her T106 prediction is owed only once the two-number build
    exists. Build owed on our side: the store keeps
    both diagonals in the moves (held rises by two per join).
-4. ~~Option B for the clock, or none~~ Decided and built 7 Nov (`graphity.clock`, tests, the brief
+4. ~~Option B for the clock, or none~~ Decided 7 Nov, form (a) as written, and built (`graphity.clock`, tests, the brief
    `docs/design/clock_option_b_2026-11-07.md`). Owed from her: her prediction for the shape of the clock's slowing
    with distance from a knot in the cube, before it is registered.
 5. ~~The "face gluon"~~ Decided 6 Nov, night: twist is its own number again (reversing 4 Nov), so opposite halves
@@ -103,7 +102,7 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
    four-link lengths (negative, logarithmic) and the like-twist repulsion, the store locked by the loop closing; then the drift
    build (`docs/design/drift_2026-11-05.md`) with its stopping rule, and a look at whether stores line up into a
    doughnut under gravity's squeeze.
-2. T108 and T109 on her words (above).
+2. ~~T108 and T109 on her words~~ T110 (above), then its held-out 256.
 3. T106, the moves on the opened tube six around, once her prediction is in.
 4. The design brief for a twist-curl state as the computation Carroll's reader would read (paper 19).
 5. Gravity's time half: option B built 7 Nov; the registered test of the slowing's shape waits on her prediction;

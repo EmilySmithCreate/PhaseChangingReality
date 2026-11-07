@@ -42,7 +42,12 @@ reads, or two, one per hand from opposite poles, meeting at the doughnut.
 **Record.** `HYPOTHESIS.md` step 1 (the open point is marked there); the notebook, 5 November (the whiteboard
 coil) and 6 November, late night (the shapes); `sandbox/drawings/2026-11-06_rod_arrangements.html`.
 
-## 2. Your words for T108 (the size of the surplus against length) and T109 (growth, not size)
+## 2. ~~Your words for T108~~ Closed 7 November: T108 confirmed as (a); T109's replacement registered as T110 and running
+
+*Your words of 7 November: "Confirm a for t108 and t109's replacement." T110 runs on the confirmed form (the
+outside foot's gain positive over a window that scales with the length); nothing is owed by you here now.*
+
+## 2 as it was asked. Your words for T108 (the size of the surplus against length) and T109 (growth, not size)
 
 *Overnight 6 to 7 November both ran on predictions marked inferred (the rules allow it) so that nothing waited.
 T108: the ratio falls as about 1/L and the held-out size claim held; confirm or reword the prediction. T109: it
@@ -117,7 +122,7 @@ linear form is withdrawn from the drift.
 **Record.** The brief above, with your 5 November answers read against each choice; the notebook, 5 and 6
 November (the bond, the collar).
 
-## 4. Option B for the clock: decided 7 November
+## 4. Option B for the clock: decided 7 November, form (a) as written
 
 *Decided 7 November 2026, your words: "This is a good idea proceed." Built the same day in its plainest form (a):
 `graphity.clock`, a point's tick rate the inverse of the mean length of its links; tests; the brief
