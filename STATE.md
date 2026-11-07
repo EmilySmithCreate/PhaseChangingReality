@@ -47,8 +47,8 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 
 ## Running, and to read first
 
-- **T110** running at the fitting lengths 32 to 128 (`configs/t110_growth_scaled_window.json`); 256 held out,
-  to run once its number is written. Read with `scripts/analyse_t110.py` by the registered words.
+- **T110** read at the fitting lengths (HOLDS, 0.90, 0.80, 0.75, 0.90); the held-out number for 256 written
+  (0.84, 0.69 to 0.99); 256 running (`configs/t110_growth_scaled_window_heldout.json`). Read with `scripts/analyse_t110.py` by the registered words.
 
 ## Decided this week (4 to 6 November), now in HYPOTHESIS steps 1, 2, 3 and 8
 

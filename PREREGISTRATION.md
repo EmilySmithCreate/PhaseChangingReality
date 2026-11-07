@@ -327,4 +327,13 @@ minus 0.15), scored there alone (rule 14). Ours, said so it can fail: at the fix
 foot's growth is set by the sweep count and not by the length, scaling the window will not rescue it and the share
 will fall again at 128 or 256.
 
-**The held-out number** (to be written when the fitting lengths are read; nothing above changes after this line).
+**The held-out number, written 7 November 2026 from the four fitting lengths, before 256 ran**
+(`results/t110_growth_scaled_window_feet.csv`, 80 replicas, every one escaped). The outside foot's gain over the
+scaled window was positive in 0.90, 0.80, 0.75, 0.90 of replicas at 32, 48, 64, 128 (**HOLDS on the fitting
+lengths**), with median gains of +29, +18, +18, +46 against the inside foot's +0, +0, +0, +4; the inside foot filled
+0.33 to 0.50 of the band. So for **L = 256**, by the procedure above: the share **0.84 (0.69 to 0.99)**. *Ours, said
+before 256 runs:* the scaled window restored the growth that the fixed window lost at 128 (0.40 there under T109,
+0.90 here), so the outside foot's growth is set by the length, not by the sweep count; the risk at 256 is the
+window's end at 4000 sweeps, if growth there is slower still.
+
+**Reading** (to be written when 256 is read; nothing above changes after this line).
