@@ -1962,3 +1962,27 @@ end at this pace: the drift build on the sheet, the clock's registered test once
 the 3D knot, and a short note that reproduces a published number and adds one scored result, which is the thing a
 physicist would read. Caution on extrapolating: the first two months built the toy, runners and rules, the fast
 part; the coming months spend more time on the structural gaps and will feel slower per week.
+
+## 7 November 2026: "I mean a year since I started, september 2027" (hers, verbatim, chat; rule 21; corrects the question above)
+
+Ours, the same day. More plausible, not a promise. Expected at this pace: a note to the published model's niche by
+January 2027; the drift build, the 3D knot and gravity's time half settled one way or the other by spring; the first
+prediction that faces a sky number registered by summer, if a physical length is tied to the toy by then, which is
+the step not paced by shipping. A registered sky-facing prediction by September 2027: roughly even odds. One that
+lands cannot be scheduled.
+
+## 7 November 2026: "anything useful here?" (hers, verbatim, chat; rule 21), on Ashley's patch of 7 November (two commits from his fork: his six ideas in the notebook, four sandbox looks, four LOG lines; not applied)
+
+Ours, the same day. Useful: (1) his supernova look on public Pantheon+ (a monopole plus dipole per redshift band)
+kills a lasting slowdown above about 0.2 % toward the afterglow's lopsided direction at z 0.2 to 0.4 and leaves an
+early-only one; that is the bound target 14 (a preferred direction in the expansion) needs and is better than the
+abstracts the sheet cites (kind: measurement). (2) The nearest published model for "the next X pulls on this
+universe" is named: cosmologically coupled black holes (Farrah et al. 2023; Croker et al. 2024), not her step 6, but
+the model a reader will raise; his fit shows supernovae cannot tell k = 3 from Lambda; worth a reading note. (3) The
+tooling: four scripts that check a direction or a fit against public sky data in seconds, in the rules' style. Not
+useful for the hypothesis: magnetism (neutral matter at large scales; the withdrawn sorter correctly left closed);
+the lopsided-sky match (its fade scale was chosen, said so in the patch, a shape not a result); the direction
+coincidences (two of seven within 12 deg, both local; "not supported" agreed). Before merging: the patch says "her"
+for Ashley (the record has he/him), the outputs are not included so no number can be rechecked without running,
+healpy and astropy are not in the project and healpy does not install on Windows, and the entry quotes his chat at
+length from his own fork (not an email; his choice, worth asking him once).
