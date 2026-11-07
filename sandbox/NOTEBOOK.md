@@ -1876,3 +1876,19 @@ about the real daughter (theory structure, ours): in the toy the surplus is one 
 one in a billion is reached when a daughter holds about a billion units of stored energy per unpaired twist; in three
 dimensions the same rule gives surplus proportional to the surface and energy proportional to the volume, her 1/R of
 5 November. Recorded under rule 21.
+
+## 7 November 2026: "B it falls faster. above one half at every length (our default), above one half, but moving towards 1/2. Does this seem reasonable?" (hers, verbatim, chat; her words for OWED item 2, T108 option (b) and T109)
+
+Ours. Checked against the runs, which had already happened on inferred predictions (PREREGISTRATION T108 and T109).
+T108, "it falls faster" than 1/L: measurement, it does not. On the fitting lengths the log-log slope is -0.73,
+slower than 1/L's -1.00, and from 128 to 256 the fall is about 1/L (0.0100 to 0.0053, where 1/L gives 0.0050). Theory
+structure (ours): the ratio's net is one unit, fixed when the pair straddles the boundary, and the stored energy grows
+with the area, so 1/L on the 4-wide tube is what the rules make; faster than 1/L would need the net itself to shrink,
+which pairs cannot do. So (a), the inferred prediction, is the one the toy supports, and it held at the held-out 256.
+T109, "above one half at every length but moving towards 1/2": measurement, the share crosses one half and keeps
+falling, 0.85, 0.70, 0.85, 0.40, 0.15 at 32 to 256 for the 200-to-500 window; and at every window in the files
+(0 to 50, 50 to 200, 200 to 500) the share at 256 is 0.05 to 0.15. The trend she names is real; the floor is not one
+half but zero, and the cause is the inside foot growing inside the wide band at a fixed clock time. Not scored
+against her words: both were worded after the runs; her confirmation or rewording goes to the registration as a
+dated line once she has seen this. Our candidate for T109 stands (the inside foot stays within the band; the outside
+foot's gain positive at a time that scales with the length), and needs a run with a window set by the length.
