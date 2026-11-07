@@ -1950,3 +1950,15 @@ The right readers now are the few who work on the published model and on graphit
 reproduces one of their numbers and adds one scored result; Ashley is already the right kind of first reader. What
 would change the answer: one registered prediction, its number written before the run, landing on a measured
 quantity it did not contain.
+
+## 7 November 2026: "So I've been working on it for about two months at a pace that I think I will make as much progress in the next four months if we keep shipping away, do you think that we will be able to get there this year?" (hers, verbatim, chat; rule 21)
+
+Ours, the same day. "There" read as her stated aim: one prediction about a measured number the toy did not contain.
+By 31 December (eight weeks, not four months), unlikely, and not because of pace: shipping is not the bottleneck
+(T110 was registered, run at five sizes and read in a day). What stands in the way is a few structural gaps, each
+solved in an afternoon or open for a year, neither paced by effort: a physical length (every result is in lattice
+units); a six-link knot that is a dip (unfound); a reason the toy is this toy (the "Ours" objects). Realistic by year
+end at this pace: the drift build on the sheet, the clock's registered test once her prediction is in, T106, possibly
+the 3D knot, and a short note that reproduces a published number and adds one scored result, which is the thing a
+physicist would read. Caution on extrapolating: the first two months built the toy, runners and rules, the fast
+part; the coming months spend more time on the structural gaps and will feel slower per week.
