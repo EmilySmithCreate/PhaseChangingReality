@@ -1860,3 +1860,19 @@ and held to the digit, built into `graphity.lengths` with tests. The opened tube
 constructor with tests, and T106's question run as a look (one in five stores per pair, as on the torus). The
 two-number state built earlier the same night. Owed from her on Monday: T108's prediction confirmed or reworded;
 T109's replacement in her words; her T106 prediction. Everything is in STATE's overnight section.
+
+## 7 November 2026: "once the loose band is wide, the inside foot grows inside it, so 'the inside foot stops' is true only while the band is narrow. Is this actually good because it reduces red-blue, bringing the net down closer to the 1/1000000000 we are looking for?" (hers, verbatim, chat)
+
+Ours, from the T108 run files (exact count, not a new run). No, not for that reason. In the outside daughter the net
+(red minus blue) does not shrink with length: its median is one half unit of twist, the smallest nonzero surplus, at
+every length from 32 to 256. What grows is the denominator, the energy stored on squares plus held in stores
+(medians 26, 32, 42, 78, 158 at 32, 48, 64, 128, 256), roughly with the length. So the ratio falls as 1/L because the
+daughter gets bigger around one unpaired twist, not because the surplus gets smaller. The inside foot's growth cannot
+touch the outside daughter's net at all: twist is made in equal pairs, so each foot's net is fixed when the pair
+straddles the boundary, and the kind rule sets its sign; growth after that adds red and blue in equal numbers, which
+raises the stored energy and lowers the ratio in whichever foot grows. So growth is good for the number in the same
+way everywhere, by making the daughter heavier, and T109's failure neither helps nor hurts the surplus. What this says
+about the real daughter (theory structure, ours): in the toy the surplus is one quantum per boundary crossing, and
+one in a billion is reached when a daughter holds about a billion units of stored energy per unpaired twist; in three
+dimensions the same rule gives surplus proportional to the surface and energy proportional to the volume, her 1/R of
+5 November. Recorded under rule 21.
