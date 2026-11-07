@@ -336,4 +336,16 @@ before 256 runs:* the scaled window restored the growth that the fixed window lo
 0.90 here), so the outside foot's growth is set by the length, not by the sweep count; the risk at 256 is the
 window's end at 4000 sweeps, if growth there is slower still.
 
-**Reading** (to be written when 256 is read; nothing above changes after this line).
+**Reading** (7 November 2026; `results/t110_growth_scaled_window_heldout_*.csv`, twenty replicas at 256, every one
+escaped, the books balanced). **HOLDS.** The outside foot's gain over the scaled window (1600 to 4000 sweeps after
+the escape) was positive in **1.00** of replicas at 256 (20 of 20; median gain +141), so her claim, above one half at
+every length, holds at 32, 48, 64, 128 and the held-out 256. **The written held-out range was missed on the high
+side:** 0.69 to 0.99 was written and 1.00 was read, one hundredth above it, because the range came from the mean of
+the fitting shares plus 0.15 and the share cannot exceed one; the size claim as written (rule 14) is therefore
+scored MISSED by 0.01, and the direction of the miss is toward her claim, not away from it. Rule 11 closed: the
+claim "the outside foot gains more than the inside foot between 200 and 500 sweeps" → failed because the inside foot
+grows inside the wide band at a fixed clock time → replacement, hers, "the outside foot's gain is positive at a time
+that scales with the length" → tested here and held at every length. Read, not scored: the inside foot also grew
+over the window at 256 (median +22, filling 0.49 of the band), so "the inside foot stops" stays withdrawn; what
+stands is that it is bounded by the band and the outside foot is not. Her kind rule's sign held again beside it, the
+outside foot's sign matching the outward kind in 15 of 18 replicas with a nonzero twist at 256.

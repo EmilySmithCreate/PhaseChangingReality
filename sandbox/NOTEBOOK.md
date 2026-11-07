@@ -1926,3 +1926,10 @@ scales with the length; the inside foot's staying within the band is exact by th
 is read, not scored). Option B: form (a) as written, a point's tick rate the inverse of the mean length of its
 links, which is what was built; nothing changes in the code. Owed from her now: only her prediction for the shape of
 the clock's slowing with distance (OWED item 4) and T106's prediction.
+
+## 7 November 2026: T110 read (ours; the registration's reading is the one home)
+
+HOLDS at every length including the held-out 256, where every one of twenty replicas grew outward over the scaled
+window. The written range for 256 was missed on the high side by one hundredth (0.69 to 0.99 written, 1.00 read):
+the procedure's range ran past the ceiling of a share, and the miss is reported as a miss. The inside foot also grew
+inside the band at 256; "the inside foot stops" stays withdrawn.

@@ -31,7 +31,10 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
   halving per step. Owed from her: her prediction for that shape before it is registered.
 - **Her words for T108 and T109** came after the runs and are recorded as such, not scored; then, after seeing
   the check, she confirmed T108 as (a) and T109's replacement, registered as **T110** (growth over a window that
-  scales with the length; fitting lengths running, 256 held out). Option B confirmed in form (a) as built.
+  scales with the length). **T110 read the same day: HOLDS** at 32 to 128 (0.90, 0.80, 0.75, 0.90) and at the
+  held-out 256 (1.00); the written range 0.69 to 0.99 was missed on the high side by 0.01. So the outside foot's
+  growth is set by the length; the inside foot is bounded by the band and still grows inside it (not scored).
+  Option B confirmed in form (a) as built.
 
 ## Overnight 6 to 7 November, on her "make progress overnight and we leave this for Monday"
 
@@ -47,8 +50,7 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 
 ## Running, and to read first
 
-- **T110** read at the fitting lengths (HOLDS, 0.90, 0.80, 0.75, 0.90); the held-out number for 256 written
-  (0.84, 0.69 to 0.99); 256 running (`configs/t110_growth_scaled_window_heldout.json`). Read with `scripts/analyse_t110.py` by the registered words.
+- Nothing running; nothing unread. Read with `scripts/analyse_t110.py` by the registered words.
 
 ## Decided this week (4 to 6 November), now in HYPOTHESIS steps 1, 2, 3 and 8
 
@@ -67,7 +69,7 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
    the one doughnut, each a majority of one hand in rows, fed by two funnels that taper to the doughnut; the twins
    one from each. A test of the majority per half and the rows waits on the drift, her prediction first.
 2. ~~T108 and T109's words~~ Closed 7 Nov: T108 confirmed as (a), which held; T109's replacement registered as
-   T110 on her confirmed form and running (the outside foot's gain positive over a window scaled by L / 32).
+   T110 on her confirmed form and read the same day: HOLDS at every length including the held-out 256.
 3. **The twist energies: the last choices.** Choice 3 decided 6 Nov (a store is one loop over two diagonals, n = 2,
    L = 2√2; exact: under the rod form the store is exactly two dark particles and all its extra is the bond).
    Sigma decided 6 Nov, night: a store weighs about a proton (the proton's 5,508 diagonals' worth of bond), so
@@ -102,7 +104,7 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
    four-link lengths (negative, logarithmic) and the like-twist repulsion, the store locked by the loop closing; then the drift
    build (`docs/design/drift_2026-11-05.md`) with its stopping rule, and a look at whether stores line up into a
    doughnut under gravity's squeeze.
-2. ~~T108 and T109 on her words~~ T110 (above), then its held-out 256.
+2. ~~T108 and T109 on her words; T110~~ All read 7 Nov (above).
 3. T106, the moves on the opened tube six around, once her prediction is in.
 4. The design brief for a twist-curl state as the computation Carroll's reader would read (paper 19).
 5. Gravity's time half: option B built 7 Nov; the registered test of the slowing's shape waits on her prediction;

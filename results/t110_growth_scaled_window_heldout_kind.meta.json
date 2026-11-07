@@ -1,0 +1,36 @@
+{
+  "config": {
+    "name": "t110_growth_scaled_window_heldout",
+    "_purpose": "T110's held-out length (PREREGISTRATION.md, rule 14): L = 256, window 1600 to 4000 sweeps after the escape, run only after the number for it has been written into the registration from the fitting lengths 32 to 128 (configs/t110_growth_scaled_window.json). Same cell, same k, fresh seed.",
+    "lengths": [
+      256
+    ],
+    "replicas": 20,
+    "k": 4,
+    "lambda": 1.25,
+    "g": 1.5,
+    "block": 10,
+    "min_size": 8,
+    "max_sweeps": 40000,
+    "after": [
+      0,
+      50,
+      200,
+      500
+    ],
+    "after_scale_length": 32,
+    "barrier": 12,
+    "max_pair_sweeps": 10000,
+    "seed": 20261112
+  },
+  "config_path": "configs/t110_growth_scaled_window_heldout.json",
+  "graphity_version": "0.1.0",
+  "numpy": "2.0.0",
+  "python": "3.12.10",
+  "git_commit": "d15d2a678a525b1f991e85fad375284dc67f4abc",
+  "git_dirty": true,
+  "git_untracked_count": 1,
+  "git_untracked": [
+    "results/t110_growth_scaled_window_heldout.log"
+  ]
+}

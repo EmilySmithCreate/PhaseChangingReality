@@ -44,8 +44,10 @@ coil) and 6 November, late night (the shapes); `sandbox/drawings/2026-11-06_rod_
 
 ## 2. ~~Your words for T108~~ Closed 7 November: T108 confirmed as (a); T109's replacement registered as T110 and running
 
-*Your words of 7 November: "Confirm a for t108 and t109's replacement." T110 runs on the confirmed form (the
-outside foot's gain positive over a window that scales with the length); nothing is owed by you here now.*
+*Your words of 7 November: "Confirm a for t108 and t109's replacement." T110 ran the same day on the confirmed
+form (the outside foot's gain positive over a window that scales with the length) and HOLDS at every length, 0.90,
+0.80, 0.75, 0.90 at 32 to 128 and 1.00 at the held-out 256; the range written for 256 (0.69 to 0.99) was missed on
+the high side by 0.01. Nothing is owed by you here now.*
 
 ## 2 as it was asked. Your words for T108 (the size of the surplus against length) and T109 (growth, not size)
 
