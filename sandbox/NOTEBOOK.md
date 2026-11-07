@@ -1986,3 +1986,45 @@ coincidences (two of seven within 12 deg, both local; "not supported" agreed). B
 for Ashley (the record has he/him), the outputs are not included so no number can be rechecked without running,
 healpy and astropy are not in the project and healpy does not install on Windows, and the entry quotes his chat at
 length from his own fork (not an email; his choice, worth asking him once).
+
+## 7 November 2026: the black hole's size and the snap; the next X pulling or pushing (Ashley, verbatim, from his own chat, offered as a pull request from his fork; the two of his six ideas whose looks were taken in)
+
+Not Emily's; Ashley's, for his companion "crystal model" (X pictured as a crystal whose impure, uneven snap starts
+each daughter). Nothing here touches `HYPOTHESIS.md`; whether any of it bears on the claim is Emily's to say. His
+words:
+
+- "i dont see why a bigger black hole would create a more flawed crystal effect, the mix if t he matter going in
+  would not be effected by size, maybe by location but perhaps the size of the black hoie does effect the size of
+  the crsytal or the snap caused by the effect and perhaps that leads to parts of the universe expanding faster
+  than others?"
+- "could the uneven expansion be effected by the next "X" being formed and start to the next snap in the loop? it
+  pulls or pushed at the curret universe?"
+
+Ours (his assistant's look, 7 November; this session's rerun the same day, every number reproduced to the printed
+digit; the LOG lines are the one home for the numbers), nothing registered: no prediction was written before either
+run, so neither is a test, and a look can kill but not crown.
+
+- **Parts expanding faster than others.** Look (`sandbox/sn_tilt_by_distance_look.py`, 1,351 Pantheon+ supernovae
+  in four redshift bands): no slowdown toward the afterglow's lopsided direction at any distance; at z 0.2 to 0.4 it
+  reads −0.75 % ± 0.56 %, so a lasting slowdown above about 0.2 % there is excluded (kind: measurement). Nearby
+  supernovae tilt 3.6 % toward (143°, −10°), 78° away, and most of it goes when the nearby galaxies' motions are
+  corrected (3.6 % to 1.9 %), as a local flow would. Not killed: an expansion difference early on that evened out
+  later. This is the bound target 14 (a preferred direction in the expansion) has to face
+  (`docs/design/reality_targets.md`).
+- **The next X pulling or pushing.** Checks out with step 4 of the claim: nothing passes back out through a
+  horizon, so a forming X acts outside only through ordinary gravity (general knowledge, to verify). Nearest
+  published model: cosmologically coupled black holes (Farrah et al. 2023; Croker et al. 2024), whose masses grow
+  with the expansion and which, at coupling k = 3, act as dark energy; the reading note
+  `docs/reading/notes/2026-11-07_cosmologically_coupled_black_holes.md`. Look
+  (`sandbox/coupled_bh_expansion_look.py`, no Lambda put in, black holes born with star formation): k = 3 fits
+  1,466 supernovae as well as Lambda, k = 0 and 1 fail, and supernovae cannot tell k = 3 from Lambda since 95 % of
+  its dark energy is built by z = 1. Against it (reported in his look, to verify at source): gravitational-wave
+  black-hole masses give k below 2.1 at two sigma. It would explain the speeding up, not a lopsided one. It differs
+  from step 6's candidate (dark energy as the energy of space itself); that comparison is Emily's.
+
+**Left on his fork, and why** (ours): his magnetism idea (central in astrophysics, absent in cosmology because
+matter is neutral on large scales; nothing for the toy, and the withdrawn electromagnetism sorter stays closed); his
+simulated-sky look, where a tilt fading with scale matches the published shape only because the fade scale was
+chosen, as his assistant said (rule 13), and which needs healpy, which does not install on this laptop; and his
+seven-direction look, whose honest verdict was "not supported" (two of seven clues within 12°, both local). His
+question on `WITHDRAWN.md` section 6 (the clock starting at the snap) stays on his page, raised once, not proposed.

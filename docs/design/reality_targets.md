@@ -157,7 +157,12 @@ record; the current statement is Update 41 and the constraints below.
     at the two poles in her words and have never opened in the toy (piece 5). *Missing ingredient, named*: a growth
     move for empty space with a rate that can differ by direction, and the pole as the seed of the opening. *Cautions*:
     Ashley's correlations are inside his toy with ten settings randomised and the standouts reported (exploratory by
-    rule 3; nothing scored by rule 13); his toy is plane geometry, which she has said two dimensions here is not. *Next*:
+    rule 3; nothing scored by rule 13); his toy is plane geometry, which she has said two dimensions here is not.
+    *Bound added 7 November* (Ashley's look on public Pantheon+ supernovae, rerun here; `sandbox/LOG.md`, 7 November,
+    the one home): no slowdown toward the afterglow's lopsided direction (224°, −22°) at any distance; a lasting
+    slowdown above about 0.2 % at z 0.2 to 0.4 is excluded; the nearby 3.6 % tilt mostly goes when the nearby
+    galaxies' motions are corrected, as a local flow would. An uneven expansion from the burp must therefore be
+    early-only or below that bound. *Next*:
     the prior-work note's two papers read in full with their rebuttals; then, once a growth move exists, her number
     in her words for the difference between directions before any run.
 
