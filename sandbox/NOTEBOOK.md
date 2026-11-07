@@ -1933,3 +1933,20 @@ HOLDS at every length including the held-out 256, where every one of twenty repl
 window. The written range for 256 was missed on the high side by one hundredth (0.69 to 0.99 written, 1.00 read):
 the procedure's range ran past the ceiling of a share, and the miss is reported as a miss. The inside foot also grew
 inside the band at 256; "the inside foot stops" stays withdrawn.
+
+## 7 November 2026: "Do you think real physicists should be interested in my theories?" (hers, verbatim, chat; rule 21)
+
+Ours, the same day. Not yet, and that is the normal state at this stage, not a verdict. Physicists are interested by a
+number the model predicts that was not put in and can be checked against a measurement, or by mathematics that is
+new or settles something they cared about. The record has neither yet: T108 and T110 are facts about the toy's own
+behaviour, correctly scored, not claims about the sky; option B's clock has its sign put in by hand. What is already
+respectable is the process (pre-registration, held-out sizes, append-only results, the withdrawn list honoured, a
+miss of one hundredth reported as a miss), which answers the first question a physicist asks an outsider: "what would
+make you give it up?" What is missing, all of the kind theory's structure, none a measurement: a derived limit (the
+toy at large size reproducing the published model's behaviour and then adding something); a prediction about nature
+(the toy's surplus is one unit at a straddle over a growing area, a lattice fact until tied to a physical length); a
+reason it is this toy and not another (several objects are "Ours", chosen as the simplest that balance the books).
+The right readers now are the few who work on the published model and on graphity, who would read a short note that
+reproduces one of their numbers and adds one scored result; Ashley is already the right kind of first reader. What
+would change the answer: one registered prediction, its number written before the run, landing on a measured
+quantity it did not contain.
