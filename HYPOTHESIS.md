@@ -260,6 +260,13 @@ twist and spin under the rules, and the simulation plays out all the options in 
   of freedom, as a point moving across a plane represents them; a representation, not the thing (the withdrawn
   reading of the 2D phase as a flat sheet stays withdrawn). A statement of the claim's status, not a definition.
 
+### Her decisions of 7 November 2026 (hers; verbatim in the notebook)
+
+- **Option B for the clock**: each point's tick is tied to the lengths of its links, so clocks run slow where links
+  are long, near mass; "a good idea, proceed". Built the same day in its plainest form (a point's tick rate the
+  inverse of its mean link length; `graphity.clock`). What it puts in by hand and what it leaves to measurement are
+  in the brief of 7 November.
+
 ### Her decisions of 6 November 2026 (hers; verbatim in the notebook; folded into steps 1, 2, 3 and 8 the same night; kept here with their dates)
 
 - **The centre of a black hole is the loose remnant of the last burp**, lower in density than the layers round it;
@@ -411,8 +418,11 @@ twist and spin under the rules, and the simulation plays out all the options in 
   they approach and light's path past a knot lengthens; (T100): the α that γ = 1 pins drifts between knots whose
   halos differ, so ONE α is not yet shown.
 - **What the lengths lack** (ours, exact and measured): the time half of Einstein's two parts. The toy's own
-  clock, each point's count of accepted moves, runs *faster* near a knot (T101), the wrong sign. A clock rule
-  tied to the link lengths (option B) would put the sign in by hand; its form is hers, or none.
+  clock, each point's count of accepted moves, runs *faster* near a knot (T101), the wrong sign. **Option B**
+  (hers, 7 November): a point's tick rate is the inverse of the mean length of its links, so clocks run slow
+  where links are long, near mass. The sign is put in by hand through alpha's; exact: the mean clock is one under
+  her scale rule; the shape of the slowing with distance is the stiffness's Green's function, the potential's
+  shape, hers to predict before it is registered (`docs/design/clock_option_b_2026-11-07.md`).
 
 ### Time
 
@@ -421,8 +431,9 @@ twist and spin under the rules, and the simulation plays out all the options in 
   things down. The pace of the present is set by local conditions (fixed where steady, slower where matter sits
   or accelerates); relativity is the evidence, and no new model with relativity's time built in is wanted for
   the root question (Update 41).
-- The toy has no time. In the stiff toy no disturbance travels at a steady pace; soft space's waves have one
-  (exact). The clock test in open space belongs at λ = 1 (T101 Amendment 1, ran overnight 3 to 4 November,
+- The toy has no time of its own; since 7 November it has a clock on every point, option B above, whose
+  slowing near mass is put in with alpha's sign. In the stiff toy no disturbance travels at a steady pace; soft
+  space's waves have one (exact). The clock test in open space belongs at λ = 1 (T101 Amendment 1, ran overnight 3 to 4 November,
   unread by its registered words at this writing).
 
 ### The quantum world

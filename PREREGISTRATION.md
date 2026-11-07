@@ -287,3 +287,11 @@ the outside foot's gain is positive at a time that scales with the length rather
 test on her words. Read, not scored: her kind rule held again, the outside foot's sign matching the outward kind in
 16 of 16 replicas with a nonzero twist at 256 (54 of 57 in T107, 41 of 44 at this run's fitting lengths), so the
 sign result of T107 now stands at every length from 32 to 256 on two independent runs.
+
+**Her words of 7 November 2026, worded after the runs and not scored** (the notebook, verbatim): T108, option (b),
+"it falls faster" (than 1/L); T109, "above one half at every length (our default), above one half, but moving
+towards 1/2". Against the runs: T108's fall is slower than 1/L on the fitting lengths (slope −0.73) and about 1/L to
+the held-out 256, and the rules make 1/L (the net is one unit, fixed at the straddle; the stored energy grows with
+the area), so "faster" is not what the toy does; T109's share crosses one half and falls to 0.15 at 256, so the
+floor is zero, not one half, at a fixed clock time. The inferred predictions above are the ones scored. Her
+confirmation or rewording for the record is owed (OWED item 2).

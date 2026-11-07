@@ -16,11 +16,20 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 | **7. The scrap** | Measured: three kinds of knot of fixed energy, their number set at the opening; the loop rules fixed and the four test particles pass; a one-sided dark loop exact at half the neutrino's cost; curl and anti-curl built as a state on the squares; the knots' share of the release is λ-free; the Klein relative is a knot of fixed energy behind a wall of 21 (T102); her two kinds built as moves (4 Nov): on a flat torus the ledger is spent on pairs before any store can be paid, so no store forms, while the same-sign curls left with no room rise with λ (T103); the same with the price from gravity (T104); the cause is the sweep's order, ours; under her clock (room judged all at once) stores form once the release packs the sheet and rise with λ, held-out size held (T105); the stores sit as singles and short chains, no ring (a look, 6 Nov); the bond that holds a store has 't Hooft's form, energy linear in separation, its constant to calibrate (6 Nov). | 2, 3, 7, 18, 19 |
 | **8. Curve-first gravity** | Carrier decided 4 Nov: the edge lengths; 6 Nov: gravity acts in two and three dimensions (cube edges are square edges), light only in three, so the lengths need a four-link form (exact derivation, ours, before the drift). Exact: the curvature's stiffness in the lengths is gapless; measured: two knots' joint energy falls as they approach and light's path lengthens (T84); α drifts between knots (T100); the move count as a clock runs faster near knots (T101). The time half is open: the longer path is the space half of the delay only. | 9, 10, 11 |
 | **9. Quantum** | Counting alone cannot beat Bell; the published amplitude rule is adopted and checked in an exact toy; "the options" are copies; Carroll's reader reads geometry only, and a window with her matter reads differently (T94, T98). | 13, 19 |
-| **10. Time and the speed limit** | The toy has no time; its move count ticks only near knots and stands still in open space (T101); at λ = 1 with one planted knot the same, FASTER NEAR KNOT in every cell, open space never moving where the knot healed (T101 Amendment 1, read 6 Nov): the setting was not the cause, and the move count is a clock of activity, not of proper time. Soft space's waves have one speed. | 14 |
+| **10. Time and the speed limit** | Since 7 Nov the toy has option B's clock on every point (tick rate the inverse of the mean link length), its slowing near mass put in with alpha's sign, its mean exactly one, its shape the stiffness's Green's function (a look; registration waits on her prediction). Before that: the toy had no time; its move count ticks only near knots and stands still in open space (T101); at λ = 1 with one planted knot the same, FASTER NEAR KNOT in every cell, open space never moving where the knot healed (T101 Amendment 1, read 6 Nov): the setting was not the cause, and the move count is a clock of activity, not of proper time. Soft space's waves have one speed. | 14 |
 | **11. Black holes** | Her picture (5 to 6 Nov, confirmed): the curled slab is a doughnut of squares (exact: a four-linked closed surface of squares is a torus), its inner rim of Klein stores the collar, its hole's axis the rod, three-dimensional, dark matter moving in it; three regions by movement; the loose remnant of the last burp sits at the rim and the next seed starts there (T107). Nothing folds from energy alone (T34, T57); the stores do form from energy where there is no room (T105), but not yet under gravity's squeeze, which is not built on the sheet. Open, hers: the two slabs against one doughnut; the taper. | 12, 1 |
 | **12. The strange loop** | The measure fully specified and computed; under her unit every stellar class is typical; the loop as a fractal. | 16 |
 | **14. Observers inside the loop** | "When we are" depends on who is counted; the observation window is the load-bearing term; not scored on our age. | none |
 | **15. Connecting to observations** | Five target sheets owed (dark matter as relics; black holes from dark matter; the birth and its gravitational waves; dark energy over time; matter over antimatter); a sixth written 5 Nov (a preferred direction in the expansion, target 14, with its prior-work note), then three more at her word the same day (the horizon's state count, one bit per 4 ln 2 Planck areas, target 15; the sense of rotation from the spin, target 16; a vortex line, target 17; all general knowledge, to verify); nothing measured. | 7, 12 |
+
+## 7 November
+
+- **Option B decided and built** (her "proceed"): a clock on every point, its tick rate the inverse of its mean link
+  length (`graphity.clock`, tests, brief). Put in by hand: the sign, and the equal parts of light's delay at first
+  order. Not put in: the mean clock is exactly one (her scale rule); the slowing's shape with distance is the
+  stiffness's Green's function. A look: slow by 0.15 one step from a knot on the sheet, 0.04 at the knot in the cube,
+  halving per step. Owed from her: her prediction for that shape before it is registered.
+- **Her words for T108 and T109** came after the runs and are recorded as such, not scored (PREREGISTRATION).
 
 ## Overnight 6 to 7 November, on her "make progress overnight and we leave this for Monday"
 
@@ -57,7 +66,9 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
 2. **T108 and T109 ran overnight on inferred predictions** (above). Owed: her confirmation or rewording of
    T108's prediction (FALLS as a/L, which held), and her words for T109's replacement, since "the inside foot
    stops" holds only while the band is narrow (our candidate: the inside foot stays within the band, and the
-   outside foot's gain is positive at a time that scales with the length).
+   outside foot's gain is positive at a time that scales with the length). Her words of 7 Nov ("falls faster";
+   "above one half, moving towards 1/2") are in the registration as worded after the run and not scored; her
+   confirmation or rewording is still owed.
 3. **The twist energies: the last choices.** Choice 3 decided 6 Nov (a store is one loop over two diagonals, n = 2,
    L = 2√2; exact: under the rod form the store is exactly two dark particles and all its extra is the bond).
    Sigma decided 6 Nov, night: a store weighs about a proton (the proton's 5,508 diagonals' worth of bond), so
@@ -68,7 +79,9 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
    as a choice in the brief, ours, hers to accept. Her T106 prediction is owed only once the two-number build
    exists. Build owed on our side: the store keeps
    both diagonals in the moves (held rises by two per join).
-4. **Option B for the clock, or none**: a point's tick tied to its link lengths would put the time half in by hand.
+4. ~~Option B for the clock, or none~~ Decided and built 7 Nov (`graphity.clock`, tests, the brief
+   `docs/design/clock_option_b_2026-11-07.md`). Owed from her: her prediction for the shape of the clock's slowing
+   with distance from a knot in the cube, before it is registered.
 5. ~~The "face gluon"~~ Decided 6 Nov, night: twist is its own number again (reversing 4 Nov), so opposite halves
    cancel into light and leave the curl as a dark gluon, the shape of the neutral pion. Built 6 Nov, night, under its
    design brief (`docs/design/twist_second_number_2026-11-06.md`): `twist_rule="second_number"` in the pair moves,
@@ -93,7 +106,8 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
 2. T108 and T109 on her words (above).
 3. T106, the moves on the opened tube six around, once her prediction is in.
 4. The design brief for a twist-curl state as the computation Carroll's reader would read (paper 19).
-5. Gravity's time half: option B or none; a six-link knot that is a dip is still unfound.
+5. Gravity's time half: option B built 7 Nov; the registered test of the slowing's shape waits on her prediction;
+   a six-link knot that is a dip is still unfound.
 6. The target sheets of piece 15, the dark-matter sheet and the birth table first.
 7. Keep the λ question in mind: 1.25 is the toy's convenience setting; her picture puts open space at λ ≤ 1.
 

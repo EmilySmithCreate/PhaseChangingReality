@@ -50,6 +50,11 @@ failed at 128 and at the held-out 256, since the inside foot grows inside the wi
 replacement are what is owed now (our candidate: the inside foot stays within the band, and the outside foot's
 gain is positive at a time that scales with the length).*
 
+*7 November: your words came, "B it falls faster" and "above one half, but moving towards 1/2", after the runs; they
+are in the registration as worded after the run and not scored, since the toy fell slower than 1/L and the growth
+share fell through one half to 0.15. Still owed: T108 confirmed as (a), or your rewording; T109's replacement with a
+window that scales with the length, and your number for it.*
+
 **The question.** T107 is read. Two tests follow from it and each needs your prediction in your words before it
 runs. T108: does your ratio (red − blue)/(red + blue + all stored energy) fall with the daughter's length, and
 toward what? T109: does the outside foot grow more than the inside foot between 200 and 500 sweeps after the
@@ -112,7 +117,15 @@ linear form is withdrawn from the drift.
 **Record.** The brief above, with your 5 November answers read against each choice; the notebook, 5 and 6
 November (the bond, the collar).
 
-## 4. Option B for the clock, or none
+## 4. Option B for the clock: decided 7 November
+
+*Decided 7 November 2026, your words: "This is a good idea proceed." Built the same day in its plainest form (a):
+`graphity.clock`, a point's tick rate the inverse of the mean length of its links; tests; the brief
+`docs/design/clock_option_b_2026-11-07.md`. The sign and the equal parts of light's delay are put in by hand; the
+balance (the mean clock is exactly one) and the shape of the slowing with distance are not. Now owed from you: your
+prediction for the shape of the clock's slowing with distance from one knot in the cube, a number or a range for the
+ratio of the slowing at distance 2 to that at distance 1 at a held-out size (the brief's last section).*
+
 
 **The question.** The toy has no time. Its own clock, each point's count of accepted moves, runs faster near a knot
 and stands still in open space (T101 at λ = 1.25; the same at λ = 1, read 6 November). Option B is a rule that

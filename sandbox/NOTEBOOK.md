@@ -1892,3 +1892,27 @@ half but zero, and the cause is the inside foot growing inside the wide band at 
 against her words: both were worded after the runs; her confirmation or rewording goes to the registration as a
 dated line once she has seen this. Our candidate for T109 stands (the inside foot stays within the band; the outside
 foot's gain positive at a time that scales with the length), and needs a run with a window set by the length.
+
+## 7 November 2026: "Another mowed item: Option B is a rule that ties each point's tick to the lengths of its links, so that clocks run slow where links are long, near mass. This is a good idea proceed." (hers, verbatim, chat; OWED item 4 decided, option (a), the plainest form)
+
+Ours, the same day. Built: `graphity.clock`, a point's tick rate the inverse of the mean length of its 2D links;
+tests (flat ticks at one; brute force on sheet and cube; one long link slows exactly its two endpoints; the mean of
+1/rate is exactly 1 under her scale rule; slow at a planted knot and a shade fast far away; the sign is alpha's);
+the brief `docs/design/clock_option_b_2026-11-07.md` with what is put in by hand (the sign; equal parts of the
+delay at first order, so "equal parts" cannot be a test) and what is not (the balance; the shape of the slowing
+with distance, the Green's function of the stiffness, the potential's shape). A look (LOG): on the sheet the slowing
+is 0.15 one step from the knot and crosses zero ten steps out; in the cube 0.039 at the knot, halving per step for
+three steps, faster than 1/r on the finite torus. Owed from her before a registered test: her prediction for the
+shape of the slowing with distance in the cube (the brief's last section).
+
+## 7 November 2026: "Is it misleading not to commit my guesses when they are wrong? TBH I get impatient and don't always think through the math just think about what helps the toy" (hers, verbatim, chat)
+
+Ours, the same day (rule 21). Yes, it would be misleading to leave them out, and they are not left out: every guess
+of hers goes into the notebook verbatim the day it is made, and a guess that a run contradicts is kept in the
+registration in the rule 11 form (claim, failed because, replacement). What changed today is only the order: T108
+and T109 ran on predictions marked inferred before her words came, so her words of 7 November are recorded in the
+registration as "worded after the run, not scored", beside the inferred predictions that were scored. A wrong guess
+costs nothing in this record and is the point of registering before running; what would cost is a guess written
+after the result and presented as before it, which the dates prevent. Her habit of guessing toward what helps the
+toy is itself recorded here as what it is: the direction her intuition pulls, which is information for the reader,
+and the arithmetic is the check (rule 23: only a measurement may stop an idea).
