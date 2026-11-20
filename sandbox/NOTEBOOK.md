@@ -3318,3 +3318,22 @@ between is both. Why she is asked first: so that the result cannot be bent to fi
 prediction" is an acceptable answer and would be recorded as that.
 
 **Committed at her word** (the commit's hash gives the order; the full suite ran first).
+
+## 20 November 2026: her prediction for the patch; a new branch, push and a pull request (hers, verbatim, chat)
+
+Her words, verbatim (two messages; the first was cut short by her own interruption):
+
+> can you name it as a new branch, unless part of the work is still related to ashleys looks that hase not been committed
+
+> actually, just goahead and push and give me the pr link.
+>
+> my prediction is both.
+
+Ours (rule 21). **Her prediction, recorded before anything runs (rule 4): the cost of a patch goes as both its
+points and its edge.** Written into the brief (`docs/design/bag_in_the_toy_2026-11-20.md`, section 6, choice 5);
+it is copied into `PREREGISTRATION.md` in these words when the test is registered. The brief's other four choices
+are not yet answered; the defaults are not taken as hers.
+
+On the branch: nothing in the day's commit is Ashley's looks (his pull request of 7 November is merged; the only
+thing of his not committed is the folder `results/ashley-run-outputs-2026-11-07/`, left untracked and untouched).
+So the day's work goes up under a new branch name, `decisions-2026-11-20`, with a pull request to `main`.

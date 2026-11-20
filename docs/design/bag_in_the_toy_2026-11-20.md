@@ -67,7 +67,9 @@ light, which is not built as a field.
 3. **Whose light for (D):** default the stand-in (term 10) first, labeled; her light as a field on the cube
    diagonals is a separate build with its own brief.
 4. **The patch's shape:** default the smallest block of cells that holds one closed ring of three thirds.
-5. **Her prediction, before test 3 runs:** points, edge, or both? (To be recorded in her words.)
+5. **Her prediction, before test 3 runs:** points, edge, or both? **Hers, 20 November 2026, verbatim: "my
+   prediction is both."** Recorded before any run; to be copied into `PREREGISTRATION.md` in these words when
+   the test is registered. Choices 1 to 4 are not yet answered.
 
 ## 7. Not in this brief
 

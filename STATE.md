@@ -171,8 +171,10 @@ the speed of a change in the lengths; (5) a reader for paper 1.
 - **The extra count is sourced** (the review, section 15.2: a third for every quark, minus a third for every
   antiquark), and she marked it important: her picture needs a count that tells a proton from a positron, and it
   exists only if the electron counts as no thirds. The triangle's charge is read as turning (her standing rule,
-  built and tested), not as places. The prediction question explained in the notebook; her answer still owed.
-  **Committed 20 November at her word.**
+  built and tested), not as places. The prediction question explained in the notebook. **Her prediction for the
+  patch, recorded before any run: "my prediction is both"** (points and edge; in the brief, section 6). Still
+  owed by her: the brief's choices 1 to 4; three thirds becoming one whole, never or rarely.
+  **Committed 20 November at her word;** pushed as the branch `decisions-2026-11-20` with a pull request.
 - **Owed sources (rule 19), all of 20 November:** the Kerr ring; the solid-doughnut statement; the list of flat
   three-dimensional spaces; 't Hooft 1974; no pull between resting masses in two dimensions; the string tension
   and the string's slopes; the Δ⁺⁺ and color; the Ω⁻ prediction; the charge table of the group in Tong's paper;
