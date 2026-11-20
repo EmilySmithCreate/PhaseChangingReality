@@ -24,6 +24,7 @@ Format: **withdrawn idea** → what replaced it (or "open / hers to propose") �
 - **"The 2D phase" read as the paper-1 flat sheet** → the 2D phase is the two degrees of freedom, twist and curl, not a sheet — U148.
 - **λ > 1 as a constant of our loop holding everywhere in open space** (U23) → λ is 1 or slightly below everywhere except the inner shell of a black hole; "above 1 in open space" were the assistant's words and are struck — U152.
 - **The opened tubes as a stage of the change (two dimensions becoming three through a tube)** → three dimensions are a projection from the two-dimensional arrangement; the opened tubes are the toy's end state, nothing more — U155.
+- **"Every point on the surface of the doughnut is 2 curled directions"** (hers, 20 November 2026, afternoon) → withdrawn by her the same evening ("this was wrong. it is a plane. 2 open directions, 1 curled"); the skin itself is the strips, one-sided, with no inside — notebook, 20 November 2026; `HYPOTHESIS.md`, her decisions of 20 November.
 
 ## 2. How X opens (the burp)
 
@@ -80,7 +81,9 @@ Format: **withdrawn idea** → what replaced it (or "open / hers to propose") �
 - **A particle is a vibration of a small closed loop** → the loop's modes dissolve into the sheet's (T15 rung 0b) — U21.
 - **Different ring lengths are different particles** (U85) → mass counts looped diagonals — U140.
 - **The particle as a braid of three face-diagonal twists** (U87) → twist as signed thirds (matter) and halves (dark) — U97.
-- **Her strand as a face diagonal** → the body diagonal — U96; **thirds on the cube body diagonals** (U97, U99) → thirds on the 1 × 1 × 2 box diagonals; the body diagonals carry light — U142, U145, sheet.
+- **Her strand as a face diagonal** → the body diagonal — U96; **thirds on the cube body diagonals** (U97, U99) → thirds on the 1 × 1 × 2 box diagonals; the body diagonals carry light — U142, U145, sheet. *Looked at again by her decision of 20 November 2026, in one form only and as a working assumption, not a definition: a third is one edge's shadow on a cube diagonal, and the electron is one cube diagonal of the published charge table (`HYPOTHESIS.md`, her decisions of 20 November). The earlier forms (U97, U99) stay withdrawn. Narrowed by her the same day: "edge thirds are a measurement tool, only the box diagonals exist"; the table is a ruler for charge and color, not a place for the thirds, so nothing is reopened in space.*
+- **A long diagonal counting one of mass whatever its length** (a curl held along one untwisted diagonal longer than 1 × 1 × 2, her gluon as a lattice object; 29 October, U148) → dropped by her, 20 November 2026 ("let's lock this in and drop the long diagonal idea"): the count is energy, not length, and the proton is a closed ring with a silent arc — notebook, 20 November 2026.
+- **The count of looped diagonals read as a loop's length** (ours, in the looks of 20 November) → the count is energy (hers, 20 November 2026: "Yes") — notebook.
 - **The two kinds of point separate matter from antimatter for strands** → the diagonal's colour marks it (black-to-black matter, white-to-white antimatter) — U156, sheet.
 - **Twist is not a second number; a full curl carries a half twist of its sign** (4 November) → twist its own number again, so that opposite halves can cancel into light and leave the curl as a dark gluon — her reversal of 6 November, night (notebook).
 - **Three 60° grid steps make spin ½ through a kind swap** (U107) → withdrawn — U112.

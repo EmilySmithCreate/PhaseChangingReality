@@ -2028,3 +2028,1293 @@ simulated-sky look, where a tilt fading with scale matches the published shape o
 chosen, as his assistant said (rule 13), and which needs healpy, which does not install on this laptop; and his
 seven-direction look, whose honest verdict was "not supported" (two of seven clues within 12°, both local). His
 question on `WITHDRAWN.md` section 6 (the clock starting at the snap) stays on his page, raised once, not proposed.
+
+## 10 November 2026: does Ashley's page match her picture? (hers, verbatim, chat)
+
+"Ashley made this visulaization but I'm not sure our visions align -> rings vs whirlpools, is he accounting for the
+2d / klein bottle shape? crystal seems a good analogy but can it add to the approach I'm taking ?"
+
+Ours, the same day (answer, rule 21). Read: his public page, its `/crystal` and `/simulator` pages (the simulator
+page's text came back cut short) and the downloadable `big_unfolding_model.py`; the page's scripts were not
+readable, so what is said of the animations is from their captions. Nothing was run; his 500-run numbers are his.
+
+- **Rings against whirlpools: not aligned, and the cause is the date.** His page draws her whiteboard of 5 November
+  (stacked rings round a central spiral). Her two corrections of the same day came after it: "the rings are
+  whirlpools, not loops", then "not rings: one continuous line spiralling in". In his code the coil is a fixed
+  spiral pattern of energy on a flat picture (a cosine in angle and radius, with a sign for the winding direction);
+  nothing flows inward, nothing turns, and the two hands do not turn opposite ways. The winding sign's effect on his
+  score is +0.03, that is none.
+- **The two-dimensional phase and the Klein stores: not in his model.** His grid is a flat 96 × 96 square with no
+  wrapping (not a torus, not a Klein bottle), and its two dimensions are a flat picture of ordinary space, not her
+  two-dimensional phase: no squares and links, no curl, no twist, no halves, no one-sided loops, no stores. Each
+  cell holds an energy and stretches by the textbook expansion rule (rate squared = energy over stretch to the
+  fourth, plus a constant dark energy). His simulator page has a replay named "sheet to donut", so her doughnut of
+  6 November is drawn there; no Klein store was found on any page.
+- **His headline (dark energy −0.93 against unevenness) is arithmetic of his rule, not a finding about her
+  picture:** a constant added equally to every cell's rate makes the cells' rates more alike (ours, read from the
+  formula, not run).
+- **The crystal: checks out with her picture in one place and can add in a second.** (a) His "snap at a flaw" is
+  her decision of 6 November (the burp starts at the loose remnant; 58 of 60 replicas as a look); the published
+  name is nucleation at a defect. (b) What it can add is published mathematics, not his animation: the theory of
+  defects in ordered media (Mermin's 1979 review; general knowledge, to verify) classifies which flaws an ordered
+  material can hold, which come in halves, which cancel in pairs and which combine; half-strength flaws are
+  published in liquid crystals, where going once round one turns the order over, as on a Moebius strip. That is the
+  nearest published mathematics to her halves, her pairs that cancel and her two halves joining into a store.
+  The reading note, at her "Yes proceed" the same day:
+  `docs/reading/notes/2026-11-10_defects_in_ordered_media.md` (Mermin's review itself was not reached; the nearest
+  hit read in full is the two-dimensional layered liquid crystal, whose space of orders is a Klein bottle; the
+  exact look it suggests has not run). (c) Already hers: the toy's lineage is
+  space freezing into order from a random phase (the code package's name comes from that literature).
+- **Not hers, his to keep labelled:** the hum and the rhythm of burps come from an oscillator of his; her toy's tube
+  waits with no memory (measured, paper 1), and her step 3 says another burp comes when enough curl has built up
+  again. Which rhythm her picture expects is hers to say.
+
+## 10 November 2026: the Klein bottle as a simulation; shift and turning against curl and twist (hers, verbatim, chat)
+
+"Can the Klein bottle bookkeeping be a simulation in my model or does it have to be real? It seems like shift and
+turning seems very similar to curl and twist. What do you think are the differences?"
+
+Ours, the same day (answer, rule 21; interpretation, unverified, except where marked exact).
+
+- **It does not have to be real, and in the published theory it is not.** The published Klein bottle is the set of
+  arrangements one place may be in, the menu of options; it sits nowhere. That is her own sentence of 3 November
+  ("in place of 0 and 1 its symbols are the allowed sets of curl, twist and spin under the rules") and of
+  5 November ("twist and curl are laws, not things"). Kind: a convention, free. What it costs: two things then carry
+  the name. The Klein bottle is the menu; a Klein store is an object in the state (two like halves joined; in the
+  published rules a whole flaw, F · F). Whether the store keeps the name is hers.
+- **Which is which, if the likeness holds:** curl with shift (both wind in wholes; the record's surplus square "is
+  a wrap", and a shift going once round is a wrap), twist with turning (both come in halves, from one-sidedness).
+  The other way round puts the halves on curl and does not fit.
+- **Differences.** (1) Level: shift and turning are what every place has; the flaws are where they wind. Her curl
+  and twist are zero in flat space, so they sit at the level of the flaws (a row that ends; a half turn), and the
+  published picture then asks what the underlying pattern is whose winding they count. In the toy that is the
+  wiring; in her claim the base is curl and twist themselves. (2) Counting: a published winding is a whole number
+  or a half, never between; her curl is continuous from −1 to 1 with only the whole stable. (3) Independence: in
+  the published rows the turning is not free, the rows' direction follows from the shift, one freedom not two,
+  which is where the cap at +1 comes from; hers are two numbers (6 November) with twist only where there is curl,
+  a tie in the other direction. (4) **Signs, the sharpest.** Published: a flip reverses a shift, so a shift
+  carried once round a half flaw comes back with the opposite sign. With curl as shift that reads: matter carried
+  round a dark half comes back as antimatter. Hers: the sign is the colour of the diagonal, and a point's colour
+  belongs to the point, not the route. *Exact (run today, `scripts/read_flat_kind.klein_bottle` at 6 × 6, 6 × 8,
+  8 × 12):* the toy's one-sided sheet keeps two consistent colours, and a point carried once round the one-sided
+  direction arrives on its own colour; what reverses on that trip is the direction of turn, not the colour. So on
+  this point her rule and the published rule differ, and hers is the one that keeps matter from turning into
+  antimatter (kind: measurement, in her favour; general knowledge, to verify: no such conversion is seen). Her
+  whirlpools' hands (clockwise, counterclockwise) are a direction of turn, so they are what would reverse.
+  (5) Thirds and three dimensions have no published counterpart in what was read. (6) Published flaws move; her
+  store cannot.
+- **What this does to the reading note's table:** the combining rules for halves carry over; the rule "a flip
+  reverses a shift" does not carry over to a sign that is a colour. So her structure is a relative of the Klein
+  bottle's rules, not a copy. The exact look named in the note (section 6, item 2) is still the decisive one.
+
+## 10 November 2026: the look on the Klein rules (hers, verbatim, chat)
+
+"Explain what you need from me to proceed with that look", then "proceed".
+
+Ours, the same day (answer, rule 21). Nothing was needed from her to run it; one thing is needed to read it.
+
+- **The look as first worded was too loose** (ours to correct): "does the sheet have a shift and a flip that
+  reverses it" is true of any square grid. The form that can fail: write every object of the build as an element of
+  the published rule (curl as shift, twist as turning; our dictionary, unverified) and ask of every move whether the
+  published rule allows it. Run: `sandbox/klein_rules_look.py`; the LOG line of today holds the numbers.
+- **Exact, under that dictionary:** every move of the build is allowed by the published rule, under both twist
+  rules: making a pair, a pair cancelling to nothing, a pair cancelling to two dark gluons, two like halves joining
+  into a store. Not allowed: two like halves becoming nothing (her "a store cannot cancel" agrees), and a store of
+  one twist with one unit of curl.
+- **Exact:** the published rule keeps only two tallies whatever the paths: net twist, and net curl as odd or even.
+  The build keeps net curl whole (exactly zero after every sweep, 24 runs). So the build is the stricter of the
+  two; the published rule would let net matter change by two, hers does not. Same difference as the colour check.
+- **The one thing needed from her.** Step 1 says the Klein bottle stores more "by combining two same-direction
+  twists into one twist and one curl of length 1". Two halves bring two units of curl. The build keeps both (her
+  choice of 6 November, a store is one loop over two diagonals). The published rule allows two or none net, never
+  one. If "one curl of length 1" counts the loop (one closed loop), nothing clashes. If it counts the amount (one
+  unit, the other gone), it is the one sentence the published rule forbids and the build does not do. Asked in
+  chat today; hers to say. Kind: a theory's structure, so it cannot stop her either way; it tells her rule and
+  the published rule apart.
+- **What the look cannot do:** it is a look under a dictionary of ours; it can kill and did not; it crowns nothing.
+
+## 11 November 2026: does the status page need updating? (hers, verbatim, chat)
+
+"any updates needed to A Phase Changing Reality Artifact?"
+
+Ours, the same day (answer, rule 21). The page (https://claude.ai/artifact/JLtR2aqHmL2FghWmNZU8xW, last published
+7 November) was read against `HYPOTHESIS.md` and `STATE.md`. Nothing of 10 November forces a change: that day's
+work was a reading note and two looks, and neither file changed. The page is behind the record on decisions of
+6 November, night, and 7 November: (1) step 1 and piece 11 still call the two slabs and the taper open, both
+decided 6 November, night; `STATE.md` piece 11 carries the same stale line. (2) Owed item 5 still asks about the
+face gluon, decided 6 November, night (twist its own number; the dark gluon), and the square figure's caption still
+says "a full curl carries a half twist of its sign", the rule that decision reversed. (3) The twist-energies row and
+owed item 3 still say a store is four dark particles with the bond's constant to calibrate and "seven answers
+owed"; decided 6 November, night: a store weighs about a proton, about 332 MeV per link. (4) The header says "as
+of 6 November 2026, night" over content of 7 November. (5) The next list has the drift build twice. (6) Piece 15
+says nothing measured; since 7 November target 14 has a look's bound from Pantheon+. Optional, hers: one line for
+the reading note and the Klein-rules look of 10 November under piece 7. Nothing changed on the page yet.
+
+## 11 November 2026: the Klein sentence, and the status page rebuilt (hers, verbatim, chat)
+
+"One curl of length 1 -> this seems wrong as we have talked about curls with different diameter lengths?
+
+Yesterday's work on the page. I would add one line under piece 7 for the reading note and the Klein-rules look,
+marked as a look. It is optional. -> only if it adds or clarifies the main points.
+
+I want to do a read through and thinkg about where we are, next priorities, identify anything really no longer
+aligning with current hypothesis and recent looks (rather than just outdated)
+
+Please proceed w a careful update. ensure each piece is clear concise and does not give a play by play of the
+approach but just says what I think and what is the next step for that piece on our journey to matching
+observable numbers and encorporating accepted math into the toy model in the right way."
+
+Ours, the same day.
+
+- **"One curl of length 1": she is right that it matches nothing in the record.** A dark loop is one face diagonal
+  (√2), the electron three box diagonals, a store one loop over two diagonals (2√2, her choice of 6 November). The
+  sentence was 3 November wording, never confirmed. Step 1 of `HYPOTHESIS.md` now reads "joining two same-direction
+  half twists into one whole twist on one loop over two diagonals", marked as reworded and hers to confirm. It
+  also answers yesterday's question in the direction of "one loop": the build keeps both curls, which the
+  published rule allows.
+- **The line for yesterday's work is in**, as one sentence under piece 7's published mathematics: it bears on her
+  aim of accepted mathematics for the halves. Marked a look.
+- **The page was rebuilt**, each piece as three rows: what she thinks, what the toy shows, next. The middle row is
+  kept, short, so that no claim of hers stands on the page without its status (rules 7 and 10). The header drawing
+  of a tube opening into a sheet is gone (the withdrawn wording). Piece 6 is named "the burp's make-up" on the
+  page; the three shares were withdrawn.
+- **Not lining up: eleven items**, written once in `STATE.md` (the one home) and mirrored on the page, each with
+  its kind. New today, ours and unverified: twins against one foot; what the burp releases; which object is the
+  daughter's dark matter; the dark-matter count (stores per five pairs against a surplus of one per billion); two
+  sizes for one shell (18 to 36 kg, arithmetic run today); curve-first against the built carrier; the speed of
+  gravity (general knowledge, to verify; no source read); time in the doughnut. Already in the record: the
+  billionth as a size put in; dark energy's two candidates; two costs as one against half each.
+- **Not done:** Part 2 of `HYPOTHESIS.md` still lags Part 1 in three definitions (X as a rod between two slabs;
+  the carrier "three-dimensional only"; the three layers of a black hole). Hers to say whether to bring them up.
+
+## 11 November 2026: her answers to five of the items not lining up
+
+Her words, verbatim (her quotations of the list left out):
+
+> Twins against one foot: one daughter is one foot and successive burps alternate.
+>
+> What the burp releases. [...] -> can these both be true / the same? curling cost is held as binding energy: if
+> it is not bound it cannot be fully curled into the 2d/0d phase.
+>
+> Which object is the dark matter in a daughter. [...] -> most dense, not heaviest. heaviest with a length of only
+> root 2, a proton's mass in about 1/4500 of the diagonal lenghs
+>
+> How much dark matter. [...] -> when it first releases, all the energy is pobably in dark matter and dark
+> antimatter, the 2 same handed one sided particles separate into space, releasing the energy into kenetic energy
+> and i don't know what other types. extra dark matter, then extra matter.  and then interact with the anti type
+> and release photons, and then photons can form matter into atoms. so there should be about a billion parts of
+> the canceling matter anti pairs and one part surplus matter from the starting point/band being in an anti type
+> and a larger about of matter in the non band seed space.
+>
+> Time in the doughnut. Time exists because matter moves, and dark matter still moves there. dark matter, a
+> particle that only has one side, moves along a single edge. My thought is that gets us to 2 degrees of freedom.
+>
+> we can come back to the rest when u react to these
+
+Our reaction (ours, unverified; arithmetic run today, inline; nothing below is from a source read today, so every
+published statement is "general knowledge, to verify"):
+
+1. **One foot.** Taken as her choice between the two sentences of step 3: one daughter per burp, the kinds
+   alternating. Her item 4 fits it: the inside foot (her "band") holds the opposite kind and stays. What it
+   changes: the black hole is neutral over two burps, not after each. Not yet changed in `HYPOTHESIS.md`, because
+   the twins sentences (step 3, step 4, the 6 November halves of the doughnut) are decisions of hers and the
+   twins replaced a withdrawn line: "The parent keeps the antimatter surplus; 'all daughters of one mother share
+   a direction' → each burp makes twins, one of each kind; the black hole stays neutral — U120, U121". Asked
+   once: is the parent holding the opposite kind for one cycle meant to come back?
+2. **Curling cost held as binding energy.** Checks out, and the toy's books already say it: the gate (term 5)
+   lets the slab split only when the stores beside the cut hold its whole curling cost, and `WITHDRAWN.md` has
+   the burp's energy as the fed-in energy stored, not the network's own cost released. Our item 2 was put too
+   strongly. What is left is narrower: the stores of the books are a ledger, and the Klein stores are twist on
+   squares; nothing yet makes them one object, and the two amounts (4(λ − 1) per point; about 332 MeV per link)
+   have not been set against each other. Nearest published: latent heat (the energy a phase change gives off is
+   the difference in binding between the two phases).
+3. **Most dense, not heaviest.** Taken; it removes the conflict with measured heavier particles. Arithmetic: a
+   proton by the count rule is 5,508 diagonals, so a proton's mass on one diagonal is 5,508 times the count rule's
+   mass per diagonal (6,746 times the electron's mass per length on √2; 3,373 on the store's 2√2). Her "about
+   1/4500" is of that size; we could not get 4,500 itself. Two things open: √2 or the 2√2 of 6 November; and a
+   one-diagonal loop weighs 0.170 MeV by the count rule, so a proton's mass there comes from the bond, a second
+   rule for mass (a theory's structure, not a stop).
+4. **The order of the release.** Checks out against measurement in outline: nearly all pairs cancel, light
+   outnumbers surplus matter by about a billion. It is a change to step 3 (the release starts as dark matter and
+   dark antimatter, not light). Three places to face: (a) her step 2 bond grows with separation, so two halves do
+   not come free; the published way out is string breaking, where the stretched bond's energy turns into new
+   pairs, equal matter and antimatter, which is her billion pairs; (b) "interact with the anti type and release
+   photons": if dark halves cancel into light, dark matter meets light, against her definition; the build has
+   pairs cancelling into gluons, and her dark gluon of 6 November is the candidate; (c) light makes matter only
+   as equal pairs; atoms form when the surplus cools (measurement). The number her picture now owes: dark objects
+   per surplus proton, 5.4 if the object is a store, about 11 if a freed half weighs half a store, about 29,500
+   if a half weighs its count-rule 0.170 MeV. Nearest published: asymmetric dark matter (the dark matter's amount
+   set by a surplus tied to matter's surplus), not read.
+5. **One edge.** Exact: a one-sided strip has one edge, and it runs twice round. Exact: a place along one edge is
+   one number, one degree of freedom, not two. Asked: what is the second (the sign of the twist; or a count of
+   steps)? Our reading for the misalignment: movement along one line gives before and after, which is her "order
+   but not time"; time needs matter moving through open space. The toy's clock still ticks on every point, which
+   is not yet squared with it. Nearest published: several approaches to quantum gravity find the number of
+   dimensions felt at the smallest scale falling to two, not read.
+
+## 11 November 2026: mass is more than a count
+
+Her words, verbatim:
+
+> Mass counts the looped diagonals - I thought we'd agreed mass is more complex than a count of loops
+
+She is right, and the record says so in three places: her decision of 29 October (Update 148: "Mass has parts
+(twist, spin, charge, loop) in their own units; MeV is the measured total"; mass as one additive unit killed, the
+Koide form taken as the first rule to test); the design note of 30 October (the combination is open); and her
+confirmation of 4 November in this notebook (the count is for box diagonals only; a face diagonal's mass per length
+is a separate quantity, hers to set). Step 3 of `HYPOTHESIS.md` carried only the short sentence, and we repeated
+it. Corrected today:
+
+- Step 3's sentence now says the count is one part of mass, for box diagonals, and that the combination is open.
+- Our reaction above, point 3, was wrong where it set a one-diagonal dark loop at 0.170 MeV and called the bond "a
+  second rule for mass": that number does not apply to a face diagonal, and mass having several parts is already
+  her rule. The "about 29,500" in point 4 falls with it. The 5,508 (a proton's count of box diagonals) stands as a
+  count, so "a proton's worth on one loop is about 5,500 times denser by count" stands.
+- Also missed above: on 4 November she said she is not aiming at 5.36 or at a billionth ("there are other factors
+  at play"). The measured 5.36 is still a number her picture has to face in the end (a measurement), but it is not
+  a target she set, and our priority 1 should be read that way.
+- Her 4 November ratio claim put the store "on a √2 diagonal"; 6 November has n = 2, L = 2√2. Her "length of only
+  root 2" today may be the first. Still asked.
+
+## 11 November 2026: dark matter is not only a flaw
+
+Her words, verbatim:
+
+> a one-sided loop of surplus curl, a flaw left when space opened, and its mirror image. - why is dark matter
+> antimatter only flaw?
+> It is also a store of  energy.
+
+She is right. The sentence is step 5's and older than her decisions of 3 to 6 November. Since then dark matter is
+what every kind of energy becomes in the whirlpools (step 2), the half-twist building block of the Klein store
+(step 1), and, by her answer earlier today, the first form the release takes. "A flaw left when space opened"
+names one place it is found and reads as what it is. The two do not quarrel in the published mathematics: a flaw
+in an ordered material holds energy in the strain around it (general knowledge, to verify; the reading note of
+10 November has the flaws, not their energies). Reworded in step 5 and in the Part 2 definition, wording ours,
+hers to confirm; the status page's step 5 follows. "Its mirror image" is kept and said plainly: the same loop in
+the other colour.
+
+Her follow-up, verbatim, the same day:
+
+> Is it still also flaw?
+
+Answer (ours, unverified): yes in open space, no inside X. A flaw is a break in an order, so the word needs an
+order to break. In open three-dimensional space a half twist on a one-sided loop is a flaw in space's order, and
+it has the mark of one: it cannot be smoothed away, only cancelled by its opposite (the look of 10 November: two
+like halves cannot become nothing). Inside X the slab is made of these loops, so there they are the material and
+not a flaw in it. Today's rewording dropped the word; whether step 5 says "in open space it is a flaw in space's
+order" is hers. Not changed.
+
+## 20 November 2026: Anthropic's page on two black-hole results, and how it connects
+
+Her words, verbatim:
+
+> https://www.anthropic.com/research/claude-black-hole-physics -> how, if at all, does this connect to my theory?
+
+**What was read, and how deeply.** The page itself (published 17 November 2026), and the abstracts only of the
+three papers behind its first result: Aharony, Marsano, Minwalla, Papadodimas and Van Raamsdonk, arXiv
+hep-th/0310285 (2003) and hep-th/0502149 (2005), and the new preprint "The Hawking-Page transition at weak
+coupling", hexagonmath.org/2611.00175v1 (7 November 2026, 42 pages, deposited by Anthropic, labeled there as
+primarily AI-generated, checked by a physicist against known special cases). All read by an assistant agent; no
+paper body read. The second result's preprint (2611.00174v1) not read at all.
+
+**What the page says** (published, as reported by the page). Two results, both in anti-de Sitter space, a model
+spacetime with negative vacuum energy, used because there a theory with gravity is known to equal a quantum theory
+without gravity living on its boundary, one dimension lower (the holographic duality, Maldacena 1997).
+(1) In that space a hot gas and a black hole compete, and as the temperature rises the black hole takes over in a
+jump (Hawking and Page 1983). Whether the matching change on the no-gravity side is a jump or smooth, when its
+forces are weak, hung on the sign of one number that first appears at the third order of the calculation and had
+not been computed in twenty years. The preprint computes it: b = −1.48 × 10⁻³ λ², negative, so a jump. (Their λ
+is 't Hooft's coupling, not our curling knob.) (2) For gravity with two space directions and one of time, the
+lightest black hole can weigh no more than c/9.1266, and this method cannot do better. The page's own words:
+"Neither result describes our own universe directly".
+
+**The answer** (ours, unverified by any physicist; nothing here confirms anything of hers, rule 13).
+
+*What connects.*
+1. **The same kind of question as piece 1, with a published method for answering it.** Theirs: is the change
+   between two arrangements of a spacetime a jump or smooth? The page says the losing arrangement "can survive for
+   a while", which is the glossary's "stable for now". The 2003 abstract says how the question is decided: the
+   whole problem reduces to one object, "the holonomy (Wilson loop) of the gauge field around the thermal time
+   circle". Temperature in these calculations is a direction of the space curled into a small circle (general
+   knowledge, to verify), and the Wilson loop is what the light field reads going once round it. The toy has that
+   object: with term 10 switched on, the light field's reading round the curled direction of the tube is the
+   Wilson-line scalar (Update 117). The 2005 abstract adds that at the lowest order the answer sits "precisely on
+   the borderline" between a jump and smooth, so it took the third order to settle. This is a published recipe for
+   paper 4's question, not a result about the toy: the toy's light is the one-phase kind and theirs has many
+   colors, and whether the recipe carries over has not been looked at.
+2. **Step 1's projection.** "Three dimensions are a projection from the two-dimensional arrangement" has its
+   published home in the idea this whole page rests on (Bekenstein; 't Hooft and Susskind; Maldacena), already the
+   reading behind target 15. The page's first result is a new check that the two descriptions agree.
+3. **The bond.** The no-gravity side's name for the change is deconfinement: below it the constituents are held by
+   bonds that never let go, above it they come free. That is the family of her store's bond ('t Hooft 1974,
+   6 November), and the calculation is done in 't Hooft's own limit of many colors (general knowledge, to
+   verify). In the published dictionary the bonds letting go, told in the lower-dimensional description, is the
+   same event as a new geometry taking over in the higher-dimensional one. Her burp has that shape: the stores'
+   bonds release and a three-dimensional space opens.
+
+*What does not connect, each with its kind.*
+1. **Not our sky** (a measurement). Both results need negative vacuum energy; ours is measured positive. No number
+   on the page can be compared with an observation, and neither result can be applied to her picture as it
+   stands.
+2. **The dictionary runs the other way round at the black hole** (a theory's structure; cannot stop her idea). In
+   the published picture the black hole is the phase where the bonds have let go, and it appears inside a space
+   that already exists. In hers the inside of a black hole is where the bonds are made, and the release opens a
+   new space. Nothing on the page has a daughter, a burp, matter against antimatter, or dark matter.
+3. **Gravity with two space directions** (a theory's structure; cannot stop her idea). The second result's setting
+   is the published one nearest her doughnut. In Einstein's theory there (general knowledge, to verify), two
+   resting masses do not pull on each other, there are no gravity waves, and black holes exist only with negative
+   vacuum energy. Her lengths on the slab give a logarithmic pull (the four-link form, 6 to 7 November), so they
+   are not Einstein's theory in two directions. No measurement exists there, so nothing stops it; a physicist
+   reader will ask.
+4. **9.1266 is not a number to match** (rule 13). It is a ceiling in units that have no meaning in the toy.
+
+*Nearest published model.* For the part that connects: the Hawking-Page transition read through the holographic
+duality, with the 2003 paper above as the method. For her loop as a whole (a black hole's inside opening a new
+space) the page offers nothing.
+
+*Not done.* No look was run; none takes seconds. The candidate, if she wants it: write the tube's energy as a
+function of the Wilson-line scalar and read whether the jump can be seen there, as the 2003 paper does. No reading
+note written; the three statements marked "to verify" above are owed sources within the week (rule 19).
+
+## 20 November 2026: proceed with the Wilson-line research
+
+Her words, verbatim (quoting two passages of our answer above, then):
+
+> -> proceed with the research and see if the math helps us understand or refine my hypothesis
+
+**Done the same day.** Read: the 2003 paper's own source and the new preprint's text, in part, with Witten 1998
+and Maldacena and Strominger 1998 in part (the reading note
+`docs/reading/notes/2026-11-20_hawking_page_and_the_wilson_line.md` says which sections). Run: one exact look,
+`sandbox/wilson_line_look.py`, six expectations written before computing, all six held (the LOG line of
+20 November is its one home). Everything below that is not marked exact or published is ours, unverified by any
+physicist; the look is on the toy's built lattice light (term 10), which is not her light.
+
+**The answer to the candidate: no.** Writing the tube's energy as a function of what light reads round the curl
+shows no jump and cannot. Exact: that energy is a single well at every stiffness on the tube, and exactly flat on
+the opened tube. Published reason (the 2003 paper, section 1): the published transition comes from light of many
+colors being allowed only in color-neutral groups; one-color light has no such restriction, and with few colors
+the transition is smoothed away. The jump in the toy is the wiring's; the loop only reports it. That candidate is
+closed.
+
+**What the mathematics does give** (four things; each hers to take or leave).
+
+1. **Her curl is the published "filled-in circle".** Exact: in the toy a loop's reading is non-zero exactly when
+   squares fill the loop in, and a square filling the loop round a curled direction is what a surplus square, her
+   curl, is. Published (the 2003 paper, section 7.3): the reading is zero when the circle is not filled in, and
+   "suitably defined Polyakov loops are non-zero only in a black hole phase". So by the published criterion her
+   curled X sits on the black-hole side, as she claims. **This corrects our answer above**, which said the
+   dictionary runs the other way at the black hole. Previous statement → wrong because it compared bonds without
+   asking which direction is time → replacement: point 2 → test: none cheap in the toy (below).
+2. **Which direction is time decides what the filling-in does to a bond.** Published (Witten 1998, sections 3.2
+   and 4): in one and the same geometry with a circle filled in, a charge whose path runs round the circle is
+   free, and charges separated in the other directions are held by a bond that grows with their separation; and
+   if the filled-in circle is a small direction of space, the world left over, one dimension lower, has bonds
+   that never let go. Exact in the toy for the first half: two charges whose paths run round the curl cost 0.496
+   however far apart on the tube, and 1.4394 per column on the opened tube, a bond exactly linear in separation.
+   So "the stores' bonds never come free inside X" and "X is the black-hole side" are one published object
+   provided X's curled direction is a direction of space and not time, which is her own position (X has order but
+   not time). It is support for that position, not a new decision. No cheap test: the toy's one-phase light binds
+   linearly on every sheet (exact) and in every three-direction space (published; the 24 October reads recorded in
+   `REFERENCES.bib`), so it cannot show the difference.
+3. **Halves on a sheet, thirds only in three directions, and where.** Exact: on the flat one-sided sheet the loop
+   that the one-sided trip reverses is filled in only when taken twice, so light can read it only as nothing or a
+   half turn; on no sheet tried is any loop filled after three. Exact, six links: glue cubic space to itself by a
+   third of a turn about a body diagonal with a slide along it, and the loop across that axis is filled in only
+   when taken three times: read in thirds. This agrees with her decision in Update 156 (halves in two dimensions,
+   thirds need three) and offers a reason and a place. The third of a turn about a body diagonal carries the box
+   diagonal (1, 1, 2) to (1, 2, 1) to (2, 1, 1): her three thirds are one diagonal seen three times round that
+   axis (exact arithmetic). This is not the withdrawn "thirds on the body diagonals": the thirds stay on the box
+   diagonals; the body diagonal is only the axis. **Asked:** is a third of a twist "a loop that closes only the
+   third time round", as the dark half goes with the one-sided seam? If yes, the next exact look is her twist
+   rules on that wiring.
+4. **Light pushes a curl open and never holds it.** Exact: light adds to the curled tube's free energy at every
+   stiffness, by at most a quarter of the stiffness per point. Agrees with Update 134: what holds X must come from
+   the twist rules.
+
+**Two things that do not fit, with their kinds.**
+
+- *The direction of travel* (a theory's structure; cannot stop her idea). Published: heating moves the system to
+  the filled-in side, which wins because it has vastly more states, the same count as the black hole's (N², the
+  preprint's section 1.1; her target 15). Her step 2: energy arriving ends with the curl giving way. Same objects,
+  opposite direction. Not settled by this look.
+- *Something is always filled in* (a theory's structure). Published, three dimensions (Maldacena and Strominger,
+  Eqs. 3.16 and 3.20): the black hole and the hot gas are exchanged by exchanging the doughnut's two circles; the
+  filling-in moves from one circle to the other. In the toy the tube opens from one circle filled to none.
+  **Asked:** on her doughnut, which circle is the curled one, round the tube's cross-section or round the hole
+  where the rod runs, and is the burp the filling-in moving from one to the other?
+
+**For the wall.** Published: three arrangements between two temperatures, the middle one unstable, "the small
+black hole", the top of the wall; below the window only the open arrangement exists, above it only the filled-in
+one. The toy's tube has the same list (the tube, the push of 12, the opened tube). A name for the wall, nothing
+more.
+
+**Of the three statements owed sources:** temperature as a circle, sourced; gravity with two space directions,
+sourced for no waves and for black holes with negative vacuum energy, not for "no pull between resting masses";
+'t Hooft's 1974 paper could not be retrieved and stays "to verify".
+
+## 20 November 2026, later: the electron's loop as the third-time-round loop; both directions of the doughnut curled; where the stores first appear (hers, verbatim, chat)
+
+Her words, verbatim (quoting our first question above, then):
+
+> Is a third of a twist "a loop that closes only the third time round", the way the dark half goes with the one-sided seam? If yes, the next exact look is your twist rules on that wiring. -> this seems like it could be another way to think about the loop of an electron, where each root 6 diagonal holds 1/3 twist and 3 together make a full twist on one closed loop.
+>
+> every point on the surface of the doughnut is 2 curled directions with no movement. by the time a dark matter particle gets thru the rod and or whirlpools (gravity and angular momentum colapse to just gravity, when there is enough gravity to create a klein bottle from the 2 mobius strips that holds the bond energy. those would first appear on the inside of the doughnut (assuming our doughnut exists in the space between rod and whirlpools)
+
+Ours, the same day (rule 21). One exact look, `sandbox/electron_triangle_look.py`, five expectations written before
+computing, all five held (the LOG line of 20 November, later, is its one home). It reads the wiring only: not her
+light, not her twist rules. Everything below not marked exact or published is ours, unverified by any physicist.
+
+**Her first paragraph: the electron's loop.**
+
+*What checks out (exact).*
+
+1. **Her electron's loop is the shape a third of a turn singles out.** Every closed loop of three box diagonals is
+   a flat triangle with three equal sides, each root 6, lying across one of the cube's four body diagonals, and a
+   third of a turn about that body diagonal carries each side to the next (8 triangles per lattice point, 16 with a
+   direction of travel, the record's count). So in the unit (Update 139: the closed loop of three thirds, no coil)
+   each side is the same diagonal a third of a turn on, and three sides are the whole turn. Flat, so no coil, as
+   her unit says.
+2. **One loop, three times.** Glue cubic space by that third of a turn so that the loops across the axis run along
+   the box diagonals. One side of the triangle is then a closed loop that is filled in only when taken three
+   times, and the triangle walked in open space is that one loop three times (exact, sides two and three diagonals
+   long). That is an exact form of "3 together make a full twist on one closed loop".
+3. The triangle's middle is a lattice point of the corners' color, one face diagonal (root 2) from each corner, and
+   the body diagonal through the middle is the axis. Arithmetic; what it means, if anything, is hers.
+
+*A line of ours above, tightened.* Previous: "the third of a turn carries the box diagonal (1, 1, 2) to (1, 2, 1)
+to (2, 1, 1): her three thirds are one diagonal seen three times round that axis" → incomplete because those
+three do not close; they add to (4, 4, 4), one turn of a coil along the axis → replacement: the three that close
+have one sign turned, (1, 1, −2), (1, −2, 1), (−2, 1, 1), and the same third of a turn carries them into each
+other → test: Part 1 of the look, run.
+
+*What does not check out, each with its kind.*
+
+1. **At the size of her unit the loop is a whole curl, not a third** (a theory's structure: the toy counts every
+   four-link loop as a square; cannot stop her idea). With sides ONE box diagonal long the glued loop is four links
+   round, so it is itself a square of the wiring and is filled in at once. The third-time property needs sides two
+   or more diagonals long, loops of six or nine diagonals. This bears on her open point of 29 October (the electron
+   may hold more than three diagonals) without deciding it. Beside it, a fact for her eye: one box diagonal closed
+   on itself is four links, the length of one curl, and her particle is "a closed loop of box diagonals with one
+   curl of energy per loop".
+2. **The wiring does not choose the box diagonals; her rule does** (a convention: free). Across the axis there are
+   two families of directions, the face diagonals and the box diagonals, 30 degrees apart. In each gluing built,
+   one family is filled only the third time and the other at once: the box diagonals in the gluing built here,
+   the face diagonals in this morning's. Her rule (thirds on the box diagonals, halves on the face diagonals)
+   picks the first.
+3. **The third of a twist itself is not derived** (a theory's structure). The geometry gives a third of a *turn*
+   per side and a loop that fills on the third pass. Her twist is a turning about the diagonal, a different thing,
+   and stays her rule. By construction of the gluing, a ribbon carried once along the axis comes back turned a
+   third, and a ribbon carried round the loop across the axis comes back unturned: the two "thirds" sit on
+   different loops of the same space. Not a proposal to move the thirds (the body diagonals as carriers stay
+   withdrawn, section 4 of `WITHDRAWN.md`); a statement of what was and was not shown.
+4. **A glued space is not a particle** (a theory's structure). The third-turn space is a whole closed space with
+   nothing in it; her electron is a loop sitting in open space. In open space the triangle is filled in like any
+   small loop. Whether "closes the third time" can belong to a particle is open; the published route is a line
+   round which a third of a turn is picked up (a turning flaw; the reading note of 10 November has the family).
+
+*Nearest published model.* The three-color rule of the strong force: with N colors the theory is unchanged when
+the loop's reading is turned by one N-th of a turn (Aharony and colleagues 2003, section 2.2: "𝒫 → e^{2πi/N} 𝒫 is
+a symmetry"; section 6.1), so with three colors readings come in thirds and only combinations whose thirds add to
+a whole are free. That quark charges in thirds are tied to this is general knowledge, to verify (Tong 2017,
+"Line operators in the Standard Model", arXiv 1705.01853, named from memory, not read). For three thirds making
+an electron: the rishon and helon models already in her relations sheet (P2, P3). For the glued space: the
+third-turn space of the published list of flat three-dimensional spaces (still to verify).
+
+**Her second paragraph: the doughnut, the stores, the turning.**
+
+*What checks out.*
+
+1. **A Klein bottle from two Möbius strips.** Exact on the toy's wiring: the flat one-sided sheet cut along two
+   lines falls into exactly two bands, each with ONE edge, a single ring of 12 points, which is a Möbius strip; the
+   two-sided doughnut cut the same way gives two bands with two edges each. Published too (textbook). It is her
+   store: two halves joined along their edges.
+2. **Two curled directions at every point.** A doughnut's surface has two circles through every point (exact). In
+   the toy's own sense of curled (four round, a surplus square on every link) both at once is possible: on the
+   4 × 4 doughnut both loops are filled in, three squares on every link.
+3. **"With no movement" answers this morning's second question.** Neither circle of her doughnut is time. The
+   published exchange of the two circles (Maldacena and Strominger) needs one of them to be time, so it is not her
+   burp; the case that applies is Witten's section 4, a filled-in circle of space, whose leftover world has bonds
+   that never let go. That "does not fit" of this morning is set aside as not applying.
+4. **The stores first appear on the inside of the doughnut.** This is her decided picture of 6 November (the
+   collar on the inner rim, where the squares are most pinched), unchanged. One exact reminder from that night:
+   the hole is open to the outside, so the rod's region and the whirlpools are one connected three-dimensional
+   region; "between" means the inner side faces the rod and the outer side the whirlpools.
+
+*What does not check out, each with its kind.*
+
+1. **Both directions curled tight means sixteen points** (a theory's structure: the toy's sense of curled; exact).
+   A sheet four round both ways has 16 points and cannot be larger. A doughnut big enough for many stores has a
+   long direction, and round a long direction no loop is filled in (6 × 12: none). So in the toy "two curled
+   directions at every point" is either a 16-point doughnut or a doughnut with one direction curled tight and one
+   closed but long, which is the tube. Also exact: two curled directions carry twice the surplus squares of one
+   (0.5 a point against 0.25, on the sheet and with six links): every link of the 4 × 4 doughnut carries a
+   surplus square, against half the links of the tube, so term 3 of the toy charges twice the curling cost.
+   That is Update 133's side of owed item 8 ("each curled direction carries its own cost" against the claim's
+   "two cost the same as one", which is the pair tie, term 4, looks only); still hers to decide.
+2. **Angular momentum cannot become gravity** (a measurement). Angular momentum is conserved in every measured
+   process, and black holes are measured to spin (target 16's sources). What her picture needs is where the
+   turning is kept once the movement stops. Her record already has it (6 November): a store that cannot move holds
+   what its two parts brought, as twist; two like-handed halves make one whole twist (built rule, twist adds). So
+   the sentence that holds is "the movement stops and the turning is kept as the store's twist", not "collapses to
+   just gravity". The arithmetic that has been done is the twist sum; whether the collar's total twist equals the
+   infall's angular momentum has no units yet (target 16, missing ingredient). The measurement does not stop the
+   idea in the first form; it does in the second.
+
+*Nearest published model.* Kerr's rotating black hole: its middle is a ring round the rotation axis, not a point,
+and the ring's radius is the hole's angular momentum per unit of mass (general knowledge, to verify; Kerr 1963 is
+in target 16, the ring is not yet sourced). A ring round an axis is the collar's shape, and there the turning is
+kept as the ring's size. A target, not a confirmation (rule 13). For which circle is filled in by what: a solid
+doughnut fills in its short-way circle and the space outside it fills in the long-way circle (textbook, to
+verify), so the circle the collar runs along goes round the rod; whether it can be shrunk across the rod is the
+question target 17's vortex line answers with "no, and what winds round it is conserved in whole units".
+
+**Asked of her.** (1) Does "2 curled directions" mean both four round, tight (then the doughnut is 16 points, or
+the word "curled" needs a looser sense), or both closed with one long? (2) Is "the movement stops and the turning
+is kept as the store's twist" what she means by "collapse to just gravity"?
+
+**Next exact look, named, not run:** her loop rules (`graphity.twist`) on the box-diagonal gluing with sides two
+diagonals long, asking one thing: does a loop that fills on the third pass pass her charge and spin tests as the
+electron does. Owed sources within the week (rule 19): the Kerr ring; the solid-doughnut statement; Tong 2017.
+
+## 20 November 2026, evening: her answers and corrections to the triangle look (hers, verbatim, chat)
+
+Her words, verbatim (each line quotes a phrase of our answer above, then her reply after the arrow):
+
+> Does "2 curled directions" mean both four round (tight), or both closed with one of them long?
+>
+>  the loop is a whole curl, not a third the loop is a whole curl, not a third -> yes this matches what I think.
+>
+> the glued loop is four links round -> this seems wrong. the loop is glued(?) diagonals not links. i think we use link for edges which are helpful to math and thinking but only curl and twist are fundimental degrees of freedom
+>
+> Neither circle of your doughnut is time -> correct. there is no time inside the black hole, at least in the inner layers, only sweeps. time is part of 3d spacetime. when matter is not moving through space, no time.
+>
+>  face-diagonal direction that filled on the third pass. -> in our toy face diagonals should be dark matter, 1/2 twist, closing with one side. only when 2 of same direction bond we get the high energy density 1 twist 1 curl store that can release.
+>
+>  That quark charges in thirds are tied to it is from memory, to verify. -> this is important and foundational to my theory. make sure youve reviewed the Phase Changing Reality artifact. the different twist directions coming together require many gluons of separation because the twists of opposite directions especially don't want to be in the same loop. so that's why a proton is a loop with a length of like 5500x the electron.
+>
+>  2 curled directions with no movement. -> this was wrong. it is a plane. 2 open directions, 1 curled. all the mobius strips lined up in a tessalation where the one sidedness orients together (on the inside of the doughnut skin?) preventing there from being any dimension in there.
+
+Ours, the same evening (rule 21). Done: the artifact "A Phase-Changing Reality" (as of 11 November) read in full;
+two papers read from their TeX source for the thirds (the reading note of 20 November has the sections); one
+exact look, `sandbox/one_sided_slab_look.py`, two expectations written before computing, both held (the LOG line
+of 20 November, evening, is its one home). Everything not marked exact or published is ours, unverified.
+
+**1. "A whole curl, not a third": agreed by her.** One box diagonal closed on itself is a whole curl.
+
+**2. "Diagonals, not links": she is right, and our wording is corrected.** Kind of what we wrote: a convention of
+the toy's bookkeeping. A diagonal is not in the wiring; the look walks the corners it joins and counts the steps.
+Whether a loop is filled in does not depend on drawing it along links or along diagonals. What does depend on
+links is the toy's rule for what counts as a square (every four-link loop). In her terms the result reads: a
+closed loop of one box diagonal carries one whole curl, which is her particle definition. Her base has curl and
+twist only; "links" are a description (step 1 already says so). No result changes.
+
+**3. Time: her answer to "not lining up", item 8.** No time inside the black hole, at least in the inner layers,
+only sweeps; time is part of three-dimensional spacetime; no matter moving through space, no time. This agrees
+with the standing claim (X has order but not time). Left open by her "at least": where, going outward, time
+begins. Option B's clock ticking on every point of the sheet is then a toy convention outside open space.
+
+**4. Face diagonals are dark matter, a half twist, closing with one side.**
+*Checks out (exact).* Glue a sheet to itself by a mirror along a face diagonal: the loop along the face-diagonal
+direction is filled in only when taken twice, and the sheet is one-sided. So halves sit on the face diagonal in a
+sheet the way thirds sit on the box diagonal in three directions, each in its own gluing. "Only when 2 of same
+direction bond" has the same exact form: one such loop is not filled in, two together are, and a filled-in loop is
+what a curl is in this reading. This morning's gluing in which a face-diagonal loop filled on the third pass is
+not hers and is set aside by her rule.
+*Not shown.* The store's energy, and its release. The look reads which loops fill, nothing more.
+
+**5. Thirds: "important and foundational". The two sources are now read.**
+*Published, read today.*
+- Foot, Lew and Volkas, "Electric charge quantization" (1992), section 3: for one family of particles, requiring
+  the theory to be consistent fixes the charges; "anomaly cancellation uniquely imply that electric charge is
+  quantized. Not only is it quantized, but the quarks and leptons have the correct electric charges." Their
+  Eq. (12): the quark pair's charge number is minus one third of the lepton pair's, the three being the quark's
+  three colors (how the sum is formed is general knowledge; the equation is theirs). Their own caveat: with three
+  families and massless neutrinos the charges are no longer forced.
+- Tong, "Line operators in the Standard Model" (2017), section 2: every particle of the Standard Model obeys
+  q = 3 z₂ − 2 z₃ (mod 6), where z₃ is the particle's color class (0, 1, 2) and z₂ its weak class (0, 1); with that
+  rule in force "the minimum electric charge is Q = 1/3". So a particle's charge in thirds is locked to its color
+  class, and anything with color class zero has a whole charge.
+*What it gives her.* The published reason the electron's charge is exactly three quark thirds is a consistency
+condition with a three in it, the number of colors. Hers: three thirds on one loop. The arithmetic is the same;
+the mechanism is not (a theory's structure: in the published theory the electron is not made of thirds and has no
+color; the composite route is the rishon and helon family already in her relations sheet). Also for her eye, with
+rule 13 over it: the published rule has a two beside the three (the weak class), halves beside thirds. Her halves
+are dark and uncharged; the published halves are the weak force's pairs, which are neither. A structure to know
+of, not a match.
+*The artifact* does not carry the thirds-and-colors link; it says only that tiny loops "build quarks and then
+protons". If she wants it there, it is hers to word.
+
+**The proton** ("opposite directions don't want to be in the same loop ... a loop with a length of like 5500x the
+electron").
+*Checks out.* Published (Yang and colleagues 2018, abstract only): about nine tenths of the proton's mass is not
+the quarks' own mass; quark motion 33 %, gluon field 37 %, a quantum term 23 %, the quark-mass term 9 %. So "the
+proton is mostly gluons and motion" is the published picture, and her gluon (a curl on an untwisted diagonal,
+counting one) is the right kind of thing to fill a long loop.
+*Arithmetic.* 5,508 is the proton's count of diagonals against the electron's 3: 1,836 times the electron, which
+is the measured mass ratio. A division, not a prediction (the artifact says the same).
+*Does not check out (a measurement; arithmetic done).* Mixed directions cannot be the reason the loop is long.
+The Δ⁺⁺ holds three twists of one direction (⅔, ⅔, ⅔) and weighs 1,232 MeV, 7,233 diagonals by the count, longer
+than the proton; the Δ⁻ holds −⅓, −⅓, −⅓, the electron's own three thirds, at the same 1,232 MeV; the neutron
+(⅔, −⅓, −⅓) is the proton's weight (masses: general knowledge, to verify against the Particle Data Group).
+Published reason: the color force holds any three quarks at about that energy whatever their charges, and the
+gap between the proton and the Δ is spin alignment (her Update 146). So her sentence may still be true as a cost
+of mixing, but something else sets the length. **Asked:** what makes −⅓, −⅓, −⅓ a three-diagonal electron in one
+case and the 7,233-diagonal Δ⁻ in another? In the published theory the answer is color; in hers it is open.
+
+**6. X is a plane: two open directions, one curled.** Her "2 curled directions" of this afternoon is withdrawn
+by her. That is the standing stand-in (the curled slab). The sixteen-point objection and its bearing on owed
+item 8 no longer apply.
+*Checks out (exact; the reading of her words as a gluing is ours, hers to confirm).* Take "all the Möbius strips
+lined up, the one-sidedness oriented together" as: going round the curl arrives with an open direction reversed.
+Then every row is a Möbius strip, all alike. On the slab 4 × 6 × 6:
+- curl glued straight (the stand-in so far): 2 directions left open to a loop;
+- one open direction reversed: that direction is filled in at once; 1 direction left open;
+- both reversed: every loop in the slab is filled in; no direction left open.
+That is an exact form of "preventing there from being any dimension in there": with the curl glued one-sidedly
+both ways, no loop anywhere can run round anything.
+*Does not check out, each with its kind.*
+- "Dimension" (a theory's structure). The look counts directions left open to a loop; every point still has six
+  links. Whether her "no dimension" is that count is hers to say.
+- The curling cost thins out (exact; a theory's structure). Glued one-sidedly, the surplus squares sit only on
+  the mirror rows (48 links of 432) or on four lines (16 links), not on every point as in the straight slab (144).
+  By count the curling cost per point then falls with the size, as one over the length or its square. The burp's
+  fixed release per point (paper 1) is the straight gluing's. If X is glued one-sidedly, the energy has to be held
+  somewhere else, which is where she already puts it: in the stores' bonds (not lining up, item 2).
+- "(on the inside of the doughnut skin?)": not answerable by a look. Our reading, to confirm: the skin has the two
+  long directions along the doughnut's surface and the curled one through its thickness.
+*Nearest published model.* The half-turn space and the Klein bottle times a circle, from the same published list
+of flat three-dimensional spaces as the third-turn space (to verify); Witten's section 4 for what a filled-in
+direction of space does to bonds.
+
+**Asked of her.** (1) Is "the curl glued with a flip" what she means by the Möbius strips lined up, and is it one
+open direction reversed or both? (2) The Δ⁻ question above. (3) Whether to fold today's decisions into
+`HYPOTHESIS.md` and the artifact: no time inside, only sweeps; X a plane with one curled direction; the stores'
+loops as diagonals with "links" kept as description. `HYPOTHESIS.md` is not changed until she says.
+
+## 20 November 2026, evening, second message: a plane of Möbius strips is the doughnut's surface (hers, verbatim, chat)
+
+Her words, verbatim (quoting our second question of the afternoon, then):
+
+> Is "the movement stops and the turning is kept as the store's twist" what you mean by "collapse to just gravity"? so imaginne a plane of mobious strips is the surface of the doughnut. cannot go inside the dougnut. nothing in there. so there is only dark matter, no wirlpool becuase the dark particles are not going fast enough to escape the plane and gravity pulls them to the plane. and they store that bond energy then we have the equivalent of 2 curled directions ie 1 degree of freedom: these 1 twist 1 curl structures are all there is, and they either are or are not.
+
+Ours, the same evening (rule 21). No new run: the numbers are this morning's and this evening's looks (their LOG
+lines). Everything not marked exact or published is ours, unverified.
+
+*What checks out.*
+
+1. **"Cannot go inside. Nothing in there."** Exact (textbook topology): a two-sided surface contains no Möbius
+   strip, so a surface made of Möbius strips is one-sided, and a closed one-sided surface has no inside and no
+   outside. If the doughnut's skin *is* the Möbius strips, "nothing in there" is not an extra rule; there is no
+   inside to go into. The closed sheet of squares is then the doughnut's one-sided relative (the Klein bottle),
+   which the notebook of 6 November left open as "the choice hers".
+2. **"The equivalent of 2 curled directions."** Exact, already run. One direction curled four round and glued
+   one-sidedly leaves no direction open to any loop, which is what two curled directions do:
+   - the tube 4 × 12, glued straight: 1 direction left open, 12 surplus squares;
+   - the 4 × 4 doughnut, both directions curled: none left open, 8 surplus squares on 16 points, and it cannot be
+     larger;
+   - the tube 4 × 12 glued one-sidedly (T102's wiring): none left open, 2 surplus squares, at any length.
+   The same in three directions (the slab with both open directions reversed: none left open, surplus on four
+   lines). So her sentence has an exact form, and the one-sided gluing is a way for "two curled directions" to
+   cost no more than one, which bears on owed item 8 from the other side.
+3. **"They either are or are not."** With no direction left open nothing can go round anything; what is left to
+   say of a store is whether it is there. That is her zero-dimensional layer of 5 November (ones and zeros). The
+   step from "no loop left open" to "one yes-or-no each" is ours.
+4. **Gravity pulls them to the plane and they store the bond energy.** Published shape: infalling stuff settles
+   into a plane only if it can give up its energy of motion across the plane; ordinary dark matter cannot, which
+   is why halos are round and not disks (general knowledge, to verify). In her picture the bond takes that energy,
+   the inelastic family named on 6 November. The two fit.
+
+*What does not check out, each with its kind.*
+
+1. **The turning is still not accounted for** (a measurement). Settling into a plane is what happens when the
+   turning is *kept*: the plane is the plane of the turning, and the published doughnuts round black holes are
+   held up by it (general knowledge, to verify; they are outside the horizon, hers is inside). "No whirlpool on
+   the plane" is fine as "nothing moves there", but black holes are measured to spin, so the infall's turning must
+   sit somewhere in the plane of stores. Her 6 November account puts it in the stores' twist. One consequence to
+   look at: if the turning is the stores' hand, a hole that spins needs more stores of one hand than the other,
+   and step 1 has the two halves of the doughnut holding opposite hands. Whether those cancel is hers to say.
+2. **Two readings of "a plane of Möbius strips"** (a theory's structure; hers to choose). (A) The Möbius strips
+   are the dark particles, half-twist loops lying on a two-sided sheet: the doughnut stays a doughnut, has an
+   inside, and "nothing in there" is a separate rule. (B) The sheet itself is made of them: the surface is
+   one-sided, there is no inside, and it is not a doughnut but its one-sided relative, which joins the two sides
+   and so the two hands into one (6 November). Her words tonight read as (B). A one-sided closed surface cannot
+   sit in three-dimensional space without passing through itself (exact); that does not stop the idea, since X is
+   the two-dimensional arrangement and not a thing in our space.
+3. **"1 degree of freedom" has two meanings here.** In the look, the slab with ONE open direction reversed has
+   two directions filled in and one left open: "two curled directions, one left". With both reversed nothing is
+   left open and the one remaining freedom is the yes-or-no. Which she means is asked.
+
+*Nearest published model.* The one-sided closed surface (Klein bottle) for the skin; a disk or doughnut of matter
+settling into the plane of its turning for "gravity pulls them to the plane" (the thick doughnuts of matter round
+black holes; named from memory, to verify); Kerr's ring for where the turning is kept.
+
+**Asked of her.** (1) (A) or (B): are the Möbius strips particles on a two-sided skin, or is the skin itself
+one-sided? (2) Does "1 degree of freedom" mean one direction still open, or only "is or is not"? (3) Where does a
+spinning hole's turning sit: a surplus of one hand among the stores?
+
+## 20 November 2026, night: the neutron, the Δ, the skin is the strips, and "translate my hypothesis to accepted science" (hers, verbatim, chat)
+
+Her words, verbatim (each line quotes a phrase of our answer above, then her reply):
+
+> neutron masses, a bunch of coils but no charge because charge needs photon spin + twist.
+>
+> 7,233-diagonal Δ⁻ in another? -> what is the charge of this particle? what do we know about it?
+>
+> the skin itself is the strips - yes
+>
+> The Δ⁺⁺ holds ⅔, ⅔, ⅔, all one direction, and weighs 1,232 MeV: 7,233 diagonals by your count, longer than the proton. -> twists of the same direction also repel, so there is repulsion associated with the 2 full twists held that allows a bunch of diagonals. there are many types of stable and unstable particles that are repeated types found in differnt freuencies and scenerios. Can which holds any three quarks at about that energy. These masses are from memory, to verify. help us understand and clarifyy and translate and connect these ideas? m hypothesis to accepted science that get's us closer to a prediction that could match or not match an observation?
+
+Ours, the same night (rule 21). Read: the Particle Data Group's 2024 tables and its quark-model review, from the
+PDFs' text (the reading note of 20 November names the pages); an encyclopedia page on the Δ, by an assistant
+agent. Run: `sandbox/hadron_translation_look.py`, arithmetic on those masses and one exact enumeration, five
+expectations written before dividing, all held (the LOG line of 20 November, night, is its one home). The masses
+"from memory" this evening are now sourced and stand. Everything not marked exact, measured or published is ours,
+unverified. No number below is a result (rule 13).
+
+**The Δ⁻: what is known (published).** Charge −1. Three down quarks: −⅓, −⅓, −⅓. Spin 3/2. It is one of four
+Δ particles with charges +2, +1, 0, −1, all weighing 1,232 MeV (1,230 to 1,234), all living about 6 × 10⁻²⁴
+seconds (a width of 117 MeV) and falling apart into a proton or neutron and a pion 99.4 % of the time; the Δ⁻
+gives a neutron and a negative pion. Found in the 1950s by firing pions at hydrogen. It is the measured particle
+nearest to her unit's content: the same three thirds and the same charge as her electron, 2,411 times heavier,
+with spin 3/2 where the electron has ½, and gone in 10⁻²³ seconds where the electron lasts for ever. The Δ⁺⁺,
+three identical quarks spinning the same way, is why the published theory needs a three-valued label on quarks
+(the review, section 15.5: "The color part of the baryon wave function is an SU(3) singlet, a completely
+antisymmetric state of the three colors. Since the quarks are fermions, the wave function must be antisymmetric";
+that the Δ⁺⁺ prompted it historically is general knowledge, to verify).
+
+**The neutron** ("a bunch of coils but no charge because charge needs photon spin + twist"). *Checks out* as no
+*net* charge: her rules give it twists that cancel and spin ½ (the four test particles). *Measured:* it has
+charged parts inside, a magnetic moment of −1.913 nuclear magnetons and a mean-square charge radius of
+−0.1155 fm², which a thing with no charge anywhere would not have. Her rules agree (twist present, net zero).
+*One wording to check, asked once:* her standing rule is "charge is twist carried by spin"; "charge = twist +
+photons held" is on the withdrawn list (`WITHDRAWN.md`, section 4, killed by the neutron, the charged pion and
+the photon). "Photon spin + twist" is read here as the standing rule.
+
+**"The skin itself is the strips - yes." Decided by her.** The closed sheet is one-sided. Exact consequences: it
+has no inside; it is the doughnut's one-sided relative (the Klein bottle); and it is two Möbius strips joined
+along their single edges, ring to ring (this afternoon's look, Part 4). Those are words already in her claim:
+step 2's "reflection seam, a Klein bottle holding two dark-matter rings", and step 1's two halves. Drawn in
+space the two strips are mirror images, one of each hand (general knowledge, to verify), which is her two slabs
+of opposite hand. What it unsettles: "the rod through the doughnut's hole"; a one-sided sheet has no hole of that
+kind, so where the rod runs is hers to say. `HYPOTHESIS.md` and the artifact still say "doughnut"; not changed
+until she says.
+
+**"Twists of the same direction also repel ... allows a bunch of diagonals."**
+*Checks out.* Like charges repel (published), and it shows in the masses.
+*Does not check out (a measurement; arithmetic done).* It shows at the size of two parts in a thousand, and with
+the wrong sign for the idea: the Δ⁺⁺, two whole twists all one direction, is the *lightest* Δ. Δ⁰ − Δ⁺⁺ =
+2.86 ± 0.30 MeV, 17 diagonals in 7,233. Net twist +2, +1, 0 and −1 all sit within 0.3 % of each other. So neither
+like twists nor opposite twists set the count. What moves it by thousands of diagonals, measured:
+- **spin alignment**: the Δ⁺ has the proton's own thirds and 1,724 more diagonals (published: "a spin-spin
+  interaction, which is responsible for the octet-decuplet mass shifts", the review, section 15.5; her Update 146
+  already has this for the rho and the pion);
+- **which copy**: four particles each hold −⅓, −⅓, −⅓ with charge −1 and spin 3/2, at 7,233, 8,144, 9,012 and
+  9,819 diagonals, steps of 911, 868 and 807 (published: each step swaps a down quark for its heavier copy, the
+  strange quark; that near-equal spacing predicted the last of the four before it was found, general knowledge,
+  to verify);
+- **the color force's energy**, the bulk of every one of them (this evening's source).
+*Her "repeated types found in different frequencies and scenarios"* is published physics twice over: the heavier
+copies of each quark and of the electron, and families of the same content at higher spin, which lie on straight
+lines of spin against mass squared (measured here: slope 0.915 for the rho family, 0.892 for the Δ family).
+
+**The translation (hers → published; status).**
+
+| Hers | Published | Status |
+|---|---|---|
+| a third of a twist on a box diagonal | a quark's charge in thirds, locked to its color class | published (Tong 2017); same arithmetic |
+| which of the triangle's three sides a third sits on | color, the three-valued label | ours, from an exact fact: a walk along the sides closes exactly when it holds equal net numbers of the three sides, and the published rule is that free particles hold equal net numbers of the three colors (the review, section 15.1: "physical states are color singlets") |
+| a closed loop | a particle that can exist free | exact for the triangle family: closed walks are 1 out and 1 back, 3 of a kind, 2 and 2, 4 and 1, never a single third or a pair; published: quark with antiquark, three quarks, and the four- and five-quark states (the review, sections 15.4, 15.5) |
+| a gluon: a curl on an untwisted diagonal | the gluon field's energy, most of the proton | published |
+| a loop's length is its mass | a string of fixed tension: energy in a straight line with length | published, and the law she already took for the store's bond |
+| "repeated types" | heavier copies (flavors); spin families on straight lines | published and measured |
+| spin changes the mass | the spin-spin term | published; her rule for its size is not written |
+| (nothing yet) | flavor: what makes a strange quark differ from a down quark | missing from her rules |
+
+Two cautions on the table. In the published theory color is a label, not a direction in space (a theory's
+structure). And in this dictionary her unit, three −⅓ of one hand closed into a triangle, is a colorless
+three-quark particle, the Δ⁻'s family, not the electron: the published electron has no color and no parts found
+(a theory's structure for her choice of unit; a measurement for the electron's size, below). The geometry behind
+the second row is textbook (the triangle's sides are three times the standard picture of the three colors'
+charges, and a difference of two sides is three face diagonals, the gluons' charges there; general knowledge, to
+verify).
+
+**Toward a prediction that can miss** (three candidates; a look cannot crown any).
+
+A. *Closing is being colorless.* Already matches what is known and could have failed. Not new.
+
+B. *The electron's size from the proton's size.* The first number with nothing fitted. There is one unknown, the
+lattice's step. If the proton is a ring of 5,508 box diagonals no smaller than its measured radius (0.8409 fm),
+the step is at least 3.9 × 10⁻¹⁹ m, and the electron's triangle is at least 0.96 × 10⁻¹⁸ m a side. Said without
+units: the electron's loop is 1/1,836 of the proton's. The observation to face: scattering finds no size for the
+electron. Her rules sheet has "about 10⁻¹⁸ m, the bound she adopted", and this sits on it; the collider limits
+are usually quoted ten to fifty times tighter (general knowledge, to verify; "which bound applies" is her open
+item). So this one can miss, and may already.
+
+C. *Is her loop's energy per length the strong force's?* If yes, the proton's ring is about one fermi long, a
+round ring of it has a radius of 0.13 to 0.17 fm, five to six times smaller than measured, and a spinning closed
+ring gives a slope of 0.36 to 0.45 where both measured families give 0.9 (an open strand with ends gives 0.72 to
+0.91). Two misses for "the proton is a closed ring at the strong force's tension"; the published picture, three
+quarks joined by open strands, fits. If no, her energy per length is at most 0.178 GeV per fermi, a fifth of the
+strong force's, and is a new constant.
+
+**What turns B into a registered prediction: two decisions of hers.** (1) Does the count mean length? Her
+29 October decision says a long diagonal counts one whatever its length, which lets a ring be longer than its
+count and removes the prediction. (2) Is the proton a closed ring, or an open strand with a third at each end?
+Then the bound is read from its source and B is written into `PREREGISTRATION.md` with her prediction in her words.
+
+**Asked of her.** The two decisions above; and whether the one-sided skin, no time inside, and X as a plane with
+one curled direction go into `HYPOTHESIS.md` and the artifact now.
+
+## 20 November 2026, late night: is a loop's length its mass, or are there other kinds of energy? (hers, verbatim, chat)
+
+Her words, verbatim (quoting a row of our table, then):
+
+> A loop's length is its mass	A string of fixed tension, the law you already use for the store's bond -> this works as long as a string of much more tension (like a full twist on a single lengthface diagonal ) can have greater mass? or shoudl we think about it like there are other types of energy that are counted for some types of particles? does a particle with a twist have more mass that one without? or do we just say that there are more smaller diagonal count particles in a same size area?
+
+Ours, the same night (rule 21). Run: `sandbox/tension_look.py`, arithmetic, three expectations written first, all
+held (the LOG line of 20 November, late night). Ours, unverified, unless marked.
+
+**The short answer: all three of her options are published physics, and they are three different laws.**
+
+*What checks out.*
+
+1. **Strings of more tension hold more mass per length.** Published (general knowledge, to verify): the tension
+   depends on what the string carries. Her record already has two: a looped box diagonal at 0.0695 MeV per link
+   and the store's bond at 331.6 MeV per link, 4,769 times more. The second was set from the proton, not derived.
+2. **Other kinds of energy are counted.** Published: a particle's mass is all the energy inside it; the proton's
+   is motion, gluon field, a quantum term and a little quark mass (this evening's source). It is also her own
+   decision (30 October: mass has parts; 5 November: twist, bending, repulsion, width, each with its constant).
+3. **More, smaller things in the same area.** Published law (general knowledge, to verify): holding a thing
+   inside a small size costs energy in proportion to one over the size. Three things held inside the proton's
+   measured radius cost 704 MeV, three quarters of the proton. So "smaller is heavier" is the published reason
+   for most of the proton's mass, and it is her "most dense".
+
+The first and third pull opposite ways. A string says longer is heavier. Squeezing and twisting say shorter is
+heavier (her ruler intuition of 4 November; the rod rule in her energies brief). Real particles sit where the two
+balance. *Nearest published model:* the bag model of the proton (1974; named from memory, to verify): one term
+that grows with size against one that falls with it, giving a natural size and a mass.
+
+**Does a particle with a twist weigh more than one without?** *Measured:* a little, and not always in the same
+direction. The charged pion is heavier than the neutral one by 27 diagonals in 819; the neutron is heavier than
+the proton by 7.6 in 5,508; the Δ⁰ is heavier than the Δ⁺⁺ by 17 in 7,233. The electric energy of one whole
+charge at the proton's size is 1.7 MeV, 10 diagonals, which is the size of all three. So twist is a part in a
+hundred to a part in a thousand of these masses, not the main part.
+
+*What does not check out, each with its kind.*
+
+1. **"A loop's length is its mass" cannot be the whole rule** (a measurement). At the proton's size most of the
+   mass is the squeezing kind, which falls as the size grows. The count divides a total by one unit, so it is a
+   count of energy, not of length (a convention, free; but then decision 1 of tonight is answered "no", and
+   candidate B's "the electron's loop is 1/1,836 of the proton's" no longer follows from the count alone).
+2. **A whole twist on a loop of 10⁻¹⁸ m** (a measurement, if the twist is spread round the triangle; Coulomb's law
+   is measured down to that size). At the candidate size of the electron's triangle the published electric
+   energy is 1,500 to 2,600 MeV, three to five thousand electron masses, and the cost of holding anything in so
+   small a size is 200 to 360 GeV. A charged loop that small weighs 0.511 MeV only if nearly all of that cancels.
+   The published theory avoids it by giving the electron no size; every published model that builds the electron
+   from parts (the rishon and helon family in her relations sheet) has this difficulty. The size at which one
+   charge's electric energy equals the electron's whole mass is 2.8 × 10⁻¹⁵ m, larger than a proton, and
+   scattering rules that out.
+
+**Where this leaves "toward a prediction" (ours).** Take mass as a sum of kinds, each with a published form: a
+string term (tension × length), a squeezing term (one over size), an electric term (twist squared over size), a
+spin term. Her picture's job is then to supply the sizes and say which terms a given loop has. The cheapest
+decisive question is the electron: what cancels the electric and squeezing energy of a small charged loop. Until
+that has an answer, the electron's size is where the picture meets a measurement.
+
+**Asked of her.** (1) Is the count a length or an amount of energy? (2) Is the electron's twist spread round its
+triangle, or is the triangle not a size in space at all (a relationship, as step 3's "tiny loops that are only a
+relationship, no points" says)?
+
+## 20 November 2026, last message of the night: what the electron might be; the proton is a closed ring; put the decisions in (hers, verbatim, chat)
+
+Her words, verbatim (each paragraph quotes a phrase of our answers above, then her reply):
+
+> The published electron has no color and no parts found. -> what might the elsectron be in our toy then?
+>
+> Scattering finds no size for the electron. Your rules sheet adopted "about 10⁻¹⁸ m" as the bound, and this sits right on it. Collider limits are usually quoted ten to fifty times tighter (from memory, to verify), so this may already be a miss. -> could a twist and spin cancel out 3 diagonals of mass? or electrons caould be a form of photons which have no mass and are cube diagnals? 4 cube diagonals locked in as a particle?
+>
+> I think  proton is a closed ring. the hypothesis does not allow an open strand. so I am interested in learning more about this idea if it fits better. An open strand with a third at each end fits both. but i imagine it has other implications? is this an alternitive that also might explain the inconsisstency?: That lets a ring be longer than its count and removes the prediction.
+>
+> put tonight's decisions into HYPOTHESIS.md and the artifact? They are: one-sided skin; no time inside; X a plane with one curled direction. yes, I thought this stuff was in.
+
+Ours, the same night (rule 21). Run: `sandbox/electron_candidates_look.py`, exact arithmetic and divisions, six
+expectations written first, all held (the LOG line of 20 November, last of the night). Ours, unverified, unless
+marked exact, measured or published.
+
+**Done at her word.** `HYPOTHESIS.md`: step 1 carries the one-sided skin, the plane with one curled direction and
+no time inside; a dated section "Her decisions of 20 November 2026" lists the day's decisions; the definitions of
+X and of Time carry her words. `WITHDRAWN.md`: her "2 curled directions" with its replacement. The artifact
+"A Phase-Changing Reality" republished with the same three decisions (version 158). On "I thought this stuff was
+in": two of the three were, in substance ("X has order but not time"; the curled slab with two open directions);
+the one-sided skin is new today. Not committed; committing waits on her word.
+
+**What might the electron be in the toy? Three candidates; none passes yet.**
+
+1. *The triangle of three thirds* (the standing unit). It passes her charge and spin tests. It faces two things:
+   in the published dictionary three thirds closed together are a three-quark particle; and at its size the
+   electric and squeezing energies are thousands of times 0.511 MeV.
+2. *Hers tonight: four cube diagonals locked as a particle, a form of light.*
+   - Exact: a cube diagonal joins black to white, so a closed loop of them has an even number of steps. None has
+     three. Four is the smallest: 96 through a point, 48 flat (rhombi) and 48 not flat (the four directions of a
+     tetrahedron, which add to nothing).
+   - Published support: light that is locked in place has mass, its energy (general knowledge, to verify); it is
+     how the proton gets most of its mass.
+   - Faces, her own rules (a theory's structure, hers to change): charge is twist in thirds on box diagonals, and
+     cube diagonals carry light, so this loop has charge 0.
+   - Faces, a measurement: one wavelength of light round a loop weighs 0.511 MeV only if the loop is
+     2.4 × 10⁻¹² m long. As four cube diagonals that makes the lattice's step 3.5 × 10⁻¹³ m, hundreds of protons
+     wide. And under her rule that light's repeat is at least four steps, a measured photon of 1 TeV needs a step
+     of at most 1.8 × 10⁻¹⁹ m, and the hardest measured (about 1.4 PeV, to verify) at most 1.3 × 10⁻²² m. So the
+     electron cannot be the shortest light there is.
+   - Near two withdrawn lines, said once: "the electron's −1 as a bound photon half-curl" and "charge = twist +
+     photons held" (`WITHDRAWN.md`, section 4; killed by the neutron, the charged pion and the photon). Hers
+     tonight is different (the whole particle is locked light); whether she means to reopen those is hers.
+3. *What the published charge table says, read on the cube's own steps* (ours, from textbook facts, to verify;
+   Tong 2017 states that the low-energy group is the one this table belongs to).
+   - Exact: an edge's shadow on a face diagonal is one half of it; on a cube diagonal, one third. A square's
+     diagonal is two edges and a cube's is three. Halves in two dimensions, thirds only in three: her Update 156.
+   - With charge read as minus the shadow on the cube diagonal, and color class as the coordinate sum counted in
+     threes: one edge is the down quark (−⅓, colored); a face diagonal is the up quark (+⅔, colored); **one cube
+     diagonal is the electron (−1, no color)**; two face diagonals and an edge adding to the opposite cube
+     diagonal are the proton (+1); the neutron's three add to nothing (0). All five charges come out as measured.
+   - So in the published table the colorless whole charge *is* the cube-diagonal direction. Her "electrons could
+     be cube diagonals" lands on the published structure, and it gives a reason for her "thirds meet light only
+     at whole values": light runs on the cube diagonals, and a third is one edge's share of one.
+   - Faces: this is a table of charges, not of places in space (a theory's structure). The triangle's sides
+     (1, 1, −2) have no shadow at all on their cube diagonal: in this table they carry color and no charge. And
+     it puts the thirds with the cube diagonal, which is a withdrawn line: "thirds on the cube body diagonals
+     (U97, U99) → thirds on the 1 × 1 × 2 box diagonals; the body diagonals carry light" (`WITHDRAWN.md`,
+     section 4). **Asked once, as a question:** does she want that line looked at again in this form, the third
+     as an edge's shadow on the cube diagonal?
+
+**"Could a twist and spin cancel out 3 diagonals of mass?"** *Checks out in kind (measured).* Spin arrangement
+removes far more than three: the rho and the charged pion hold the same thirds; with spins aligned 4,551
+diagonals, opposed 819. *Nearest published model for a small thing weighing almost nothing:* handedness. A
+particle whose hand cannot flip weighs nothing whatever is inside it; its mass is how readily its hand flips;
+the published electron's mass is exactly that (general knowledge, to verify). In her words: a loop whose hand
+cannot flip weighs nothing. That is the published form of "twist and spin cancel the mass", and it is the known
+way out of the size problem for an electron with parts. *Kept apart:* "a ½ spin cancels mass when there is no
+twist" stays withdrawn (killed by the neutron); hers tonight has twist present.
+
+**The proton is a closed ring (hers; the hypothesis does not allow an open strand).**
+
+*The open strand, as published.* The strong force's energy sits in a narrow strand between thirds, about 0.9 GeV
+for every fermi of strand. A strand can end only on a third. Pulled far enough it snaps by making a new pair of
+ends, which is why no lone third has ever been seen. A proton is three thirds joined by strands (the review,
+sections 15.1, 15.5). Closed strands with no ends are predicted too, with no charge, the lightest near 1,700 MeV
+(the review, section 15.4.2, read), and are not established.
+
+*Its other implications for her picture.* It agrees with her pairs rule (ends are always made two at a time). It
+gives the straight lines of spin against mass squared with the measured slope. It would need "a particle is a
+closed loop" widened to "or a strand that ends on thirds".
+
+*The bridge (exact; the reading ours).* A closed ring carrying three unit sources of something counted in threes
+always has one arc carrying nothing. So a closed ring with three thirds on it *is* an open strand with a silent
+arc. Her ring stays closed and behaves as the open strand: its length is the proton's mass over the tension,
+0.84 to 1.05 fm; from its middle to an end is 0.42 to 0.53 fm, 1.6 to 2.0 times under the measured 0.84 fm,
+where the round ring was 5.0 to 6.3 times under; and it takes the open strand's slope (0.72 to 0.91, measured
+0.89 to 0.92). That color is counted in threes along a strand is general knowledge, to verify.
+
+*"Is the long diagonal an alternative that also explains the inconsistency?"* It can: if most of the proton's
+5,508 diagonals are long ones, twelve to fifteen links each in place of 2.45, a round ring reaches the measured
+radius. What it costs (a measurement, to verify): for the strong force's strands the energy is in proportion to
+the length, and "a long diagonal counts one whatever its length" says the opposite; and it adds a length nothing
+fixes, so it removes the inconsistency and the prediction together (rule 13). The silent arc explains the same
+thing with nothing added. Ours; hers to choose.
+
+**One more measurement on the lattice's step.** Her light rule and the photons measured put the step at or below
+1.8 × 10⁻¹⁹ m (1 TeV) or 1.3 × 10⁻²² m (1.4 PeV, to verify). A ring of 5,508 box diagonals is then at most 2.4 fm
+or 0.0017 fm long, against the proton's rim of 5.28 fm. So the count cannot be the proton's length in lattice
+steps: the same answer as the two looks before, by a third route. The count is energy.
+
+**Asked of her.** (1) Which electron: the triangle, locked light on four cube diagonals, or the cube diagonal of
+the published table (with the withdrawn-line question)? (2) The closed ring with a silent arc, or long diagonals?
+(3) Whether "a loop whose hand cannot flip weighs nothing" is a rule she wants.
+
+*A slip of the look, noted:* in Part 1 the last figure on the four-step line counts loops with four different
+steps, which is all 96, and its label "a tetrahedron's" is wrong; the 48 not-flat loops are the tetrahedron's.
+
+## 20 November 2026, the bag model and four decisions (hers, verbatim, chat)
+
+Her words, verbatim (each line quotes a phrase of our answer above, then her reply):
+
+> The bag model of the proton (1974, from memory, to verify): one term that grows with size against one that falls with it, giving a natural size and a mass. -> read and proceed.
+>
+> The silent arc gets the same result with nothing added.-> great let's lock this in and drop the long diagonal idea.
+>
+> the count is energy, not length. Yes
+>
+> the cube diagonal of the published table? The third means looking again at the withdrawn line. -> lets have this as working number.
+
+Ours, the same session (rule 21; her answers read back as one set, rule 20).
+
+**Her four answers, as one set.** (1) The bag model: read it and carry on. (2) The proton is a closed ring with a
+silent arc, locked in; the long diagonal idea is dropped. (3) The count is energy, not length. (4) The cube
+diagonal of the published charge table is the working assumption for the electron ("working number" read as the
+working one of the three; hers to correct). Recorded in `HYPOTHESIS.md` (her decisions of 20 November; the
+definitions of mass and the proton), `WITHDRAWN.md` (the long diagonal; the count as a length; a note on the
+reopened line) and the rules sheet. The working assumption does not change the standing unit or the built rules
+until its named exact test has run (rule 20): the four test particles' charge and spin under the new reading.
+The charge half ran tonight and passes. The spin half cannot run: there is no rule yet for the spin of a cube
+diagonal.
+
+**The bag model, read.** Source: K. Johnson, "The M.I.T. bag model", Acta Physica Polonica B6 (1975) 865, his
+lectures at the Cracow School, read from the scanned pages (865, 866, 882, 885, 888 to 890). The 1974 papers
+themselves were read as abstracts only (by an assistant agent).
+
+*What it says, in plain words.*
+- A particle is a small region, the bag, inside which the quark and gluon fields live; outside there are none.
+  His opening (p. 866) is close to her own picture of space: "what we have been accustomed to think of as
+  'empty' space" may be a medium whose local disturbance "will be a 'particle'".
+- One formula for every light particle's mass (p. 888, Eq. 4.25; p. 890): a term for the motion of the things
+  held in, which falls as one over the size; a term B times the volume, which grows with size; a quantum term
+  that falls with size; and a spin term. The size is where the total is least.
+- Four constants fitted to four masses (the Δ, the proton, the ω, the Ω⁻); "a total of nine masses" then follow,
+  "in generally quite good agreement" (p. 890, Table I).
+- Its own misses: the pion comes out at 280 MeV against 139 measured; the proton's charge radius at 0.73 fm
+  against 0.88 ± 0.03 then (0.8409 now): "our proton is somewhat too small".
+- Two statements that bear on tonight's questions. The spin term "is negative only for the nucleon" (p. 888):
+  spin arrangement takes mass away from the proton and adds it to the Δ. And the color-electric energy of the
+  thirds vanishes in a colorless particle (p. 885): what is left of the color force is the spin term.
+
+*Reproduced before extending (rule 2).* `sandbox/bag_look.py`, three expectations written first, all held: with
+the lecture's constants the formula gives the proton's and the Δ's mass, radius and all four terms to within
+0.6 % of his Table I. One constant (his μ) was not on a page read; it was backed out of one table entry, and
+the Δ row is then the check.
+
+*What it gives her picture (ours).*
+1. **The count has kinds, with both signs.** In her unit the proton's 5,474 diagonals (his fit) are +7,169 of
+   held-in motion, −2,155 of the quantum term, +1,369 of volume and −908 of spin; the Δ's 7,204 are +6,542,
+   −1,967, +1,801 and +828. "Mass has parts" (hers, 30 October) with published forms and sizes. "Could a twist
+   and spin cancel mass": yes, 908 diagonals of the proton.
+2. **A quarter of every light particle's count is volume** (exact in the model: at the best size the volume term
+   is a quarter of the mass). So the count is a particle's volume times one constant: 1,351 diagonals for every
+   cubic fermi of bag (4 B = 230 MeV per cubic fermi). The count is energy, and in the published model the
+   energy is in proportion to the volume kept open. Not a length; a volume.
+3. **Her toy already has the form of B.** Term 3, the curling cost, is an energy for every point of a patch that
+   differs from open space. That is what B is. *What does not fit yet (a theory's structure):* her open space
+   sits at λ of 1 or just below, where that cost is zero or negative, and a bag needs a positive cost for the
+   volume. So either the curl a particle keeps open is a kind that costs (as inside X), or the volume term has
+   another source. Asked of her.
+4. **Why the electron can be small.** In the bag model only colored things need a bag. Under her working
+   assumption the electron is the colorless whole (one cube diagonal), so it keeps no patch open and has no size
+   from B. Its 0.511 MeV must then come from somewhere else; the published place is the flip of its hand.
+
+*Nearest published model for the whole of this:* the bag for a particle at rest, and the same bag stretched long
+and thin for a spinning one, which is the strand (the 1974 paper's abstract names "infinitely rising" lines of
+spin against mass; read as an abstract only).
+
+**Next, named, not run.** A design brief before any build (rule 20): "the bag in the toy", with its current
+definitions at the head; its exact test is whether a patch of tight curl in open space has an energy that goes
+as its number of points plus a term for its edge (T54's completed-patch energies are already in the record and
+are the first numbers to read).
+
+**Asked of her.** (1) What, in her picture, costs energy for every bit of volume a colored third keeps open?
+(2) What is the spin of a cube diagonal (the rule the working assumption's test needs)?
+
+## 20 November 2026: the bag model's misses; the spin of a cube diagonal; "i need more help on this" (hers, verbatim, chat)
+
+Her words, verbatim (each paragraph quotes a phrase of our answer above, then her reply):
+
+> Its own misses. The pion comes out at 280 MeV against 139 measured. The proton's charge radius comes out at 0.73 fm against 0.84 measured today. -> has there been a response of correction here/?
+>
+> always great to replicate first.
+>
+> What is the spin of a cube diagonal? The working assumption's test needs that rule.-> the spin of a photon? 1?
+>
+> What, in your picture, costs energy for every bit of volume a colored third keeps open? i don't know i need more help on this
+
+Ours, the same day (rule 21). Read: abstracts of four papers and a search result (by an assistant agent; the
+reading note names them); the proton's lifetime limits from the Particle Data Group's table (read). Run:
+`sandbox/working_assumption_test.py`, two expectations written first, both held (the LOG line). Ours, unverified,
+unless marked exact, measured or published.
+
+**"Has there been a response or correction?" Yes, three (published; abstracts only).**
+1. *A cloud of pions outside the bag.* Thomas, Théberge and Miller (1980, 1981), "the cloudy bag model": a
+   symmetry of handedness requires a pion field coupled to the quarks at the bag's surface. With one free number,
+   the bag's radius (about 0.8 fm), "rms radii, magnetic moments ... and g_A" agree very well with experiment
+   (paraphrased), and about a third of the gap between the proton and the Δ comes from the pions. Brown and Rho's
+   "little bag" (1979) is the same idea with a much smaller bag.
+2. *The pion treated as the special particle it is.* Donoghue and Johnson (1980): a particle is not sitting at
+   one place, and correcting for that has "little effect on heavy states" but a large one for the pion; they work
+   outward from the limit in which handedness is an exact symmetry, where the pion weighs nothing.
+3. *Computed with no model.* Since 2008 the light particles' masses are computed directly from the strong
+   force's theory on a grid, and "agree completely with experiment" (Dürr and colleagues, Science 2008,
+   paraphrased). The bag is now a picture for understanding, not the method of record.
+Worth her eye: the pion's fix and the electron's lightness are the same published idea, handedness.
+
+**"The spin of a photon? 1?"** *Checks out* for a cube diagonal carrying light: by her standing rule, full spin
+on half a curl. *Does not check out* for the electron if the electron is that same diagonal with spin 1: the
+electron's measured spin is ½ (a measurement). Her own rule already separates them: half spin on a full curl, a
+particle. *Published:* spin is not in the charge table at all; every matter particle (electron, quarks) has spin
+½ and every carrier (light, gluons) has spin 1 (general knowledge, to verify), which is her rule. So the rule
+the test needed is hers already: **spin goes with the curl held, not with which diagonal: 1 for light on a cube
+diagonal, ½ for a particle that is one.**
+
+**The named test of the working assumption, run with that rule (exact).** Electron (−1, ½), neutron (0, ½),
+photon (0, 1), charged pion (+1, 0): all four pass in charge and in spin; so do the proton, the Δ⁻ and the
+positron. Under rule 20 the test has now run; whether the working assumption becomes the definition is hers.
+
+**What the test also shows (exact), and a measurement it runs into.**
+- The table cannot tell the electron from the Δ⁻: both are the vector (1, 1, 1). The difference is **one whole
+  step along the cube diagonal against three edge steps that add up to it.** That is the answer, in this
+  picture, to tonight's question of what makes −⅓, −⅓, −⅓ an electron in one case and a Δ⁻ in the other.
+- For the same reason the proton and the positron are the same vector. If three thirds on edges could merge into
+  one whole diagonal, a proton could turn into a positron and a pion. *Measured:* it does not, for longer than
+  2.4 × 10³⁴ years (the Particle Data Group's table, "N → e⁺π > 24000 (p)" in units of 10³⁰ years; the
+  Super-Kamiokande search of 2020, "No candidates have been found"). Kind: a measurement. So the picture needs
+  a rule: **three edge-thirds never, or almost never, become one whole diagonal.**
+- *Nearest published model:* the unified theories of 1974 (Georgi and Glashow; general knowledge, to verify),
+  in which the electron and three colors of a quark sit in one set and the proton does decay, slowly. Tong (read)
+  ties the charge table to exactly that family. It is the classic test of "the electron is three thirds", and
+  experiments are still running it. **This is a place her picture can say something an observation checks:**
+  "never" (protons live for ever) or "rarely" (a lifetime, which she would have to give a rule for).
+
+**"What costs energy for every bit of volume? I need more help."**
+
+*The published answer, plainly* (general knowledge, to verify; Johnson's p. 866 has the medium). Empty space is
+not empty; it is a settled, filled state. Colored things cannot live in it. A third has to push it out of a
+small region, and holding that region open costs a fixed energy for every bit of volume, as holding a bubble open
+under water costs the water's pressure times the bubble's size. The same push squeezes the force between two
+thirds into a narrow strand. So one fact about empty space gives both the bag and the strand.
+
+*That is her hypothesis in small.* Two arrangements of the same stuff; one is settled; a patch of the other
+costs energy for every point. Her toy measures exactly such a cost between X and open space.
+
+*Three places the cost could come from in her picture (ours), each with what the toy already says.*
+- **(C) The uncurl partner. Uses only her rules.** "No curl, no twist": a third must keep curl round it. "Curl
+  and uncurl total zero": every unit of curl needs a unit of uncurl. Exact, in the published model's own energy
+  (`TOY.md`, line 19): uncurl costs 4 a unit at every λ, where curl alone costs 4(λ − 1). So under her zero-total
+  rule each unit of curl a third keeps costs 4λ, which is 4 at λ = 1, not zero. If the curl is spread through the
+  patch, that is an energy in proportion to its volume. Nothing is added. What is not known: how much curl a
+  third keeps (hers), and the patch's edge.
+- **(D) Light's push.** Exact, this morning's look: light adds 0.11 to 0.24 of its coupling to the free energy
+  of every point of a curled region, at any λ; it pushes a curl open. A patch that keeps light out pays that for
+  every point. This is the closest to the published mechanism (the surrounding field pushed out). It is the
+  toy's built light, not her light.
+- **(A) The patch is a bit of X.** Then the cost is the curling cost, which her open space has at zero or below.
+  It would need λ above 1 in open space, a withdrawn line ("λ > 1 as a constant of our loop holding everywhere
+  in open space", `WITHDRAWN.md`, section 1). Said once.
+(C) and (D) can both be true; the brief "the bag in the toy" would price each on the same patch.
+
+**Asked of her.** (1) Three edge-thirds merging into one whole diagonal: never, or rarely? (2) With the test
+passed, does the working assumption become the definition of the unit, or stay working? (3) (C), (D) or both
+for the brief?
+
+## 20 November 2026: the table is a measuring tool; only box diagonals exist; both for the brief; "me and the toy are the same?" (hers, verbatim, chat)
+
+Her words, verbatim (each paragraph quotes phrases of our answer above, then her reply):
+
+> The artifact was not changed for these four decisions; say if you want them there too. -> yes update the artifact.
+>
+>  proton and the positron are the same thing in the table -> are there not multiple metrics that add up to mass. same charge sure, but i thought that was only part of the table. ... If three edge-thirds could merge into one whole diagonal, a proton could turn into a positron. It is measured not to, for longer than 2.4 × 10³⁴ years (read from the Particle Data Group's table).
+>
+> So the picture needs a rule: three edge-thirds never, or almost never, become one whole diagonal.
+>
+> I think edge thirds are a measurement tool, only the box diagonals exist. three edge cubes would also be a n alternate to cube diagonal, not box diagonal?
+>
+> the positron should look like the opposite of our wrking electron model, not a proton one.
+>
+> For the brief: the uncurl partner, light's push, or both?
+> I think both. when you say toys light not mine, i thought me and the toy are the same? or is the toy an incomplete representation of the hypothesis where we have identified how to mathematically represent a concept with a published approach or small adjustment to published approach
+
+Ours, the same day (rule 21). Run: `sandbox/table_as_ruler_look.py`, exact, five expectations written first, all
+held (the LOG line). Done at her word: the artifact republished with the four decisions (version 159);
+`HYPOTHESIS.md` carries her refinement; the brief is written (`docs/design/bag_in_the_toy_2026-11-20.md`).
+
+**Her answers, as one set (rule 20).** The charge table is a measuring tool; only the box diagonals exist. The
+positron is the electron reversed. The brief prices both sources. The spin of light on a cube diagonal is 1.
+
+**"Are there not multiple metrics? Same charge sure, but I thought that was only part of the table."** She is
+right, and our wording is corrected. The table holds two labels only, charge and color. The proton and the
+positron agree in those two and differ in everything else (mass 938 against 0.511 MeV; three parts against one).
+What the sentence should have said: nothing in charge, color, spin or energy forbids a proton turning into a
+positron and a pion, yet it is measured not to happen in 2.4 × 10³⁴ years, so the published theory keeps one more
+count that does forbid it (how many triples of thirds there are; general knowledge, to verify). Her picture needs
+that count too. It is a count, not a new force.
+
+**"Edge thirds are a measurement tool, only the box diagonals exist. Three cube edges would be an alternate to
+the cube diagonal, not the box diagonal?"** *Checks out (exact).* Three edges, one of each direction, add to a
+cube diagonal and never to a box diagonal. A box diagonal is four edge steps: a cube diagonal and one more edge.
+*And the table can only be a ruler (exact):*
+- no set of box diagonals adds up to one cube diagonal (a box diagonal joins like colors, a cube diagonal unlike);
+- one box diagonal's shadow on the cube diagonal is 0, ⅔ or 4/3 of it, never ⅓;
+- a closed loop has no shadow at all, so read as places the electron's triangle would have charge 0.
+So the table's edges and diagonals are marks on a ruler for charge and color. They are not her lattice's edges
+and diagonals, and her thirds stay where she put them, as twist on box diagonals. The withdrawn line (thirds on
+the cube diagonals) stays withdrawn; the note added to it this afternoon is narrowed to "as a ruler only".
+*What this leaves open, plainly:* the working assumption says what the electron measures as (one whole charge,
+no color). It no longer says what the electron is as a thing in space. That is still the standing unit, the
+triangle of three thirds, with the size question of tonight attached.
+
+**"The positron should look like the opposite of our working electron model, not a proton one."** *Checks out
+(exact).* In the table the positron is exactly the electron reversed. The proton only shares its two labels.
+
+**"Me and the toy are the same?"** No: her second reading is the right one. The toy is an incomplete
+representation of the hypothesis, built one term at a time, each term a published piece of mathematics or a small
+change to one, standing in for one of her concepts (`TOY.md` lists each with its source). Where it stands:
+- *hers as built:* curl (a square above flat); twist in halves on the sheet and thirds on box diagonals with her
+  charge and spin rules; the pair moves and the Klein store; her kind rule; option B's clock;
+- *a published stand-in for hers:* X as the tube or the slab; the burp as the tube opening; the store's bond in
+  't Hooft's form; **light as term 10, the published lattice light on the links, where hers runs on the cube
+  diagonals and only in three dimensions**; the lengths as the carrier of gravity (ours from her decisions);
+- *not in the toy at all yet:* her light as a field; the rod and the whirlpools; one-sided X; anything in MeV or
+  meters beyond the two calibrations.
+So "the toy's light, not hers" means: that look says what the published light does on her wirings. It carries
+over to her picture only where her light and the published one agree, which nobody has shown.
+
+**Asked of her.** The brief's five choices (section 6), above all her prediction: does a patch's cost go as its
+points, its edge, or both? And still open from this morning: three thirds becoming one whole, never or rarely.
+
+## 20 November 2026: the extra count is important; can the triangle be read so that it has charge; "explain this more clearly"; commit (hers, verbatim, chat)
+
+Her words, verbatim (each paragraph quotes a phrase of our answer above, then her reply):
+
+> So the published theory keeps one more count that forbids it (from memory, to verify), and your picture needs that count too. It is a count, not a new force. ->important, thanks
+>
+>  Read as places, your electron's triangle would have charge 0. ->well can u read it as something else as it has charge?
+>
+> Your prediction, before anything runs: does a patch's cost go as its points, its edge, or both? -> explain this more clearly.
+>
+> yes commit
+
+Ours, the same day (rule 21).
+
+**The extra count, now sourced.** The Particle Data Group's quark-model review, section 15.2 (read): "Quarks have
+the additive baryon number 1/3, antiquarks –1/3"; mesons have 0 (section 15.3), three-quark particles 1
+(section 15.5). In plain words: count a third of a unit for every quark and take a third away for every
+antiquark. A proton counts 1, a pion 0. The electron and the positron count 0 (general knowledge, to verify), so
+a proton cannot become a positron while the count is kept. *For her picture:* her pairs rule keeps net twist,
+which is charge, and charge alone does not tell a proton from a positron (both +1). The count that does is "how
+many thirds a particle is made of, antimatter's taken away". It exists in her picture only if the electron
+counts as no thirds, which is what today's working assumption says and what the standing unit (three thirds)
+does not. That is the sharpest form of the electron question so far.
+
+**"Can you read it as something else, as it has charge?" Yes: by her own standing rule, and that is the right
+reading.** Charge is the twist the diagonals carry, counted round the loop: −⅓ on each of three sides, −1 in
+all. That is a count of *turning*, not of *where the loop ends up*. A closed loop always ends where it began, so
+its shadow is nothing; but a ribbon going once round a closed loop can turn a whole number of times, and that
+number is what a closed loop can carry (published: her relations sheet's P1, the one relation between a ribbon's
+twist and its coil; the triangle is flat, so it has no coil and its twist is whole). *Exact, already built:* the
+toy's electron is this triangle and comes out with charge −1 and spin ½ (`tests/test_twist.py`); its mirror
+image is the positron, which is her "the positron is the electron reversed". *Exact, this afternoon's look:* the
+path itself turns a third of a turn at each of the triangle's three corners, a whole turn in all. So the two
+readings do not compete: read as turning, the triangle has charge −1; read as places it has none, which is why
+the table is a ruler. The ruler's total for it is the same −1 with no color.
+
+**The prediction question, explained.** A patch is a small block of space arranged differently from the open
+space round it; a third keeps one round itself. Holding it there costs energy. The question is what the cost
+grows with as the patch gets bigger.
+- *Its points:* the cost is for the inside. Every point inside costs the same. Like the water you must push
+  aside to hold a bubble open: twice the inside, twice the cost.
+- *Its edge:* the cost is for the wall only. Only the points on the boundary cost. Like a soap film: the inside
+  is free and you pay for the skin.
+- *Both:* some of each.
+Why it matters: the published bag is the first kind. If the toy's patch is the second kind, the bag picture does
+not carry over and a different law sets a particle's size. How the test tells them apart: make the block twice
+as wide. Its inside goes up eight times (8, 64, 512 points for widths 2, 4, 8) and its boundary about four times
+(roughly 24, 96, 384). So a cost that goes up eight times is the inside kind, four times the wall kind, and in
+between is both. Why she is asked first: so that the result cannot be bent to fit afterwards (rule 4). "No
+prediction" is an acceptable answer and would be recorded as that.
+
+**Committed at her word** (the commit's hash gives the order; the full suite ran first).

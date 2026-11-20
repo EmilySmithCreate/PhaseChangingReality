@@ -45,7 +45,9 @@ combinatorial quantum gravity.*
   MeV is the measured total only; the parts need not add like one unit, and spin takes mass away where the twists cancel
   (`twist_curl_relations_2026-10-30.md`, §5). **A long diagonal** (hers, 29 October) is a curl held along one untwisted diagonal longer than 1 × 1 × 2, such
   as a 1 × 1 × 4 (√18): her gluon as a lattice object, mass and curl with no twist, charge or coil. **Decided (hers, 29 October, Update 148):** it counts
-  one of mass, not its length (`sandbox/long_diagonal_mass.py` has both ladders).
+  one of mass, not its length (`sandbox/long_diagonal_mass.py` has both ladders). **Dropped (hers, 20 November
+  2026):** the long diagonal idea; the count is energy, not length; the proton is a closed ring with a silent arc
+  (`HYPOTHESIS.md`, her decisions of 20 November; `WITHDRAWN.md`, section 4).
 - **The unit** (hers): the closed loop of three white thirds (−⅓, −⅓, −⅓), net twist −1, is the electron: charge −1,
   spin ½, the smallest charged mass. (Exact: 0.511 MeV ÷ 3 = 0.170 MeV per looped diagonal; proton 5,508 diagonals,
   neutron 5,516, charged pion 819, muon 621.) **Open (hers, 29 October):** the electron may hold more than three
