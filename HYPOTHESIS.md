@@ -30,7 +30,15 @@ its own dimensions, curled where ours are open.
 
 X was stable for now, not for ever. It is a curled slab of tightly lined-up dark matter: many one-sided loops of
 the same handedness, wound into a closed two-dimensional sheet of squares. A closed sheet of squares with four
-links at every point is a torus, never a sphere (exact), so the slab is a doughnut. Through the doughnut's hole
+links at every point is a torus, never a sphere (exact), so the slab is a doughnut. *Decided 20 November 2026
+("the skin itself is the strips - yes"): the sheet itself is made of the one-sided loops, so it is one-sided and
+has no inside ("cannot go inside the doughnut. nothing in there"). Exact: a closed sheet of squares with four
+links at every point is a torus or, one-sided, its one-sided relative (the Klein bottle), and the one-sided one
+is two Möbius strips joined along their single edges, ring to ring. X is a plane: two open directions and one
+curled, the Möbius strips lined up alike (her words of the same day; her "2 curled directions" of that afternoon
+withdrawn by her). There is no time inside the black hole, at least in the inner layers, only sweeps; time is
+part of three-dimensional spacetime. "Doughnut" stays her word for the shape; where the rod runs on a one-sided
+sheet is open, hers to say. Wording ours, hers to confirm.* Through the doughnut's hole
 runs the rod, three-dimensional, where dark matter still moves, spiralling in from all sides as one continuous
 line, the two hands turning opposite ways. In the doughnut twist and curl are set and only dark matter and
 gravity move; matter and photons cannot get through it. The whirlpool region outside the doughnut tapers: its stacked rings get smaller
@@ -56,8 +64,11 @@ stand-ins and end states, not stages of the change.
 Curl is continuous, from −1 to 1, its two signs matter and antimatter at equal size. Twist is discrete: thirds,
 which combine into a whole twist across several diagonals and meet light only at whole values, and halves,
 which make one-sided matter, dark matter, the building blocks of the Klein bottle. The Klein bottle stores more
-by combining two same-direction twists into one twist and one curl of length 1. Only a full curl, a loop,
-stores energy stably.
+by joining two same-direction half twists into one whole twist on one loop over two diagonals (her choice of
+6 November: n = 2, L = 2√2). Only a full curl, a loop, stores energy stably. *Reworded 11 November 2026: the
+3 November wording "one twist and one curl of length 1" struck at her word ("this seems wrong as we have talked
+about curls with different diameter lengths"); the new wording is ours from her 6 November choice and is hers to
+confirm.*
 
 ### 2. Energy arrives, and the curl gives way: the burp.
 
@@ -106,7 +117,11 @@ light leaves instead.
 A particle is a closed loop of twisted diagonals: matter twist in signed thirds on the box diagonals, dark
 twist in signed halves on the face diagonals, the sign the colour of the diagonal. What is whole is the loop's
 net twist, a whole number of thirds summed round the loop; charge needs two sides and is carried only on
-thirds. The loop's coil is a shape, not a charge. Mass counts the looped diagonals, twisted or not. Spin and
+thirds. The loop's coil is a shape, not a charge. Mass has parts (twist, spin, charge, loop) in their own units, and how
+they combine is open; the count of looped box diagonals, twisted or not, is one part, not the whole, and a face
+diagonal's mass per length is a separate quantity, hers to set (*brought up on 11 November 2026 at her word, "I
+thought we'd agreed mass is more complex than a count of loops", from her decisions of 29 October, Update 148,
+and 4 November; it read "Mass counts the looped diagonals, twisted or not"*). Spin and
 curl are precise: full spin on half a curl, the photon; half spin on a full curl, matter; spin needs twist
 present, so the neutrino, whose twists cancel, spins. The electron, the neutron, the photon and the charged
 pion all come out with their measured charge and spin. The proton is a large closed ring of about 5,500
@@ -127,8 +142,12 @@ In each daughter, what the handedness pull of the shell held back from convertin
 cost, stored by the force of the other pole of the curled slab. In the toy, small knots of fixed energy, made
 while the new space is still hot enough to make flaws, then fixed.
 
-Dark matter and dark antimatter are the face-diagonal strands: a one-sided loop of surplus curl, a flaw left
-when space opened, and its mirror image. Charge needs two sides and rides only on thirds, so dark matter carries
+Dark matter and dark antimatter are the face-diagonal strands: a one-sided loop of surplus curl holding a half
+twist, and its mirror image, the same loop in the other colour. It is a store of energy and the building block
+of the Klein store; inside X every kind of energy becomes it (step 2). The loops left over when space opened are
+one place it is found, not what it is (*reworded 11 November 2026 at her word: "why is dark matter antimatter
+only flaw? It is also a store of energy"; it read "a flaw left when space opened, and its mirror image"; wording
+ours, hers to confirm*). Charge needs two sides and rides only on thirds, so dark matter carries
 none; it meets gravity and not light. The neutrino is two-sided, two half-twist loops of opposite hand. Whether
 the toy's scrap is this dark matter is open.
 
@@ -260,6 +279,54 @@ twist and spin under the rules, and the simulation plays out all the options in 
   of freedom, as a point moving across a plane represents them; a representation, not the thing (the withdrawn
   reading of the 2D phase as a flat sheet stays withdrawn). A statement of the claim's status, not a definition.
 
+### Her decisions of 20 November 2026 (hers; verbatim in the notebook; the first three folded into step 1 and the definitions the same night at her word, "yes, I thought this stuff was in")
+
+- **The skin itself is the strips.** The closed sheet is one-sided: no inside, nothing in there; only dark
+  matter, pulled to the plane by gravity, storing its bond energy. *Exact:* a surface made of Möbius strips is
+  one-sided; a closed one-sided sheet of squares is two Möbius strips joined ring to ring (the look of
+  20 November), which is step 2's reflection seam holding two rings. *Open, hers:* where the rod runs on a
+  one-sided sheet.
+- **No time inside the black hole, at least in the inner layers, only sweeps.** Time is part of
+  three-dimensional spacetime; when matter is not moving through space there is no time. (Her answer to the
+  open point on time in the doughnut.) *Open, hers:* where, going outward, time begins.
+- **X is a plane: two open directions and one curled**, all the Möbius strips lined up in a tessellation with
+  their one-sidedness oriented together. Her "2 curled directions" of the same afternoon is withdrawn by her.
+  *Exact (a look, the reading of her words as a gluing ours):* with the curl glued one-sidedly no direction is
+  left open to a loop, which is what two curled directions do, and the surplus squares then sit on lines, not on
+  every point.
+- **The stores are all there is there:** "these 1 twist 1 curl structures are all there is, and they either are
+  or are not."
+- **One box diagonal closed on itself is a whole curl**, not a third. **The loop is diagonals, not links:**
+  links are a description that helps the mathematics; only curl and twist are fundamental.
+- **Face diagonals are dark matter:** a half twist, closing with one side; only when two of the same direction
+  bond is there the one-twist, one-curl store that can release.
+- **The proton is a closed ring;** the hypothesis does not allow an open strand. **Locked in the same night
+  ("great let's lock this in"): a closed ring with a silent arc.** *Exact:* a ring carrying three thirds of
+  something counted in threes always has one arc carrying nothing, so the closed ring behaves as the published
+  open strand. **The long diagonal idea is dropped** (her gluon as a curl on one long untwisted diagonal that
+  counts one whatever its length; `WITHDRAWN.md`, section 4).
+- **The count is energy, not length** ("Yes"). A count of diagonals is a measured mass over the unit; it says
+  how much energy a particle holds, not how long its loop is.
+- **Working assumption, not yet a definition** ("lets have this as working number"): the electron is the cube
+  diagonal of the published charge table. In that table, read on the cube's own steps, a third is one edge's
+  shadow on a cube diagonal, one cube diagonal is a whole charge with no color (the electron), a face diagonal
+  carries two thirds, and the triangle's sides carry none. *Exact:* an edge's shadow on a cube diagonal is ⅓
+  and on a face diagonal ½; the five charges (down, up, electron, proton, neutron) come out as measured. This
+  looks again at a withdrawn line (thirds on the cube body diagonals) in this one form. The standing unit (the
+  loop of three thirds on box diagonals) and the built rules are unchanged until the named exact test has run:
+  the four test particles' charge **and spin** under this reading; the charge half has run and passes, and the
+  spin half has no rule yet. **Refined by her the same day:** "I think edge thirds are a measurement tool, only
+  the box diagonals exist"; and the spin of light on a cube diagonal is 1 (her standing rule gives ½ for a
+  particle). So the table is a ruler for charge and color, not a map of things in space; with spin read by her
+  standing rule the four test particles pass in charge and spin (exact). *Exact, why it can only be a ruler:*
+  no set of box diagonals adds up to one cube diagonal (box diagonals join like colors, a cube diagonal unlike),
+  a single box diagonal's shadow on the cube diagonal is 0, ⅔ or 4/3 and never ⅓, and a closed loop has no
+  shadow at all. What the electron is as a thing in space is therefore still the standing unit, measured by the
+  ruler as one whole charge with no color. The positron is the electron reversed (hers; exact in the table).
+- *Not decided that day, asked of her (notebook):* where a spinning black hole's turning is kept; whether "a
+  loop whose hand cannot flip weighs nothing" is a rule she wants; what, in her picture, costs energy for every
+  bit of volume a colored third keeps open (the published bag model's one constant).
+
 ### Her decisions of 7 November 2026 (hers; verbatim in the notebook)
 
 - **Option B for the clock**: each point's tick is tied to the lengths of its links, so clocks run slow where links
@@ -323,7 +390,9 @@ twist and spin under the rules, and the simulation plays out all the options in 
 - **X** (hers): a rod between two curled slabs of opposite hand (step 1). Its stand-in in the toy: the
   **curled slab**, 4 × L × L with six links, two directions open and one curled tight (Update 47, 58), and in
   two dimensions the **tube**, the 4 × L torus with one direction curled (paper 1). X may begin with one
-  direction already open (Update 39). *The toy's hot random phase is never X.*
+  direction already open (Update 39). *The toy's hot random phase is never X.* **20 November 2026 (hers):** "it
+  is a plane. 2 open directions, 1 curled"; the skin itself is the strips, so the sheet is one-sided with no
+  inside. The stand-in with the curl glued one-sidedly is a look only (20 November), not yet the stand-in.
 - **The burp** (hers): the sharp release when the curl gives way. In the toy: the tube waits with no memory,
   then opens in one change, giving off exactly the curling cost 4(λ − 1) per point; the push that starts it is
   12 units at every size (measured, paper 1). What the tube opens into is a tube re-glued six around, not a wide
@@ -367,7 +436,8 @@ twist and spin under the rules, and the simulation plays out all the options in 
 - **A particle** (hers): a closed loop of box diagonals, or several, with one curl of energy per loop.
 - **Mass** (hers, Update 148): counts the looped diagonals, twisted or not; a long diagonal (a curl held along
   one untwisted diagonal longer than 1 × 1 × 2, her gluon) counts one. Mass has parts (twist, spin, charge,
-  loop) in their own units; MeV is the measured total.
+  loop) in their own units; MeV is the measured total. **20 November 2026 (hers):** the count is energy, not
+  length; the long diagonal is dropped.
 - **The unit** (hers, Update 139): the closed loop of three white thirds (−⅓, −⅓, −⅓), net twist −1, no
   coil, is the electron: 0.511 MeV, charge −1, spin ½. Exact: one looped diagonal is then 0.170 MeV; proton
   5,508 diagonals, neutron 5,516, charged pion 819, muon 621. Open: whether the electron holds more than three.
@@ -380,7 +450,9 @@ twist and spin under the rules, and the simulation plays out all the options in 
 - **The coil** (hers, 29 October): the loop's writhe, a shape, not a charge and not a mass.
 - **Exact, the four test particles**: electron (−1, ½), neutron (0, ½), photon (0, 1), charged pion (1, 0) all
   pass under these rules (O166).
-- **The proton** (hers): a large closed ring of about 5,500 diagonals, charged and spinning.
+- **The proton** (hers): a large closed ring of about 5,500 diagonals, charged and spinning. **20 November 2026
+  (hers, locked in):** a closed ring with a silent arc; no open strand; the 5,500 is its energy in units, not
+  its length.
 - **The photon** (hers): half a curl with one unit of spin, moving along the body diagonals as a smooth spiral
   at one link per tick, costing nothing to pass; its energy is its curl per link, set by its wavelength
   (`graphity.twist.Photon`). Excitation is of the electron's orbit, the known science.
@@ -388,8 +460,10 @@ twist and spin under the rules, and the simulation plays out all the options in 
   photons closing an open diagonal make a matter and an antimatter loop; a black and a white twist meeting
   cancel, their curl leaving as photons. Pair creation and cancellation conserve net twist (built,
   `graphity.twist`).
-- **Dark matter** (hers): a one-sided loop of surplus curl on the face diagonals, a flaw left when space opened;
-  it meets gravity and not light; the heaviest particle. Exact: a loop is one-sided exactly when its total twist
+- **Dark matter** (hers): a one-sided loop of surplus curl on the face diagonals, holding a half twist; a store of
+  energy and the building block of the Klein store, also found as loops left over when space opened (11 November
+  2026, her word); it meets gravity and not light; the most dense particle (her correction of 11 November 2026: "most dense, not
+  heaviest"; it read "the heaviest particle"). Exact: a loop is one-sided exactly when its total twist
   is an odd number of halves, so no loop of thirds is one-sided; the cheapest one-sided loop costs 3/4, half the
   two-sided neutrino's 3/2.
 - **The neutrino** (hers): two-sided, two half-twist loops of opposite hand; not the dark matter.
@@ -426,7 +500,9 @@ twist and spin under the rules, and the simulation plays out all the options in 
 
 ### Time
 
-- (hers) Time exists because matter moves through open space; X has order but not time. Light moves one link
+- (hers) Time exists because matter moves through open space; X has order but not time. **20 November 2026
+  (hers):** there is no time inside the black hole, at least in the inner layers, only sweeps; time is part of
+  three-dimensional spacetime; when matter is not moving through space, no time. Light moves one link
   per tick; matter moves slower because its twists must manoeuvre. One speed for all flat space; flaws slow
   things down. The pace of the present is set by local conditions (fixed where steady, slower where matter sits
   or accelerates); relativity is the evidence, and no new model with relativity's time built in is wanted for
